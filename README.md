@@ -1,6 +1,6 @@
 # 基于腾讯云 COS + CSF + apiGetway 实现线上对比后下载结果
 
-## 已上线:[gsmf.fantansy.cn](gsmf.fantansy.cn)
+## 已上线:[gsmf.fantansy.cn](http://gsmf.fantansy.cn)
 
 ##我先解释一下腾讯云的这些名词
 	- COS：对象存储
