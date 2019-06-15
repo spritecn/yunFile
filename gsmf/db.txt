@@ -1,0 +1,2779 @@
+MCC|MNC|NetType|Organisation|Network|PPCIN|AbrevNetName
+901|15|GSM 1800|SITA OnAir Switzerland Sarl|ONAIR|OnAir|OnAir
+901|14|GSM 1800|AeroMobile AS|AeroMobile|AeroMobile|AeroMob
+901|12|GSM 900|Telenor Maritime AS|Telenor Maritime|Telenor Maritime|TelenorM
+901|12|GSM 1800|Telenor Maritime AS|Telenor Maritime|Telenor Maritime|TelenorM
+901|12|GSM 1900|Telenor Maritime AS|Telenor Maritime|Telenor Maritime|TelenorM
+901|12|3G 1800|Telenor Maritime AS|Telenor Maritime|Telenor Maritime|TelenorM
+901|12|3G 2100|Telenor Maritime AS|Telenor Maritime|Telenor Maritime|TelenorM
+901|12|LTE 800|Telenor Maritime AS|Telenor Maritime|Telenor Maritime|TelenorM
+901|12|LTE 1800|Telenor Maritime AS|Telenor Maritime|Telenor Maritime|TelenorM
+901|12|LTE 1900|Telenor Maritime AS|Telenor Maritime|Telenor Maritime|TelenorM
+901|46|GSM 900|Telecom26 AG|Telecom26|Telecom26|T26
+901|46|GSM 1800|Telecom26 AG|Telecom26|Telecom26|T26
+311|170|GSM 850|Tampnet AS |Tampnet|Tampnet|Tampnet
+242|99|LTE 800|Tampnet AS |Tampnet|Tampnet|Tampnet
+242|99|LTE 900|Tampnet AS |Tampnet|Tampnet|Tampnet
+242|99|LTE 1800|Tampnet AS |Tampnet|Tampnet|Tampnet
+901|11|GSM Satellite|Inmarsat Plc|Inmarsat Global|Inmarsat|INX
+901|50|MSS 2000|EchoStar Mobile Ltd|EchoStar Mobile Ltd|EchoStar Mobile|EML
+363|02|GSM 900|New Millennium Telecom Services NV|Digicel|AW Digicel|Digicel
+363|02|GSM 1800|New Millennium Telecom Services NV|Digicel|AW Digicel|Digicel
+363|02|3G 2100|New Millennium Telecom Services NV|Digicel|AW Digicel|Digicel
+363|01|GSM 900|Servicio di Telecomunicacion di Aruba|SETAR GSM|SETAR|SETAR
+363|01|3G 2100|Servicio di Telecomunicacion di Aruba|SETAR GSM|SETAR|SETAR
+363|01|LTE 1800|Servicio di Telecomunicacion di Aruba|SETAR GSM|SETAR|SETAR
+363|01|GSM 1800|Servicio di Telecomunicacion di Aruba|SETAR GSM|SETAR|SETAR
+412|50|GSM 900|Emirates Telecommunications Corporation (ETISALAT)|Etisalat Afghanistan|Etisalat Af|Etisalat
+412|50|GSM 1800|Emirates Telecommunications Corporation (ETISALAT)|Etisalat Afghanistan|Etisalat Af|Etisalat
+412|40|GSM 900|MTN Afghanistan|MTN Afghanistan|MTN AF|MTN
+412|40|GSM 1800|MTN Afghanistan|MTN Afghanistan|MTN AF|MTN
+412|20|GSM 900|Telecom Development Company Afghanistan Limited|ROSHAN|ROSHAN|ROSHAN
+412|01|GSM 900|Afghan Wireless Communication Company |AWCC|AF AWCC|AWCC
+412|01|GSM 1800|Afghan Wireless Communication Company |AWCC|AF AWCC|AWCC
+631|04|3G 900|"Movicel - Telecomunicações, S.A. "|MOVICEL|MOVICEL|AGOMV
+631|04|GSM 900|"Movicel - Telecomunicações, S.A. "|MOVICEL|MOVICEL|AGOMV
+631|04|GSM 1800|"Movicel - Telecomunicações, S.A. "|MOVICEL|MOVICEL|AGOMV
+631|04|LTE 1800|"Movicel - Telecomunicações, S.A. "|MOVICEL|MOVICEL|AGOMV
+631|02|GSM 900|Unitel S.A.|UNITEL|UNITEL|UNITEL
+631|02|GSM 1800|Unitel S.A.|UNITEL|UNITEL|UNITEL
+631|02|LTE 1800|Unitel S.A.|UNITEL|UNITEL|UNITEL
+631|02|3G 2100|Unitel S.A.|UNITEL|UNITEL|UNITEL
+365|840|GSM 850|Cable and Wireless (Anguilla) Ltd|FLOW|FLOW|FLOW
+276|03|GSM 900|ALBtelecom sh.a.|ALBtelecom|ALBtelecom|ATmobile
+276|03|GSM 1800|ALBtelecom sh.a.|ALBtelecom|ALBtelecom|ATmobile
+276|03|3G 2100|ALBtelecom sh.a.|ALBtelecom|ALBtelecom|ATmobile
+276|03|LTE 1800|ALBtelecom sh.a.|ALBtelecom|ALBtelecom|ATmobile
+276|03|LTE 2600|ALBtelecom sh.a.|ALBtelecom|ALBtelecom|ATmobile
+276|02|3G 2100|Vodafone - Albania|Vodafone Albania|Voda AL|Voda AL
+276|02|LTE 1800|Vodafone - Albania|Vodafone Albania|Voda AL|Voda AL
+276|02|LTE 2600|Vodafone - Albania|Vodafone Albania|Voda AL|Voda AL
+276|02|GSM 900|Vodafone - Albania|Vodafone Albania|Voda AL|Voda AL
+276|02|GSM 1800|Vodafone - Albania|Vodafone Albania|Voda AL|Voda AL
+276|01|GSM 900|TELEKOM ALBANIA SH.A|Telekom Albania Sh.A.|Telekom.al|T.al
+276|01|GSM 1800|TELEKOM ALBANIA SH.A|Telekom Albania Sh.A.|Telekom.al|T.al
+276|01|LTE 1800|TELEKOM ALBANIA SH.A|Telekom Albania Sh.A.|Telekom.al|T.al
+276|01|LTE 2600|TELEKOM ALBANIA SH.A|Telekom Albania Sh.A.|Telekom.al|T.al
+276|01|3G 2100|TELEKOM ALBANIA SH.A|Telekom Albania Sh.A.|Telekom.al|T.al
+213|03|3G 2100|"Andorra Telecom, S.A.U."|ANDORRA TELECOM|AndorraTelecom|AndorraT
+213|03|GSM 900|"Andorra Telecom, S.A.U."|ANDORRA TELECOM|AndorraTelecom|AndorraT
+213|03|GSM 1800|"Andorra Telecom, S.A.U."|ANDORRA TELECOM|AndorraTelecom|AndorraT
+213|03|LTE 800|"Andorra Telecom, S.A.U."|ANDORRA TELECOM|AndorraTelecom|AndorraT
+213|03|LTE 1800|"Andorra Telecom, S.A.U."|ANDORRA TELECOM|AndorraTelecom|AndorraT
+213|03|3G 900|"Andorra Telecom, S.A.U."|ANDORRA TELECOM|AndorraTelecom|AndorraT
+362|91|GSM 900|UTS N.V.|UTS Wireless Curacao|CHIPPIE|CHIPPIE
+362|51|GSM 900|Telcell N.V.|Telcell N.V.|Telcell GSM|Telcell
+362|69|GSM 900|Curaçao Telecom N.V.|Digicel Curacao|Digicel|Digicel
+362|69|LTE 1800|Curaçao Telecom N.V.|Digicel Curacao|Digicel|Digicel
+362|69|3G 2100|Curaçao Telecom N.V.|Digicel Curacao|Digicel|Digicel
+362|69|3G 850|Curaçao Telecom N.V.|Digicel Curacao|Digicel|Digicel
+362|78|3G 900|Telefonia Bonairiano NV (Telbo)|Kla|Kla|Kla
+362|78|LTE 1800|Telefonia Bonairiano NV (Telbo)|Kla|Kla|Kla
+424|03|GSM 900|Emirates Integrated Telecommunications Company PJSC|du|du|du
+424|03|GSM 1800|Emirates Integrated Telecommunications Company PJSC|du|du|du
+424|03|3G 2100|Emirates Integrated Telecommunications Company PJSC|du|du|du
+424|02|3G 2100|Emirates Telecom Corp-ETISALAT|ETISALAT|ETISALAT|ETISALAT
+424|02|GSM 900|Emirates Telecom Corp-ETISALAT|ETISALAT|ETISALAT|ETISALAT
+722|310|GSM 850|AMX Argentina S.A.|CLARO ARGENTINA|CLARO ARGENTINA|CLARO AR
+722|310|GSM 1900|AMX Argentina S.A.|CLARO ARGENTINA|CLARO ARGENTINA|CLARO AR
+722|07|GSM 1900|Telefónica Móviles Argentina S.A.|Telefónica Móviles Argentina S.A.|AR - Movistar|Movistar
+722|010|GSM 850|Telefónica Móviles Argentina S.A.|Telefonica MVNO|AR - TEFMVNO|TEFMVNO
+722|34|GSM 850|Telecom Argentina S.A.|Personal|AR PERSONAL|AR TP
+722|36|GSM 1900|Telecom Argentina S.A.|Personal|AR PERSONAL|AR TP
+283|10|GSM 900|UCOM LLC|Ucom|Ucom AM|Ucom
+283|10|GSM 1800|UCOM LLC|Ucom|Ucom AM|Ucom
+283|10|3G 900|UCOM LLC|Ucom|Ucom AM|Ucom
+283|10|3G 2100|UCOM LLC|Ucom|Ucom AM|Ucom
+283|10|LTE-FDD 800|UCOM LLC|Ucom|Ucom AM|Ucom
+283|10|LTE 2600|UCOM LLC|Ucom|Ucom AM|Ucom
+283|10|LTE 1800|UCOM LLC|Ucom|Ucom AM|Ucom
+283|05|3G 1900|MTS Armenia CJSC|MTS Armenia|MTS ARM|MTS Arm
+283|05|3G 2100|MTS Armenia CJSC|MTS Armenia|MTS ARM|MTS Arm
+283|05|GSM 900|MTS Armenia CJSC|MTS Armenia|MTS ARM|MTS Arm
+283|05|GSM 1800|MTS Armenia CJSC|MTS Armenia|MTS ARM|MTS Arm
+283|05|LTE 2600|MTS Armenia CJSC|MTS Armenia|MTS ARM|MTS Arm
+283|01|3G 2100|VEON Armenia CJSC|ARMGSM|Beeline AM|Beeline
+283|01|GSM 900|VEON Armenia CJSC|ARMGSM|Beeline AM|Beeline
+283|01|GSM 1800|VEON Armenia CJSC|ARMGSM|Beeline AM|Beeline
+544|110|3G 850|"AST Telecom, LLC"|BLUESKY|Bluesky Communications|BLUESKY
+344|920|GSM 850|Cable & Wireless Antigua & Barbuda Ltd|FLOW|FLOW|FLOW
+344|930|GSM 900|Antigua Wireless Ventures Limited|Digicel Antigua & Barbuda|Cingular|Cingular
+344|30|GSM 1900|Antigua Public Utilities Authority (APUA)|APUA inet|APUA inet|inet
+505|06|3G 2100|Vodafone Hutchison Australia Pty Limited|Hutchison 3G Australia Pty|3TELSTRA|3TELSTRA
+505|03|GSM 900|Vodafone Hutchison Australia Pty Limited|Vodafone|vodafone AU|voda AU
+505|03|GSM 1800|Vodafone Hutchison Australia Pty Limited|Vodafone|vodafone AU|voda AU
+505|71|LTE 1800|Telstra Corporation Limited|Telstra MobileNet|Telstra Mobile|Telstra
+505|72|LTE 1800|Telstra Corporation Limited|Telstra MobileNet|Telstra Mobile|Telstra
+505|72|LTE 700|Telstra Corporation Limited|Telstra MobileNet|Telstra Mobile|Telstra
+505|72|LTE 2100|Telstra Corporation Limited|Telstra MobileNet|Telstra Mobile|Telstra
+505|72|LTE 2600|Telstra Corporation Limited|Telstra MobileNet|Telstra Mobile|Telstra
+505|72|LTE 900|Telstra Corporation Limited|Telstra MobileNet|Telstra Mobile|Telstra
+505|71|LTE 2100|Telstra Corporation Limited|Telstra MobileNet|Telstra Mobile|Telstra
+505|71|LTE 2600|Telstra Corporation Limited|Telstra MobileNet|Telstra Mobile|Telstra
+505|71|LTE 900|Telstra Corporation Limited|Telstra MobileNet|Telstra Mobile|Telstra
+505|71|LTE 700|Telstra Corporation Limited|Telstra MobileNet|Telstra Mobile|Telstra
+505|01|LTE 700|Telstra Corporation Limited|Telstra MobileNet|Telstra Mobile|Telstra
+505|01|LTE 2100|Telstra Corporation Limited|Telstra MobileNet|Telstra Mobile|Telstra
+505|01|LTE 2600|Telstra Corporation Limited|Telstra MobileNet|Telstra Mobile|Telstra
+505|01|LTE 900|Telstra Corporation Limited|Telstra MobileNet|Telstra Mobile|Telstra
+505|01|3G 850|Telstra Corporation Limited|Telstra MobileNet|Telstra Mobile|Telstra
+505|01|3G 2100|Telstra Corporation Limited|Telstra MobileNet|Telstra Mobile|Telstra
+505|01|LTE 1800|Telstra Corporation Limited|Telstra MobileNet|Telstra Mobile|Telstra
+505|02|LTE 900|SingTel Optus Pty Limited|YES OPTUS|Optus AU|Optus
+505|02|LTE 2100|SingTel Optus Pty Limited|YES OPTUS|Optus AU|Optus
+505|02|LTE 1800|SingTel Optus Pty Limited|YES OPTUS|Optus AU|Optus
+505|02|LTE 2600|SingTel Optus Pty Limited|YES OPTUS|Optus AU|Optus
+505|02|LTE-TDD 2300|SingTel Optus Pty Limited|YES OPTUS|Optus AU|Optus
+505|02|3G 2100|SingTel Optus Pty Limited|YES OPTUS|Optus AU|Optus
+505|02|3G 900|SingTel Optus Pty Limited|YES OPTUS|Optus AU|Optus
+505|02|LTE 700|SingTel Optus Pty Limited|YES OPTUS|Optus AU|Optus
+505|50|LTE 850|Pivotel Group Pty Limited|Pivotel|Pivotel|Pivotel
+505|50|LTE 2100|Pivotel Group Pty Limited|Pivotel|Pivotel|Pivotel
+232|05|GSM 1800|Hutchison Drei Austria GmbH|Drei|3 AT|3 AT
+232|05|3G 2100|Hutchison Drei Austria GmbH|Drei|3 AT|3 AT
+232|05|LTE 2600|Hutchison Drei Austria GmbH|Drei|3 AT|3 AT
+232|05|LTE 1800|Hutchison Drei Austria GmbH|Drei|3 AT|3 AT
+232|05|GSM 900|Hutchison Drei Austria GmbH|Drei|3 AT|3 AT
+232|10|LTE 1800|Hutchison Drei Austria GmbH|Drei|3 AT|3 AT
+232|10|3G 2100|Hutchison Drei Austria GmbH|Drei|3 AT|3 AT
+232|10|LTE 2600|Hutchison Drei Austria GmbH|Drei|3 AT|3 AT
+232|01|GSM 900|A1 Telekom Austria AG |A1|A1|A1
+232|01|GSM 1800|A1 Telekom Austria AG |A1|A1|A1
+232|01|3G 2100|A1 Telekom Austria AG |A1|A1|A1
+232|01|LTE 2600|A1 Telekom Austria AG |A1|A1|A1
+232|01|LTE 800|A1 Telekom Austria AG |A1|A1|A1
+232|01|3G 900|A1 Telekom Austria AG |A1|A1|A1
+232|03|3G 2100|T-Mobile Austria GmbH|T-Mobile Austria|T-Mobile A|TMA
+232|03|GSM 900|T-Mobile Austria GmbH|T-Mobile Austria|T-Mobile A|TMA
+232|03|GSM 1800|T-Mobile Austria GmbH|T-Mobile Austria|T-Mobile A|TMA
+232|03|LTE 800|T-Mobile Austria GmbH|T-Mobile Austria|T-Mobile A|TMA
+232|03|LTE 1800|T-Mobile Austria GmbH|T-Mobile Austria|T-Mobile A|TMA
+232|03|LTE 2600|T-Mobile Austria GmbH|T-Mobile Austria|T-Mobile A|TMA
+232|07|GSM 900|T-Mobile Austria GmbH|Tele-ring|telering|telering
+232|07|GSM 1800|T-Mobile Austria GmbH|Tele-ring|telering|telering
+232|07|3G 2100|T-Mobile Austria GmbH|Tele-ring|telering|telering
+232|07|LTE 800|T-Mobile Austria GmbH|Tele-ring|telering|telering
+232|07|LTE 1800|T-Mobile Austria GmbH|Tele-ring|telering|telering
+232|07|LTE 2600|T-Mobile Austria GmbH|Tele-ring|telering|telering
+400|04|3G 2100|Azerfon LLC|Nar Mobile|AZ Nar|Nar
+400|04|GSM 1800|Azerfon LLC|Nar Mobile|AZ Nar|Nar
+400|02|3G 2100|Bakcell Limited Liable Company|Bakcell LLC|BAKCELL AZ|BAKCELL
+400|02|GSM 900|Bakcell Limited Liable Company|Bakcell LLC|BAKCELL AZ|BAKCELL
+400|02|GSM 1800|Bakcell Limited Liable Company|Bakcell LLC|BAKCELL AZ|BAKCELL
+400|02|LTE 1800|Bakcell Limited Liable Company|Bakcell LLC|BAKCELL AZ|BAKCELL
+400|01|GSM 900|Azercell Telecom LLC|AZERCELL GSM|AZEAC|Azercell
+400|01|3G 2100|Azercell Telecom LLC|AZERCELL GSM|AZEAC|Azercell
+400|01|LTE 1800|Azercell Telecom LLC|AZERCELL GSM|AZEAC|Azercell
+642|07|GSM 1800|Lacell SU|Smart Mobile|SMART|SMART
+642|03|GSM 900|Onatel|ONATEL|ONATEL BDI|ONATEL
+642|82|GSM 900|Econetleo|U-COM Burundi|TELECEL-BDI|BDITL
+206|20|GSM 900|Telenet Group BVBA/SPRL|BASE|BASE|BASE
+206|20|GSM 1800|Telenet Group BVBA/SPRL|BASE|BASE|BASE
+206|20|3G 2100|Telenet Group BVBA/SPRL|BASE|BASE|BASE
+206|20|3G 900|Telenet Group BVBA/SPRL|BASE|BASE|BASE
+206|20|LTE 800|Telenet Group BVBA/SPRL|BASE|BASE|BASE
+206|20|LTE 1800|Telenet Group BVBA/SPRL|BASE|BASE|BASE
+206|10|GSM 900|ORANGE Belgium nv/SA|Orange Belgium|Orange B|OBE
+206|10|GSM 1800|ORANGE Belgium nv/SA|Orange Belgium|Orange B|OBE
+206|10|3G 2100|ORANGE Belgium nv/SA|Orange Belgium|Orange B|OBE
+206|10|LTE 2600|ORANGE Belgium nv/SA|Orange Belgium|Orange B|OBE
+206|10|3G 900|ORANGE Belgium nv/SA|Orange Belgium|Orange B|OBE
+206|10|LTE 800|ORANGE Belgium nv/SA|Orange Belgium|Orange B|OBE
+206|10|LTE 1800|ORANGE Belgium nv/SA|Orange Belgium|Orange B|OBE
+206|01|GSM 900|Proximus PLC|Proximus|Proximus|Proximus
+206|01|GSM 1800|Proximus PLC|Proximus|Proximus|Proximus
+206|01|3G 2100|Proximus PLC|Proximus|Proximus|Proximus
+206|01|LTE 1800|Proximus PLC|Proximus|Proximus|Proximus
+616|02|GSM 900|Etisalat Benin SA|ETISALAT BENIN|ETISALAT BENIN|ETISALAT
+616|03|GSM 1800|Spacetel-Benin|MTN BENIN|MTN BENIN|MTNBENIN
+616|03|LTE 1800|Spacetel-Benin|MTN BENIN|MTN BENIN|MTNBENIN
+616|03|GSM 900|Spacetel-Benin|MTN BENIN|MTN BENIN|MTNBENIN
+616|03|3G 2100|Spacetel-Benin|MTN BENIN|MTN BENIN|MTNBENIN
+613|02|GSM 900|Orange Burkina Faso S.A|Orange|Orange BF|Orange
+613|02|3G 1900|Orange Burkina Faso S.A|Orange|Orange BF|Orange
+613|02|GSM 1800|Orange Burkina Faso S.A|Orange|Orange BF|Orange
+613|02|3G 2100|Orange Burkina Faso S.A|Orange|Orange BF|Orange
+613|01|GSM 900|Onatel|ONATEL|ONATEL|ONATEL
+613|01|GSM 1800|Onatel|ONATEL|ONATEL|ONATEL
+613|01|3G 900|Onatel|ONATEL|ONATEL|ONATEL
+613|01|3G 2100|Onatel|ONATEL|ONATEL|ONATEL
+470|07|GSM 1800|Airtel Bangladesh Limited|Airtel|Airtel|Airtel
+470|04|GSM 900|Teletalk Bangladesh Limited|Teletalk Bangladesh Ltd|BGD bMobile|bMobile
+470|03|GSM 900|Banglalink Digital Communications Ltd.|Banglalink|Banglalink|BL
+470|03|3G 2100|Banglalink Digital Communications Ltd.|Banglalink|Banglalink|BL
+470|03|GSM 1800|Banglalink Digital Communications Ltd.|Banglalink|Banglalink|BL
+470|02|GSM 900|Robi Axiata Limited|robi axiata|robi axiata|robi
+470|02|GSM 1800|Robi Axiata Limited|robi axiata|robi axiata|robi
+470|02|3G 2100|Robi Axiata Limited|robi axiata|robi axiata|robi
+470|001|GSM 900|Grameenphone Ltd|grameenphone|Grameenphone|Grameen
+470|001|GSM 1800|Grameenphone Ltd|grameenphone|Grameenphone|Grameen
+470|09|LTE 800|Bangladesh Internet Exchange Limited|BIEL 4G|BGD-BIEL|BIEL 4G
+470|09|LTE 2600|Bangladesh Internet Exchange Limited|BIEL 4G|BGD-BIEL|BIEL 4G
+284|03|3G 900|Bulgarian Telecommunications Company EAD|Vivacom|Vivacom BG|Vivacom
+284|03|3G 2100|Bulgarian Telecommunications Company EAD|Vivacom|Vivacom BG|Vivacom
+284|03|GSM 900|Bulgarian Telecommunications Company EAD|Vivacom|Vivacom BG|Vivacom
+284|03|GSM 1800|Bulgarian Telecommunications Company EAD|Vivacom|Vivacom BG|Vivacom
+284|03|LTE 1800|Bulgarian Telecommunications Company EAD|Vivacom|Vivacom BG|Vivacom
+284|05|GSM 900|Telenor Bulgaria EAD|Telenor|Telenor BG|Telenor
+284|05|GSM 1800|Telenor Bulgaria EAD|Telenor|Telenor BG|Telenor
+284|05|3G 900|Telenor Bulgaria EAD|Telenor|Telenor BG|Telenor
+284|05|3G 2100|Telenor Bulgaria EAD|Telenor|Telenor BG|Telenor
+284|05|LTE 1800|Telenor Bulgaria EAD|Telenor|Telenor BG|Telenor
+284|01|GSM 1800|A1 Bulgaria EAD|A1 BG|A1 BG|A1 BG
+284|01|3G 2100|A1 Bulgaria EAD|A1 BG|A1 BG|A1 BG
+284|01|GSM 900|A1 Bulgaria EAD|A1 BG|A1 BG|A1 BG
+284|01|3G 900|A1 Bulgaria EAD|A1 BG|A1 BG|A1 BG
+284|01|LTE 1800|A1 Bulgaria EAD|A1 BG|A1 BG|A1 BG
+284|01|LTE 2100|A1 Bulgaria EAD|A1 BG|A1 BG|A1 BG
+426|04|LTW 1800|Viva Bahrain B.S.C Closed|VIVA Bahrain|VIVA BH|VIVA BH
+426|04|GSM 1800|Viva Bahrain B.S.C Closed|VIVA Bahrain|VIVA BH|VIVA BH
+426|04|3G 2100|Viva Bahrain B.S.C Closed|VIVA Bahrain|VIVA BH|VIVA BH
+426|02|3G 2100|Zain Bahrain B.S.C|Zain BH|Zain BH|Zain BH
+426|02|GSM 900|Zain Bahrain B.S.C|Zain BH|Zain BH|Zain BH
+426|02|GSM 1800|Zain Bahrain B.S.C|Zain BH|Zain BH|Zain BH
+426|01|GSM 900|Bahrain Telecommunications Company (B.S.C.)|BATELCO|BATELCO|BATELCO
+426|01|3G 2100|Bahrain Telecommunications Company (B.S.C.)|BATELCO|BATELCO|BATELCO
+426|01|LTE 1800|Bahrain Telecommunications Company (B.S.C.)|BATELCO|BATELCO|BATELCO
+364|39|GSM 1900|The Bahamas Telecommunications Company Ltd.|The Bahamas Telecommunications Company Ltd|BTC|BTC
+364|39|3G 850|The Bahamas Telecommunications Company Ltd.|The Bahamas Telecommunications Company Ltd|BTC|BTC
+364|49|LTE 2100|Be Aliv Limited|aliv|aliv|aliv
+364|49|3G 850|Be Aliv Limited|aliv|aliv|aliv
+364|49|3G 1900|Be Aliv Limited|aliv|aliv|aliv
+364|49|LTE 700|Be Aliv Limited|aliv|aliv|aliv
+218|03|GSM 1800|Public Enterprise Croatian Telecom JSC|HT ERONET|HT ERONET|HTERONET
+218|03|GSM 900|Public Enterprise Croatian Telecom JSC|HT ERONET|HT ERONET|HTERONET
+218|03|3G 2100|Public Enterprise Croatian Telecom JSC|HT ERONET|HT ERONET|HTERONET
+218|05|GSM 900|RS Telecommunications  JSC Banja Luka|m:tel|m:tel|m:tel
+218|05|GSM 1800|RS Telecommunications  JSC Banja Luka|m:tel|m:tel|m:tel
+218|05|3G 2100|RS Telecommunications  JSC Banja Luka|m:tel|m:tel|m:tel
+218|90|3G 2100|BH Telecom JSC Sarajevo|BH Mobile|BH Mobile|BHMOBILE
+218|90|GSM 900|BH Telecom JSC Sarajevo|BH Mobile|BH Mobile|BHMOBILE
+218|90|GSM 1800|BH Telecom JSC Sarajevo|BH Mobile|BH Mobile|BHMOBILE
+257|04|3G 2100|Belarusian Telecommunications Network CJSC|Belarusian Telecommunications Network CJSC|life:) BY|life:)BY
+257|04|GSM 900|Belarusian Telecommunications Network CJSC|Belarusian Telecommunications Network CJSC|life:) BY|life:)BY
+257|04|GSM 1800|Belarusian Telecommunications Network CJSC|Belarusian Telecommunications Network CJSC|life:) BY|life:)BY
+257|04|LTE 1800|Belarusian Telecommunications Network CJSC|Belarusian Telecommunications Network CJSC|life:) BY|life:)BY
+257|02|GSM 900|JLLC Mobile TeleSystems|MTS BY|MTS BY|MTS BY
+257|02|GSM 1800|JLLC Mobile TeleSystems|MTS BY|MTS BY|MTS BY
+257|02|3G 900|JLLC Mobile TeleSystems|MTS BY|MTS BY|MTS BY
+257|02|3G 2100|JLLC Mobile TeleSystems|MTS BY|MTS BY|MTS BY
+257|02|LTE 1800|JLLC Mobile TeleSystems|MTS BY|MTS BY|MTS BY
+257|01|GSM 900|Unitary enterprise velcom|VELCOM|BY VELCOM|VELCOM
+257|01|GSM 1800|Unitary enterprise velcom|VELCOM|BY VELCOM|VELCOM
+257|01|3G 2100|Unitary enterprise velcom|VELCOM|BY VELCOM|VELCOM
+257|01|3G 900|Unitary enterprise velcom|VELCOM|BY VELCOM|VELCOM
+702|67|GSM 1900|Belize Telemedia Limited|Belize Telecommunications|BTL|BTL
+702|67|GSM 850|Belize Telemedia Limited|Belize Telecommunications|BTL|BTL
+702|67|3G 850|Belize Telemedia Limited|Belize Telecommunications|BTL|BTL
+702|67|3G 1900|Belize Telemedia Limited|Belize Telecommunications|BTL|BTL
+702|67|LTE 700|Belize Telemedia Limited|Belize Telecommunications|BTL|BTL
+702|67|LTE 1900|Belize Telemedia Limited|Belize Telecommunications|BTL|BTL
+702|69|LTE 700|Speednet Communications Ltd|Speednet Communications Ltd|Smart|Smart
+350|000|3G 850|Bermuda Digital Communications Ltd.|CELLONE|CELLONE|CELLONE
+350|000|GSM 1900|Bermuda Digital Communications Ltd.|CELLONE|CELLONE|CELLONE
+350|010|GSM 1900|Telecommunications (Bermuda & West Indies) Ltd.|Digicel Bermuda|Cingular|Cingular
+350|010|3G 2100|Telecommunications (Bermuda & West Indies) Ltd.|Digicel Bermuda|Cingular|Cingular
+736|02|3G 850|Entel S.A.|Entel|BOMOV|EMOVIL
+736|02|GSM 900|Entel S.A.|Entel|BOMOV|EMOVIL
+736|02|GSM 1800|Entel S.A.|Entel|BOMOV|EMOVIL
+736|01|GSM 1900|Nuevatel PCS de Bolivia S.A.|Nuevatel PCS De Bolivia|VIVA|VIVA
+736|03|GSM 850|Telefonica Celular de Bolivia S.A.|TIGO|TIGO|TIGO
+736|03|LTE 700|Telefonica Celular de Bolivia S.A.|TIGO|TIGO|TIGO
+736|03|3G 850|Telefonica Celular de Bolivia S.A.|TIGO |TIGO|TIGO
+736|03|3G 1900|Telefonica Celular de Bolivia S.A.|TIGO|TIGO|TIGO
+724|39|3G 2100|Nextel Telecomunicações Ltda|Nextel Brasil|Nextel Brasil|Nextel
+724|39|3G 1900|Nextel Telecomunicações Ltda|Nextel Brasil|Nextel Brasil|Nextel
+724|10|GSM 850|Vivo S.A.|Vivo|VIVO|VIVO
+724|10|GSM 1900|Vivo S.A.|Vivo|VIVO|VIVO
+724|11|GSM 850|Vivo S.A.|Vivo|VIVO|VIVO
+724|11|GSM 1900|Vivo S.A.|Vivo|VIVO|VIVO
+724|23|GSM 900|Vivo S.A.|Vivo|VIVO|VIVO
+724|23|GSM 1800|Vivo S.A.|Vivo|VIVO|VIVO
+724|23|3G 2100|Vivo S.A.|Vivo|VIVO|VIVO
+724|23|3G 850|Vivo S.A.|Vivo|VIVO|VIVO
+724|06|GSM 850|Vivo S.A.|Vivo|VIVO|VIVO
+724|06|GSM 1900|Vivo S.A.|Vivo|VIVO|VIVO
+724|06|GSM 900|Vivo S.A.|Vivo|VIVO|VIVO
+724|06|GSM 1800|Vivo S.A.|Vivo|VIVO|VIVO
+724|06|3G 2100|Vivo S.A.|Vivo|VIVO|VIVO
+724|06|3G 850|Vivo S.A.|Vivo|VIVO|VIVO
+724|10|GSM 1800|Vivo S.A.|Vivo|VIVO|VIVO
+724|10|3G 2100|Vivo S.A.|Vivo|VIVO|VIVO
+724|10|3G 850|Vivo S.A.|Vivo|VIVO|VIVO
+724|11|GSM 900|Vivo S.A.|Vivo|VIVO|VIVO
+724|11|GSM 1800|Vivo S.A.|Vivo|VIVO|VIVO
+724|11|3G 2100|Vivo S.A.|Vivo|VIVO|VIVO
+724|11|3G 850|Vivo S.A.|Vivo|VIVO|VIVO
+724|23|GSM 850|Vivo S.A.|Vivo|VIVO|VIVO
+724|06|LTE 2600|Vivo S.A.|Vivo|VIVO|VIVO
+724|06|LTE 700|Vivo S.A.|Vivo|VIVO|VIVO
+724|10|LTE 2600|Vivo S.A.|Vivo|VIVO|VIVO
+724|10|LTE 700|Vivo S.A.|Vivo|VIVO|VIVO
+724|11|LTE 2600|Vivo S.A.|Vivo|VIVO|VIVO
+724|11|LTE 700|Vivo S.A.|Vivo|VIVO|VIVO
+724|23|LTE 2600|Vivo S.A.|Vivo|VIVO|VIVO
+724|23|LTE 700|Vivo S.A.|Vivo|VIVO|VIVO
+724|32|GSM 900|Algar Telecom S.A.|Algar Telecom|Algar Telecom|Algar
+724|32|GSM 1800|Algar Telecom S.A.|Algar Telecom|Algar Telecom|Algar
+724|33|GSM 900|Algar Telecom S.A.|Algar Telecom|Algar Telecom|Algar
+724|33|GSM 1800|Algar Telecom S.A.|Algar Telecom|Algar Telecom|Algar
+724|34|GSM 900|Algar Telecom S.A.|Algar Telecom|Algar Telecom|Algar
+724|34|GSM 1800|Algar Telecom S.A.|Algar Telecom|Algar Telecom|Algar
+724|15|GSM 900|Sercomtel S.A.|Sercomtel Celular S.A.|BRA SCTL|SCTL
+724|15|GSM 1800|Sercomtel S.A.|Sercomtel Celular S.A.|BRA SCTL|SCTL
+724|15|3G 850|Sercomtel S.A.|Sercomtel Celular S.A.|BRA SCTL|SCTL
+724|05|GSM 1800|Claro S.A|Claro|Claro BRA|Claro
+724|05|3G 850|Claro S.A|Claro|Claro BRA|Claro
+724|05|3G 2100|Claro S.A|Claro|Claro BRA|Claro
+724|05|GSM 900|Claro S.A|Claro|Claro BRA|Claro
+724|05|LTE 2600|Claro S.A|Claro|Claro BRA|Claro
+724|02|GSM 1800|TIM S.A.|TIM BRASIL|TIM BRA|TIM
+724|02|3G 2100|TIM S.A.|TIM BRASIL|TIM BRA|TIM
+724|02|3G 850|TIM S.A.|TIM BRASIL|TIM BRA|TIM
+724|03|GSM 1800|TIM S.A.|TIM BRASIL|TIM BRA|TIM
+724|03|3G 2100|TIM S.A.|TIM BRASIL|TIM BRA|TIM
+724|03|3G 850|TIM S.A.|TIM BRASIL|TIM BRA|TIM
+724|04|GSM 1800|TIM S.A.|TIM BRASIL|TIM BRA|TIM
+724|04|3G 2100|TIM S.A.|TIM BRASIL|TIM BRA|TIM
+724|04|3G 850|TIM S.A.|TIM BRASIL|TIM BRA|TIM
+724|24|GSM 900|Oi Móvel S.A|Oi|Oi|Oi
+724|24|GSM 1800|Oi Móvel S.A|Oi|Oi|Oi
+724|31|GSM 1800|Oi Móvel S.A|Oi|Oi|Oi
+724|16|GSM 1800|Oi Móvel S.A|Oi|Oi|Oi
+342|750|GSM 1800|Digicel (Barbados) Limited|DIGICEL|DIGICEL|DIGICEL
+342|750|GSM 1900|Digicel (Barbados) Limited|DIGICEL|DIGICEL|DIGICEL
+342|750|3G 2100|Digicel (Barbados) Limited|DIGICEL|DIGICEL|DIGICEL
+342|750|GSM 900|Digicel (Barbados) Limited|DIGICEL|DIGICEL|DIGICEL
+342|600|GSM 1900|Cable & Wireless (Barbados) Ltd|FLOW|FLOW|FLOW
+528|02|3G 2100|Progresif Cellular Sdn Bhd|PCSB|PCSB|PCSB
+528|11|GSM 900|Datastream Technology Sdn Bhd|DTSCom|BRU-DSTCom|DSTCom
+528|11|3G 2100|Datastream Technology Sdn Bhd|DTSCom|BRU-DSTCom|DSTCom
+528|11|LTE 1800|Datastream Technology Sdn Bhd|DTSCom|BRU-DSTCom|DSTCom
+402|77|GSM 900|"Tashi InfoComm Ltd, Thimphu"|TASHICELL|TASHICELL|TASHICEL
+402|77|GSM 1800|"Tashi InfoComm Ltd, Thimphu"|TASHICELL|TASHICELL|TASHICEL
+402|11|GSM 900|Bhutan Telecom Ltd.|B-Mobile|BT B-Mobile|B-Mobile
+652|04|GSM 900|Botswana Telecommunications Corporation|beMOBILE|beMOBILE|beMOBILE
+652|04|GSM 1800|Botswana Telecommunications Corporation|beMOBILE|beMOBILE|beMOBILE
+652|02|GSM 900|Orange Botswana (Pty) Ltd|ORANGE|Orange|Orange
+652|02|3G 2100|Orange Botswana (Pty) Ltd|ORANGE|Orange|Orange
+652|01|GSM 900|Mascom Wireless (Pty) Limited|MASCOM|BW MASCOM|MASCOM
+623|01|GSM 900|Atlantique Telecom Centrafrique SA|ETISALAT|ETISALAT RCA|ETISALAT
+623|02|GSM 900|Telecel Centrafrique SA|Telecel Centrafrique SA|Telecel|Telecel
+623|03|GSM 900|Orange Centrafric|Orange RCA|Orange RCA|Orange
+623|03|GSM 1800|Orange Centrafric|Orange RCA|Orange RCA|Orange
+623|03|GSM 2100|Orange Centrafric|Orange RCA|Orange RCA|Orange
+302|380|GSM 850|Keewaytinook Okimakanak|KNET Services|KNET|KNET
+302|340|GSM 850|Execulink Telecom Inc|Execulink Telecom|Execulink Telecom|ETI
+302|940|GSM 850|Wightman Telecom Ltd|Wightman Telecom|Wightman|Wightman
+302|270|3G 1700|Bragg Communications Inc.|Bragg Communications Inc|Eastlink|Eastlink
+302|270|3G 2100|Bragg Communications Inc.|Bragg Communications Inc|Eastlink|Eastlink
+302|270|LTE 1700|Bragg Communications Inc.|Bragg Communications Inc|Eastlink|Eastlink
+302|270|LTE 2100|Bragg Communications Inc.|Bragg Communications Inc|Eastlink|Eastlink
+302|270|LTE 700|Bragg Communications Inc.|Bragg Communications Inc|Eastlink|Eastlink
+302|780|3G 850|SaskTel|SaskTel|SaskTel|SaskTel
+302|780|3G 1900|SaskTel|SaskTel|SaskTel|SaskTel
+302|780|LTE 700|SaskTel|SaskTel|SaskTel|SaskTel
+302|780|LTE 850|SaskTel|SaskTel|SaskTel|SaskTel
+302|780|LTE 1900|SaskTel|SaskTel|SaskTel|SaskTel
+302|780|LTE 2100|SaskTel|SaskTel|SaskTel|SaskTel
+302|780|LTE 2600|SaskTel|SaskTel|SaskTel|SaskTel
+302|880|3G 850|SaskTel|SaskTel shared with Bell & TELUS|FastRoam|FastRoam
+302|880|3G 1900|SaskTel|SaskTel shared with Bell & TELUS|FastRoam|FastRoam
+302|500|3G 1700|Videotron Ltd|Videotron|Videotron|CANVT
+302|500|LTE 1700|Videotron Ltd|Videotron|Videotron|CANVT
+302|500|LTE 2600|Videotron Ltd|Videotron|Videotron|CANVT
+302|500|LTE 700|Videotron Ltd|Videotron|Videotron|CANVT
+302|520|LTE 700|Videotron Ltd|Videotron|Videotron|CANVT
+302|520|LTE 1700|Videotron Ltd|Videotron|Videotron|CANVT
+302|520|LTE 2600|Videotron Ltd|Videotron|Videotron|CANVT
+302|610|LTE 850|Bell Mobility Inc.|Bell Mobility|Bell|Bell
+302|610|3G 850|Bell Mobility Inc.|Bell Mobility|Bell|Bell
+302|610|3G 1900|Bell Mobility Inc.|Bell Mobility|Bell|Bell
+302|610|LTE 2100|Bell Mobility Inc.|Bell Mobility|Bell|Bell
+302|610|LTE 2600|Bell Mobility Inc.|Bell Mobility|Bell|Bell
+302|610|LTE 700|Bell Mobility Inc.|Bell Mobility|Bell|Bell
+302|610|LTE 1900|Bell Mobility Inc.|Bell Mobility|Bell|Bell
+302|880|3G 850|Bell Mobility Inc.|Bell shared with TELUS & SaskTel|FastRoam|FastRoam
+302|880|3G 1900|Bell Mobility Inc.|Bell shared with TELUS & SaskTel|FastRoam|FastRoam
+302|490|LTE 2600|Freedom Mobile Inc|Freedom Mobile|Freedom|Freedom
+302|490|3G 2100|Freedom Mobile Inc|Freedom Mobile|Freedom|Freedom
+302|490|LTE 1700|Freedom Mobile Inc|Freedom Mobile|Freedom|Freedom
+302|490|LTE 2100|Freedom Mobile Inc|Freedom Mobile|Freedom|Freedom
+302|490|3G 1700|Freedom Mobile Inc|Freedom Mobile|Freedom|Freedom
+302|220|LTE 1700|TELUS Communications Inc.|TELUS|TELUS|TELUS
+302|220|LTE 2100|TELUS Communications Inc.|TELUS|TELUS|TELUS
+302|220|3G 850|TELUS Communications Inc.|TELUS|TELUS|TELUS
+302|220|3G 1900|TELUS Communications Inc.|TELUS|TELUS|TELUS
+302|880|3G 850|TELUS Communications Inc.|TELUS shared with Bell & SaskTel|FastRoam|FastRoam
+302|880|3G 1900|TELUS Communications Inc.|TELUS shared with Bell & SaskTel|FastRoam|FastRoam
+302|620|GSM 1900|Ice Wireless Inc.|Ice Wireless Inc|Ice Wireless Inc|Ice
+302|620|3G 850|Ice Wireless Inc.|Ice Wireless Inc|Ice Wireless Inc|Ice
+302|620|LTE 850|Ice Wireless Inc.|Ice Wireless Inc|Ice Wireless Inc|Ice
+302|370|GSM 1900|Rogers Communications Canada Inc.|FIDO|Fido|Fido
+302|720|GSM 850|Rogers Communications Canada Inc.|Rogers Wireless|Rogers Wireless|ROGERS
+302|720|GSM 1900|Rogers Communications Canada Inc.|Rogers Wireless|Rogers Wireless|ROGERS
+302|720|3G 850|Rogers Communications Canada Inc.|Rogers Wireless|Rogers Wireless|ROGERS
+302|720|3G 1900|Rogers Communications Canada Inc.|Rogers Wireless|Rogers Wireless|ROGERS
+302|720|3G 2100|Rogers Communications Canada Inc.|Rogers Wireless|Rogers Wireless|ROGERS
+302|720|LTE 1700|Rogers Communications Canada Inc.|Rogers Wireless|Rogers Wireless|ROGERS
+302|720|LTE 2100|Rogers Communications Canada Inc.|Rogers Wireless|Rogers Wireless|ROGERS
+302|480|GSM 1800|SSi Micro Ltd|SSi|SSi|SSi
+302|480|GSM 1900|SSi Micro Ltd|SSi|SSi|SSi
+302|480|PCS 1800|SSi Micro Ltd|SSi|SSi|SSi
+302|480|PCS 1900|SSi Micro Ltd|SSi|SSi|SSi
+302|130|LTE 700|Xplornet Communications Inc.|Xplore Mobile|Xplore|Xplore
+302|130|LTE 2100|Xplornet Communications Inc.|Xplore Mobile|Xplore|Xplore
+302|130|LTE 2500|Xplornet Communications Inc.|Xplore Mobile|Xplore|Xplore
+228|03|GSM 1800|Salt Mobile SA|Salt|Salt|Salt
+228|03|3G 2100|Salt Mobile SA|Salt|Salt|Salt
+228|03|LTE 1800|Salt Mobile SA|Salt|Salt|Salt
+228|03|LTE 2600|Salt Mobile SA|Salt|Salt|Salt
+228|02|GSM 900|Sunrise Communications AG|Sunrise|Sunrise|Sunrise
+228|02|GSM 1800|Sunrise Communications AG|Sunrise|Sunrise|Sunrise
+228|02|3G 2100|Sunrise Communications AG|Sunrise|Sunrise|Sunrise
+228|02|LTE 800|Sunrise Communications AG|Sunrise|Sunrise|Sunrise
+228|02|LTE 1800|Sunrise Communications AG|Sunrise|Sunrise|Sunrise
+228|02|LTE 2600|Sunrise Communications AG|Sunrise|Sunrise|Sunrise
+228|01|GSM 900|Swisscom (Switzerland) Ltd|Swisscom|Swisscom|Swisscom
+228|01|GSM 1800|Swisscom (Switzerland) Ltd|Swisscom|Swisscom|Swisscom
+228|01|3G 2100|Swisscom (Switzerland) Ltd|Swisscom|Swisscom|Swisscom
+730|09|3G 1700|WOM S.A.|WOM Chile|WOM|WOM
+730|09|3G 2100|WOM S.A.|WOM Chile|WOM|WOM
+730|09|LTE 1700|WOM S.A.|WOM Chile|WOM|WOM
+730|09|LTE 2100|WOM S.A.|WOM Chile|WOM|WOM
+730|10|GSM 1900|Entel PCS Telecomunicaciones S.A.|ENTEL PCS|ENTEL PCS|ENTEL
+730|10|3G 1900|Entel PCS Telecomunicaciones S.A.|ENTEL PCS|ENTEL PCS|ENTEL
+730|01|GSM 1900|Entel PCS Telecomunicaciones S.A.|ENTEL PCS|ENTEL PCS|ENTEL
+730|01|3G 1900|Entel PCS Telecomunicaciones S.A.|ENTEL PCS|ENTEL PCS|ENTEL
+730|03|GSM 1900|Claro Chile SA|CLARO CHILE|CLARO CHL|ClaroCHL
+730|07|GSM 850|Telefónica Móvil de Chile S.A.|Telefonica Movil de Chile|Movistar|Movistar
+730|07|GSM 1900|Telefónica Móvil de Chile S.A.|Telefonica Movil de Chile|Movistar|Movistar
+730|07|3G 850|Telefónica Móvil de Chile S.A.|Telefonica Movil de Chile|Movistar|Movistar
+730|02|GSM 850|Telefónica Móvil de Chile S.A.|Telefonica Movil de Chile|Movistar|Movistar
+730|02|GSM 1900|Telefónica Móvil de Chile S.A.|Telefonica Movil de Chile|Movistar|Movistar
+730|02|3G 850|Telefónica Móvil de Chile S.A.|Telefonica Movil de Chile|Movistar|Movistar
+730|02|LTE 2600|Telefónica Móvil de Chile S.A.|Telefonica Movil de Chile|Movistar|Movistar
+730|07|LTE 2600|Telefónica Móvil de Chile S.A.|Telefonica Movil de Chile|Movistar|Movistar
+730|02|3G 1900|Telefónica Móvil de Chile S.A.|Telefonica Movil de Chile|Movistar|Movistar
+730|07|3G 1900|Telefónica Móvil de Chile S.A.|Telefonica Movil de Chile|Movistar|Movistar
+460|03|CDMA 800|China Telecommunications Corporation|China Telecom|CHN-CT|CT
+460|11|LTE-TDD 2600|China Telecommunications Corporation|China Telecom|CHN-CT|CT
+460|11|LTE-FDD 1800|China Telecommunications Corporation|China Telecom|CHN-CT|CT
+460|11|LTE-FDD 2100|China Telecommunications Corporation|China Telecom|CHN-CT|CT
+460|11|LTE-FDD 1800|China Telecommunications Corporation|China Telecom|CHN-CT|CT
+460|11|LTE-FDD 2100|China Telecommunications Corporation|China Telecom|CHN-CT|CT
+460|11|LTE-TDD 2600|China Telecommunications Corporation|China Telecom|CHN-CT|CT
+460|11|LTE-FDD 800|China Telecommunications Corporation|China Telecom|CHN-CT|CT
+460|11|LTE-FDD 800|China Telecommunications Corporation|China Telecom|CHN-CT|CT
+460|00|LTE-TD 2600|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|02|GSM 900|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|02|GSM 1800|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|02|TD-SCDMA 2000|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|02|TD-SCDMA 1900|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|02|LTE-TD 1900|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|02|LTE-TD 2300|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|02|LTE-TD 2600|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|02|GSM 900|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|02|GSM 1800|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|02|TD-SCDMA 2000|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|02|TD-SCDMA 1900|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|02|LTE-TD 1900|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|02|LTE-TD 2300|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|02|LTE-TD 2600|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|04|GSM 900|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|04|GSM 1800|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|04|TD-SCDMA 2000|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|04|TD-SCDMA 1900|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|04|LTE-TD 1900|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|04|LTE-TD 2300|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|04|LTE-TD 2600|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|04|GSM 900|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|04|GSM 1800|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|04|TD-SCDMA 2000|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|04|TD-SCDMA 1900|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|04|LTE-TD 1900|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|04|LTE-TD 2300|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|04|LTE-TD 2600|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|07|GSM 900|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|07|GSM 1800|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|07|TD-SCDMA 2000|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|07|TD-SCDMA 1900|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|07|LTE-TD 1900|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|07|LTE-TD 2300|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|07|LTE-TD 2600|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|07|GSM 900|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|07|GSM 1800|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|07|TD-SCDMA 2000|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|07|TD-SCDMA 1900|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|07|LTE-TD 1900|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|07|LTE-TD 2300|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|07|LTE-TD 2600|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|08|GSM 900|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|08|GSM 1800|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|08|TD-SCDMA 2000|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|08|TD-SCDMA 1900|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|08|LTE-TD 1900|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|08|LTE-TD 2300|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|08|LTE-TD 2600|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|08|GSM 900|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|08|GSM 1800|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|08|TD-SCDMA 2000|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|08|TD-SCDMA 1900|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|08|LTE-TD 1900|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|08|LTE-TD 2300|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|08|LTE-TD 2600|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|00|GSM 900|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|00|GSM 1800|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|00|TD-SCDMA 2000|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|00|TD-SCDMA 1900|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|00|LTE-TD 1900|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|00|LTE-TD 2300|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|00|LTE-TD 2600|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|00|GSM 900|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|00|GSM 1800|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|00|TD-SCDMA 2000|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|00|TD-SCDMA 1900|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|00|LTE-TD 1900|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|00|LTE-TD 2300|China Mobile Limited|CHINA MOBILE|CHINA MOBILE|CMCC
+460|01|GSM 900|China Unicom|CHINA UNICOM GSM|CHN-UNICOM|UNICOM
+460|01|3G 2100|China Unicom|CHINA UNICOM GSM|CHN-UNICOM|UNICOM
+460|01|GSM 1800|China Unicom|CHINA UNICOM GSM|CHN-UNICOM|UNICOM
+460|01|LTE 2300|China Unicom|CHINA UNICOM GSM|CHN-UNICOM|UNICOM
+460|01|LTE 2600|China Unicom|CHINA UNICOM GSM|CHN-UNICOM|UNICOM
+460|09|GSM 900|China Unicom|CHINA UNICOM GSM|CHN-UNICOM|UNICOM
+460|09|3G 2100|China Unicom|CHINA UNICOM GSM|CHN-UNICOM|UNICOM
+460|09|GSM 1800|China Unicom|CHINA UNICOM GSM|CHN-UNICOM|UNICOM
+460|09|LTE 2300|China Unicom|CHINA UNICOM GSM|CHN-UNICOM|UNICOM
+460|09|LTE 2600|China Unicom|CHINA UNICOM GSM|CHN-UNICOM|UNICOM
+460|09|GSM 900|China Unicom|CHINA UNICOM GSM|CHN-UNICOM|UNICOM
+460|09|3G 2100|China Unicom|CHINA UNICOM GSM|CHN-UNICOM|UNICOM
+460|09|GSM 1800|China Unicom|CHINA UNICOM GSM|CHN-UNICOM|UNICOM
+460|09|LTE 2300|China Unicom|CHINA UNICOM GSM|CHN-UNICOM|UNICOM
+460|09|LTE 2600|China Unicom|CHINA UNICOM GSM|CHN-UNICOM|UNICOM
+612|04|GSM 900|Comium Côte d'Ivoire SA (CCI SA)|Comium Ivory Coast INC.|KoZ|KoZ
+612|04|GSM 1800|Comium Côte d'Ivoire SA (CCI SA)|Comium Ivory Coast INC.|KoZ|KoZ
+612|02|GSM 900|Atlantique Telecom Côte d'Ivoire|MOOV CI|MOOV CI|MOOV
+612|02|GSM 1800|Atlantique Telecom Côte d'Ivoire|MOOV CI|MOOV CI|MOOV
+612|03|GSM 900|Orange Cote DIvoire S.A.|Orange|Orange|Orange
+612|05|GSM 1800|MTN Cote d'Ivoire S.A|MTN|MTN CI|MTN CI
+612|05|3G 900|MTN Cote d'Ivoire S.A|MTN|MTN CI|MTN CI
+612|05|3G 2100|MTN Cote d'Ivoire S.A|MTN|MTN CI|MTN CI
+612|05|LTE-FDD 800|MTN Cote d'Ivoire S.A|MTN|MTN CI|MTN CI
+612|05|LTE-FDD 1800|MTN Cote d'Ivoire S.A|MTN|MTN CI|MTN CI
+612|05|LTE-FDD 2600|MTN Cote d'Ivoire S.A|MTN|MTN CI|MTN CI
+612|05|LTE-TDD 2600|MTN Cote d'Ivoire S.A|MTN|MTN CI|MTN CI
+612|05|GSM 900|MTN Cote d'Ivoire S.A|MTN|MTN CI|MTN CI
+624|01|GSM 900|MTN Cameroon Ltd|MTN Cameroon|MTN CAM|MTN CAM
+624|02|GSM 900|Orange Cameroun SA|Orange|Orange CM|Orange
+624|04|GSM 900|VIETTEL CAMEROON S.A. |Nexttel|Nexttel|Nexttel
+624|04|GSM 1800|VIETTEL CAMEROON S.A. |Nexttel|Nexttel|Nexttel
+630|90|GSM 900|Africell RDC sprl|Africell RDC|Africell RDC|AFRICELL
+630|90|GSM 1800|Africell RDC sprl|Africell RDC|Africell RDC|AFRICELL
+630|86|3G 2100|Orange RDC Sarl|Orange RDC|Orange RDC|Orange
+630|86|GSM 900|Orange RDC Sarl|Orange RDC|Orange RDC|Orange
+630|86|GSM 1800|Orange RDC Sarl|Orange RDC|Orange RDC|Orange
+630|89|GSM 1800|Oasis sprl|TIGO|TIGO DRC|TIGO
+630|89|3G 2100|Oasis sprl|TIGO|TIGO DRC|TIGO
+630|02|GSM 900|AIRTEL CONGO RDC SA|Airtel|Airtel|Airtel
+630|01|GSM 900|Vodacom Congo (RDC) S.A.|Vodacom Congo|Vodacom Congo|VODACOM
+630|01|GSM 1800|Vodacom Congo (RDC) S.A.|Vodacom Congo|Vodacom Congo|VODACOM
+629|10|GSM 900|MTN Congo S.A|Libertis Telecom|COG MTN|MTN-CG
+629|01|GSM 900|Airtel Congo SA|Airtel|Airtel|Airtel
+548|01|GSM 900|Telecom Cook Islands Limited|Telecom Cook Islands|CK KOKANET|KOKANET
+732|123|GSM 850|Colombia Telecomunicaciones S.A. ESP|Movistar|Movistar|Movistar
+732|123|GSM 1900|Colombia Telecomunicaciones S.A. ESP|Movistar|Movistar|Movistar
+732|103|GSM 1900|Colombia Movil S.A.|TIGO COLOMBIA|TIGO|TIGO
+732|111|GSM 1900|Colombia Movil S.A.|TIGO COLOMBIA|TIGO|TIGO
+732|101|GSM 850|Comunicacion Celular S.A (Comcel S.A)|Claro|Claro|Claro
+732|101|GSM 1900|Comunicacion Celular S.A (Comcel S.A)|Claro|Claro|Claro
+732|101|3G 850|Comunicacion Celular S.A (Comcel S.A)|Claro|Claro|Claro
+732|101|3G 1900|Comunicacion Celular S.A (Comcel S.A)|Claro|Claro|Claro
+732|130|AWS 1700|Avantel S.A.S|Avantel|Avantel|Avantel
+732|130|AWS 2100|Avantel S.A.S|Avantel|Avantel|Avantel
+732|130|LTE 1700|Avantel S.A.S|Avantel|Avantel|Avantel
+732|130|LTE 2100|Avantel S.A.S|Avantel|Avantel|Avantel
+732|187|LTE 1700|EMPRESA DE TELECOMUNICACIONES DE BOGOTÁ S.A. E.S.P|ETB|ETB 4G|ETB
+732|187|LTE 2100|EMPRESA DE TELECOMUNICACIONES DE BOGOTÁ S.A. E.S.P|ETB|ETB 4G|ETB
+654|01|GSM 900|Societe Nationale des Telecommunications (Comores Telecom)|HURI|HURI|HURI
+654|02|LTE 800|TELCO S.A.|TELCO Comoros|TELCO|COMTM
+654|02|3G 900|TELCO S.A.|TELCO Comoros|TELCO|COMTM
+654|02|GSM 900|TELCO S.A.|TELCO Comoros|TELCO|COMTM
+625|02|GSM 900|"UNITEL T+ TELECOMUNICACÕES, Sociedade Unipessoal S.A."|Unitel T+|Unitel T+|UnitelT+
+625|02|GSM 1800|"UNITEL T+ TELECOMUNICACÕES, Sociedade Unipessoal S.A."|Unitel T+|Unitel T+|UnitelT+
+625|02|3G 2100|"UNITEL T+ TELECOMUNICACÕES, Sociedade Unipessoal S.A."|Unitel T+|Unitel T+|UnitelT+
+625|01|GSM 900|"CVMóvel, S.A."|CVMOVEL|CVMOVEL|CVMOVEL
+625|01|GSM 1800|"CVMóvel, S.A."|CVMOVEL|CVMOVEL|CVMOVEL
+625|01|3G 2100|"CVMóvel, S.A."|CVMOVEL|CVMOVEL|CVMOVEL
+712|03|GSM 1800|"Claro CR Telecomunicaciones, S.A. "|Claro CR|CLARO CR|CLARO CR
+712|03|3G 2100|"Claro CR Telecomunicaciones, S.A. "|Claro CR|CLARO CR|CLARO CR
+712|03|GSM 850|"Claro CR Telecomunicaciones, S.A. "|Claro CR|CLARO CR|CLARO CR
+712|03|LTE-FDD 1800|"Claro CR Telecomunicaciones, S.A. "|Claro CR|CLARO CR|CLARO CR
+712|04|LTE 1800|"Telefónica de Costa Rica TC, S.A."|Movistar|Movistar|Movistar
+712|04|3G 850|"Telefónica de Costa Rica TC, S.A."|Movistar|Movistar|Movistar
+712|04|3G 2100|"Telefónica de Costa Rica TC, S.A."|Movistar|Movistar|Movistar
+712|04|GSM 1800|"Telefónica de Costa Rica TC, S.A."|Movistar|Movistar|Movistar
+712|02|GSM 1800|Instituto Costarricense de Electricidad - ICE|I.C.E.|I.C.E.|I.C.E.
+712|01|3G 850|Instituto Costarricense de Electricidad - ICE|I.C.E.|I.C.E.|I.C.E.
+712|01|GSM 1800|Instituto Costarricense de Electricidad - ICE|I.C.E.|I.C.E.|I.C.E.
+712|02|3G 850|Instituto Costarricense de Electricidad - ICE|I.C.E.|I.C.E.|I.C.E.
+368|01|3G 900|"Empresa de Telecomunicaciones de Cuba, SA (ETECSA)"|ETECSA|CUBACEL|CUBACEL
+368|01|GSM 900|"Empresa de Telecomunicaciones de Cuba, SA (ETECSA)"|ETECSA|CUBACEL|CUBACEL
+346|140|GSM 850|Cable and Wireless (Cayman Islands) Ltd|FLOW|FLOW|FLOW
+346|140|GSM 1900|Cable and Wireless (Cayman Islands) Ltd|FLOW|FLOW|FLOW
+280|20|GSM 900|PrimeTel PLC |PrimeTel PLC|PrimeTel PLC|PrimeTel
+280|20|GSM 1800|PrimeTel PLC |PrimeTel PLC|PrimeTel PLC|PrimeTel
+280|20|3G 900|PrimeTel PLC |PrimeTel PLC|PrimeTel PLC|PrimeTel
+280|20|3G 2100|PrimeTel PLC |PrimeTel PLC|PrimeTel PLC|PrimeTel
+280|20|LTE 900|PrimeTel PLC |PrimeTel PLC|PrimeTel PLC|PrimeTel
+280|20|LTE 1800|PrimeTel PLC |PrimeTel PLC|PrimeTel PLC|PrimeTel
+280|10|3G 2100|MTN Cyprus Limited|MTN|MTN|MTN
+280|10|GSM 900|MTN Cyprus Limited|MTN|MTN|MTN
+280|10|GSM 1800|MTN Cyprus Limited|MTN|MTN|MTN
+280|10|LTE 1800|MTN Cyprus Limited|MTN|MTN|MTN
+280|01|GSM 900|Cyprus Telecommunications Authority|Cytamobile-Vodafone|Cyta-Voda|CytaVoda
+280|01|GSM 1800|Cyprus Telecommunications Authority|Cytamobile-Vodafone|Cyta-Voda|CytaVoda
+230|03|LTE 800|Vodafone Czech Republic a.s.|Vodafone|Vodafone CZ|Vodafone
+230|03|LTE 900|Vodafone Czech Republic a.s.|Vodafone|Vodafone CZ|Vodafone
+230|03|LTE 1800|Vodafone Czech Republic a.s.|Vodafone|Vodafone CZ|Vodafone
+230|03|LTE 2100|Vodafone Czech Republic a.s.|Vodafone|Vodafone CZ|Vodafone
+230|03|LTE 2600|Vodafone Czech Republic a.s.|Vodafone|Vodafone CZ|Vodafone
+230|03|GSM 900|Vodafone Czech Republic a.s.|Vodafone|Vodafone CZ|Vodafone
+230|03|GSM 1800|Vodafone Czech Republic a.s.|Vodafone|Vodafone CZ|Vodafone
+230|03|3G 2100|Vodafone Czech Republic a.s.|Vodafone|Vodafone CZ|Vodafone
+230|01|LTE-FDD 2100|T-Mobile Czech Republic a.s.|T-Mobile CZ|T-Mobile CZ|TMO CZ
+230|01|LTE-FDD 2600|T-Mobile Czech Republic a.s.|T-Mobile CZ|T-Mobile CZ|TMO CZ
+230|01|GSM 900|T-Mobile Czech Republic a.s.|T-Mobile CZ|T-Mobile CZ|TMO CZ
+230|01|GSM 1800|T-Mobile Czech Republic a.s.|T-Mobile CZ|T-Mobile CZ|TMO CZ
+230|01|3G 2100|T-Mobile Czech Republic a.s.|T-Mobile CZ|T-Mobile CZ|TMO CZ
+230|01|LTE-FDD 800|T-Mobile Czech Republic a.s.|T-Mobile CZ|T-Mobile CZ|TMO CZ
+230|01|LTE-FDD 1800|T-Mobile Czech Republic a.s.|T-Mobile CZ|T-Mobile CZ|TMO CZ
+230|02|GSM 900|O2 Czech Republic a.s.|O2 Czech Republic|O2 - CZ|O2 - CZ
+230|02|GSM 1800|O2 Czech Republic a.s.|O2 Czech Republic|O2 - CZ|O2 - CZ
+230|02|3G 2100|O2 Czech Republic a.s.|O2 Czech Republic|O2 - CZ|O2 - CZ
+230|02|LTE 800|O2 Czech Republic a.s.|O2 Czech Republic|O2 - CZ|O2 - CZ
+230|02|LTE 1800|O2 Czech Republic a.s.|O2 Czech Republic|O2 - CZ|O2 - CZ
+262|07|GSM 1800|Telefónica Germany GmbH & Co. OHG|O2 Germany|o2 - de|o2 - de
+262|07|LTE 2600|Telefónica Germany GmbH & Co. OHG|O2 Germany|o2 - de|o2 - de
+262|07|3G 2100|Telefónica Germany GmbH & Co. OHG|O2 Germany|o2 - de|o2 - de
+262|07|LTE 800|Telefónica Germany GmbH & Co. OHG|O2 Germany|o2 - de|o2 - de
+262|03|LTE 800|Telefónica Germany GmbH & Co. OHG|O2 Germany|o2 - de|o2 - de
+262|03|LTE 2600|Telefónica Germany GmbH & Co. OHG|O2 Germany|o2 - de|o2 - de
+262|03|3G 2100|Telefónica Germany GmbH & Co. OHG|O2 Germany|o2 - de|o2 - de
+262|03|LTE 1800|Telefónica Germany GmbH & Co. OHG|O2 Germany|o2 - de|o2 - de
+262|03|GSM 1800|Telefónica Germany GmbH & Co. OHG|O2 Germany|o2 - de|o2 - de
+262|03|GSM 900|Telefónica Germany GmbH & Co. OHG|O2 Germany|o2 - de|o2 - de
+262|07|GSM 900|Telefónica Germany GmbH & Co. OHG|O2 Germany|o2 - de|o2 - de
+262|07|LTE 1800|Telefónica Germany GmbH & Co. OHG|O2 Germany|o2 - de|o2 - de
+262|02|GSM 900|Vodafone GmbH|Vodafone|Vodafone.de|Vodafone
+262|02|GSM 1800|Vodafone GmbH|Vodafone|Vodafone.de|Vodafone
+262|02|3G 2100|Vodafone GmbH|Vodafone|Vodafone.de|Vodafone
+262|01|3G 2100|Telekom Deutschland GmbH|Telekom Deutschland GmbH|Telekom.de|TDG
+262|01|GSM 900|Telekom Deutschland GmbH|Telekom Deutschland GmbH|Telekom.de|TDG
+262|01|GSM 1800|Telekom Deutschland GmbH|Telekom Deutschland GmbH|Telekom.de|TDG
+638|01|3G 2100|Djibouti Telecom S.A.|Evatis|DJ EVATIS|EVATIS
+638|01|LTE 800|Djibouti Telecom S.A.|Evatis|DJ EVATIS|EVATIS
+638|01|LTE 1800|Djibouti Telecom S.A.|Evatis|DJ EVATIS|EVATIS
+638|01|3G 900|Djibouti Telecom S.A.|Evatis|DJ EVATIS|EVATIS
+638|01|GSM 1800|Djibouti Telecom S.A.|Evatis|DJ EVATIS|EVATIS
+638|01|GSM 900|Djibouti Telecom S.A.|Evatis|DJ EVATIS|EVATIS
+366|020|GSM 900|Wireless Ventures (Dominica) Ltd.|Digicel Dominica|Cingular|Cingular
+366|020|GSM 1900|Wireless Ventures (Dominica) Ltd.|Digicel Dominica|Cingular|Cingular
+366|110|GSM 850|Cable & Wireless Dominica Limited|FLOW|FLOW|FLOW
+238|06|3G 2100|HI3G Denmark ApS|3 DK|3 DK|3 DK
+238|20|GSM 900|Telia Nattjanster Norden AB|Telia DK|Telia DK|Telia
+238|20|GSM 1800|Telia Nattjanster Norden AB|Telia DK|Telia DK|Telia
+238|20|3G 2100|Telia Nattjanster Norden AB|Telia DK|Telia DK|Telia
+238|66|3G 2100|Telia Nattjanster Norden AB|Telia DK|Telia-Telenor DK|TT DK
+238|66|GSM 900|Telia Nattjanster Norden AB|Telia DK|Telia-Telenor DK|TT DK
+238|66|GSM 1800|Telia Nattjanster Norden AB|Telia DK|Telia-Telenor DK|TT DK
+238|01|GSM 900|TDC A/S|TDC Denmark|TDC|TDC
+238|01|GSM 1800|TDC A/S|TDC Denmark|TDC|TDC
+238|01|3G 2100|TDC A/S|TDC Denmark|TDC|TDC
+238|01|3G 900|TDC A/S|TDC Denmark|TDC|TDC
+238|01|LTE 2600|TDC A/S|TDC Denmark|TDC|TDC
+238|01|LTE-FDD 800|TDC A/S|TDC Denmark|TDC|TDC
+238|01|LTE-FDD 1800|TDC A/S|TDC Denmark|TDC|TDC
+238|77|GSM 900|Telenor A/S|Telenor DK|Telenor DK|TelenoDK
+238|77|GSM 1800|Telenor A/S|Telenor DK|Telenor DK|TelenoDK
+238|77|3G 900|Telenor A/S|Telenor DK|Telenor DK|TelenoDK
+238|77|3G 2100|Telenor A/S|Telenor DK|Telenor DK|TelenoDK
+238|02|GSM 900|Telenor A/S|Telenor DK|Telenor DK|TelenoDK
+238|02|GSM 1800|Telenor A/S|Telenor DK|Telenor DK|TelenoDK
+238|02|3G 900|Telenor A/S|Telenor DK|Telenor DK|TelenoDK
+238|02|3G 2100|Telenor A/S|Telenor DK|Telenor DK|TelenoDK
+238|02|LTE 800|Telenor A/S|Telenor DK|Telenor DK|TelenoDK
+238|02|LTE 1800|Telenor A/S|Telenor DK|Telenor DK|TelenoDK
+238|02|LTE 2600|Telenor A/S|Telenor DK|Telenor DK|TelenoDK
+238|66|GSM 900|Telenor A/S|Telia-Telenor DK|Telia-Telenor DK|TT DK
+238|66|GSM 1800|Telenor A/S|Telia-Telenor DK|Telia-Telenor DK|TT DK
+238|66|3G 900|Telenor A/S|Telia-Telenor DK|Telia-Telenor DK|TT DK
+238|66|3G 2100|Telenor A/S|Telia-Telenor DK|Telia-Telenor DK|TT DK
+238|66|LTE 800|Telenor A/S|Telia-Telenor DK|Telia-Telenor DK|TT DK
+238|66|LTE 1800|Telenor A/S|Telia-Telenor DK|Telia-Telenor DK|TT DK
+238|66|LTE 2600|Telenor A/S|Telia-Telenor DK|Telia-Telenor DK|TT DK
+370|04|GSM 900|Trilogy Dominicana S.A.|Viva DO|Viva DO|Viva
+370|02|LTE 2100|"Compañia Dominicana de Teléfonos, S.A."|CLARO GSM|CLARO DOM|ClaroDOM
+370|02|GSM 850|"Compañia Dominicana de Teléfonos, S.A."|CLARO GSM|CLARO DOM|ClaroDOM
+370|02|GSM 1900|"Compañia Dominicana de Teléfonos, S.A."|CLARO GSM|CLARO DOM|ClaroDOM
+370|02|3G 850|"Compañia Dominicana de Teléfonos, S.A."|CLARO GSM|CLARO DOM|ClaroDOM
+370|01|3G 850|"Altice Dominicana, S.A."|ALTICE|ALTICE|ALTICE
+370|01|3G 900|"Altice Dominicana, S.A."|ALTICE|ALTICE|ALTICE
+370|01|GSM 900|"Altice Dominicana, S.A."|ALTICE|ALTICE|ALTICE
+370|01|GSM 1800|"Altice Dominicana, S.A."|ALTICE|ALTICE|ALTICE
+370|01|GSM 1900|"Altice Dominicana, S.A."|ALTICE|ALTICE|ALTICE
+370|05|LTE-TDD 2600|"Wind Telecom, S.A."|Wind Telecom|Wind Telecom DO|Wind
+603|02|GSM 900|Optimum Telecom Algeria Spa|Djezzy|Djezzy|Djezzy
+603|02|GSM 1800|Optimum Telecom Algeria Spa|Djezzy|Djezzy|Djezzy
+603|01|GSM 900|ATM Mobilis|Mobilis|ALG Mobilis|Mobilis
+603|01|GSM 1800|ATM Mobilis|Mobilis|ALG Mobilis|Mobilis
+603|03|GSM 900|Wataniya Télécom Algérie|Wataniya Télécom Algérie|ooredoo Algeria|Ooredoo
+603|03|GSM 1800|Wataniya Télécom Algérie|Wataniya Télécom Algérie|ooredoo Algeria|Ooredoo
+740|00|GSM 850|Otecel Sociedad Anónima|MOVISTAR|Movistar|Movistar
+740|00|3G 850|Otecel Sociedad Anónima|MOVISTAR|Movistar|Movistar
+740|00|3G 1900|Otecel Sociedad Anónima|MOVISTAR|Movistar|Movistar
+740|00|GSM 1900|Otecel Sociedad Anónima|MOVISTAR|Movistar|Movistar
+740|00|LTE 1900|Otecel Sociedad Anónima|MOVISTAR|Movistar|Movistar
+740|01|3G 850|Conecel S.A. (Consorcio Ecuatoriano de Telecomunicaciones S.A.)|Claro Ecuador|CLARO|CLARO
+740|01|GSM 850|Conecel S.A. (Consorcio Ecuatoriano de Telecomunicaciones S.A.)|Claro Ecuador|CLARO|CLARO
+740|02|GSM 1900|Corporación Nacional de Telecomunicaciones CNT E.P.|CNT|CNT|CNT
+740|02|3G 1900|Corporación Nacional de Telecomunicaciones CNT E.P.|CNT|CNT|CNT
+740|02|LTE 1700|Corporación Nacional de Telecomunicaciones CNT E.P.|CNT|CNT|CNT
+740|02|LTE 2100|Corporación Nacional de Telecomunicaciones CNT E.P.|CNT|CNT|CNT
+602|03|3G 2100|Etisalat - Misr|Etisalat|Etisalat|Etisalat
+602|03|GSM 900|Etisalat - Misr|Etisalat|Etisalat|Etisalat
+602|03|GSM 1800|Etisalat - Misr|Etisalat|Etisalat|Etisalat
+602|02|GSM 900|Vodafone Egypt Telecommunications S.A.E|vodafone|vodafone EG|voda EG
+602|01|GSM 900|Orange Egypt for Telecommunications|Orange|Orange EG|Orange
+602|01|3G 2100|Orange Egypt for Telecommunications|Orange|Orange EG|Orange
+602|04|LTE 700|Telecom Egypt|we|EGYwe|we
+602|04|LTE 1800|Telecom Egypt|we|EGYwe|we
+214|04|3G 2100|"Xfera Móviles, S.A."|YOIGO|YOIGO|YOIGO
+214|04|LTE 1800|"Xfera Móviles, S.A."|YOIGO|YOIGO|YOIGO
+214|03|GSM 900|"Orange Espagne, S.A., sociedad unipersonal"|"Orange Espagne, S.A.U, sociedad unipersonal"|Orange SP|ESPRT
+214|03|GSM 1800|"Orange Espagne, S.A., sociedad unipersonal"|"Orange Espagne, S.A.U, sociedad unipersonal"|Orange SP|ESPRT
+214|03|3G 2100|"Orange Espagne, S.A., sociedad unipersonal"|"Orange Espagne, S.A.U, sociedad unipersonal"|Orange SP|ESPRT
+214|07|GSM 900|Telefónica Móviles España S.A.|Movistar|Movistar|Movistar
+214|07|GSM 1800|Telefónica Móviles España S.A.|Movistar|Movistar|Movistar
+214|07|3G 2100|Telefónica Móviles España S.A.|Movistar|Movistar|Movistar
+214|07|LTE 800|Telefónica Móviles España S.A.|Movistar|Movistar|Movistar
+214|07|LTE 1800|Telefónica Móviles España S.A.|Movistar|Movistar|Movistar
+214|07|LTE 2600|Telefónica Móviles España S.A.|Movistar|Movistar|Movistar
+214|01|3G 2100|"Vodafone España, S.A.U."|vodafone|vodafone ES|voda ES
+214|01|GSM 900|"Vodafone España, S.A.U."|vodafone|vodafone ES|voda ES
+214|01|GSM 1800|"Vodafone España, S.A.U."|vodafone|vodafone ES|voda ES
+248|03|GSM 900|Tele2 Eesti Aktsiaselts|Tele2|Tele2 EE|Tele2 EE
+248|03|GSM 1800|Tele2 Eesti Aktsiaselts|Tele2|Tele2 EE|Tele2 EE
+248|03|3G 2100|Tele2 Eesti Aktsiaselts|Tele2|Tele2 EE|Tele2 EE
+248|02|GSM 900|Elisa Eesti AS|Elisa Eesti|Elisa EE|ELISA
+248|02|GSM 1800|Elisa Eesti AS|Elisa Eesti|Elisa EE|ELISA
+248|02|3G 2100|Elisa Eesti AS|Elisa Eesti|Elisa EE|ELISA
+248|02|LTE 800|Elisa Eesti AS|Elisa Eesti|Elisa EE|ELISA
+248|02|LTE 1800|Elisa Eesti AS|Elisa Eesti|Elisa EE|ELISA
+248|02|LTE 2600|Elisa Eesti AS|Elisa Eesti|Elisa EE|ELISA
+248|01|GSM 900|Telia Eesti AS|Telia|Telia|Telia
+248|01|GSM 1800|Telia Eesti AS|Telia|Telia|Telia
+248|01|3G 2100|Telia Eesti AS|Telia|Telia|Telia
+248|01|LTE 2600|Telia Eesti AS|Telia|Telia|Telia
+248|01|LTE 800|Telia Eesti AS|Telia|Telia|Telia
+248|01|LTE 1800|Telia Eesti AS|Telia|Telia|Telia
+636|01|GSM 900|Ethio Telecom|ETH MTN|ETH MTN|ET-MTN
+244|12|GSM 900|DNA Plc|DNA Ltd|FI DNA|DNA
+244|12|GSM 1800|DNA Plc|DNA Ltd|FI DNA|DNA
+244|12|3G 900|DNA Plc|DNA Ltd|FI DNA|DNA
+244|12|3G 2100|DNA Plc|DNA Ltd|FI DNA|DNA
+244|03|GSM 900|DNA Plc|DNA Ltd|FI DNA|DNA
+244|03|GSM 1800|DNA Plc|DNA Ltd|FI DNA|DNA
+244|03|3G 900|DNA Plc|DNA Ltd|FI DNA|DNA
+244|03|3G 2100|DNA Plc|DNA Ltd|FI DNA|DNA
+244|12|GSM 900|DNA Plc|DNA Ltd|FI DNA|DNA
+244|12|GSM 1800|DNA Plc|DNA Ltd|FI DNA|DNA
+244|12|3G 900|DNA Plc|DNA Ltd|FI DNA|DNA
+244|12|3G 900|DNA Plc|DNA Ltd|FI DNA|DNA
+244|03|GSM 900|DNA Plc|DNA Ltd|FI DNA|DNA
+244|03|GSM 1800|DNA Plc|DNA Ltd|FI DNA|DNA
+244|03|3G 900|DNA Plc|DNA Ltd|FI DNA|DNA
+244|03|3G 900|DNA Plc|DNA Ltd|FI DNA|DNA
+244|12|LTE 800|DNA Plc|DNA Ltd|FI DNA|DNA
+244|12|LTE 1800|DNA Plc|DNA Ltd|FI DNA|DNA
+244|12|LTE 2600|DNA Plc|DNA Ltd|FI DNA|DNA
+244|36|GSM 900|DNA Plc|DNA Ltd - SuomenYV|DNA - Sonera FI|SuomenYV
+244|36|GSM 1800|DNA Plc|DNA Ltd - SuomenYV|DNA - Sonera FI|SuomenYV
+244|36|3G 900|DNA Plc|DNA Ltd - SuomenYV|DNA - Sonera FI|SuomenYV
+244|36|3G 2100|DNA Plc|DNA Ltd - SuomenYV|DNA - Sonera FI|SuomenYV
+244|36|LTE 800|DNA Plc|DNA Ltd - SuomenYV|DNA - Sonera FI|SuomenYV
+244|36|LTE 1800|DNA Plc|DNA Ltd - SuomenYV|DNA - Sonera FI|SuomenYV
+244|36|LTE 2600|DNA Plc|DNA Ltd - SuomenYV|DNA - Sonera FI|SuomenYV
+244|36|GSM 900|DNA Plc|Sonera - SuomenYV|DNA - Sonera FI|SuomenYV
+244|36|GSM 1800|DNA Plc|Sonera - SuomenYV|DNA - Sonera FI|SuomenYV
+244|36|LTE 800|DNA Plc|Sonera - SuomenYV|DNA - Sonera FI|SuomenYV
+244|36|LTE 2600|DNA Plc|Sonera - SuomenYV|DNA - Sonera FI|SuomenYV
+244|36|LTE 1800|DNA Plc|Sonera - SuomenYV|DNA - Sonera FI|SuomenYV
+244|91|GSM 900|Telia Finland Oyj|SONERA|FI SONERA|SONERA
+244|91|GSM 1800|Telia Finland Oyj|SONERA|FI SONERA|SONERA
+244|91|3G 2100|Telia Finland Oyj|SONERA|FI SONERA|SONERA
+244|91|LTE 800|Telia Finland Oyj|SONERA|FI SONERA|SONERA
+244|91|LTE 1800|Telia Finland Oyj|SONERA|FI SONERA|SONERA
+244|91|LTE 2600|Telia Finland Oyj|SONERA|FI SONERA|SONERA
+244|36|GSM 900|Telia Finland Oyj|Sonera - SuomenYV|DNA - Sonera FI|SuomenYV
+244|36|GSM 1800|Telia Finland Oyj|Sonera - SuomenYV|DNA - Sonera FI|SuomenYV
+244|36|LTE 800|Telia Finland Oyj|Sonera - SuomenYV|DNA - Sonera FI|SuomenYV
+244|36|LTE 1800|Telia Finland Oyj|Sonera - SuomenYV|DNA - Sonera FI|SuomenYV
+244|36|LTE 2600|Telia Finland Oyj|Sonera - SuomenYV|DNA - Sonera FI|SuomenYV
+244|05|LTE 2100|Elisa Corporation|Elisa Corporation|FI elisa|elisa
+244|21|LTE 2100|Elisa Corporation|Elisa Corporation|FI elisa|elisa
+244|05|3G 900|Elisa Corporation|Elisa Corporation|FI elisa|elisa
+244|05|3G 2100|Elisa Corporation|Elisa Corporation|FI elisa|elisa
+244|05|GSM 900|Elisa Corporation|Elisa Corporation|FI elisa|elisa
+244|05|GSM 1800|Elisa Corporation|Elisa Corporation|FI elisa|elisa
+244|05|LTE 1800|Elisa Corporation|Elisa Corporation|FI elisa|elisa
+244|05|LTE 2100|Elisa Corporation|Elisa Corporation|FI elisa|elisa
+244|21|3G 900|Elisa Corporation|Elisa Corporation|FI elisa|elisa
+244|21|3G 2100|Elisa Corporation|Elisa Corporation|FI elisa|elisa
+244|21|GSM 900|Elisa Corporation|Elisa Corporation|FI elisa|elisa
+244|21|GSM 1800|Elisa Corporation|Elisa Corporation|FI elisa|elisa
+244|21|LTE 1800|Elisa Corporation|Elisa Corporation|FI elisa|elisa
+244|21|LTE 2100|Elisa Corporation|Elisa Corporation|FI elisa|elisa
+244|05|LTE 700|Elisa Corporation|Elisa Corporation|FI elisa|elisa
+244|21|LTE 700|Elisa Corporation|Elisa Corporation|FI elisa|elisa
+244|21|LTE 800|Elisa Corporation|Elisa Corporation|FI elisa|elisa
+244|05|LTE 800|Elisa Corporation|Elisa Corporation|FI elisa|elisa
+244|14|GSM 900|Ålands Telekommunikation Ab|Alands Telekommunikation Ab|FI AMT|FI AMT
+244|14|3G 2100|Ålands Telekommunikation Ab|Alands Telekommunikation Ab|FI AMT|FI AMT
+244|14|3G 900|Ålands Telekommunikation Ab|Alands Telekommunikation Ab|FI AMT|FI AMT
+244|14|LTE 800|Ålands Telekommunikation Ab|Alands Telekommunikation Ab|FI AMT|FI AMT
+244|14|LTE 1800|Ålands Telekommunikation Ab|Alands Telekommunikation Ab|FI AMT|FI AMT
+244|14|LTE 2600|Ålands Telekommunikation Ab|Alands Telekommunikation Ab|FI AMT|FI AMT
+542|02|3G 900|Digicel (Fiji) Ltd|Digicel (Fiji) Limited|DIGICEL|DIGICEL
+542|02|GSM 900|Digicel (Fiji) Ltd|Digicel (Fiji) Limited|DIGICEL|DIGICEL
+542|01|GSM 900|Vodafone Fiji Pte Limited|VODAFONE|FJ VODAFONE|VODAFONE
+542|01|3G 2100|Vodafone Fiji Pte Limited|VODAFONE|FJ VODAFONE|VODAFONE
+542|01|LTE 1800|Vodafone Fiji Pte Limited|VODAFONE|FJ VODAFONE|VODAFONE
+750|001|GSM 900|Sure South Atlantic Limited|Sure South Atlantic Limited|Sure FLK|Sure
+750|001|GSM 1800|Sure South Atlantic Limited|Sure South Atlantic Limited|Sure FLK|Sure
+208|15|3G 900|Free Mobile|Free Mobile|Free|Free
+208|15|3G 2100|Free Mobile|Free Mobile|Free|Free
+208|10|GSM 900|Société Française du Radiotéléphone S.A.|SFR|F SFR|SFR
+208|10|GSM 1800|Société Française du Radiotéléphone S.A.|SFR|F SFR|SFR
+208|10|LTE 800|Société Française du Radiotéléphone S.A.|SFR|F SFR|SFR
+208|10|LTE 2600|Société Française du Radiotéléphone S.A.|SFR|F SFR|SFR
+208|10|3G 900|Société Française du Radiotéléphone S.A.|SFR|F SFR|SFR
+208|10|3G 2100|Société Française du Radiotéléphone S.A.|SFR|F SFR|SFR
+208|09|GSM 900|Société Française du Radiotéléphone S.A.|SFR|F SFR|SFR
+208|09|3G 900|Société Française du Radiotéléphone S.A.|SFR|F SFR|SFR
+208|09|GSM 1800|Société Française du Radiotéléphone S.A.|SFR|F SFR|SFR
+208|09|3G 2100|Société Française du Radiotéléphone S.A.|SFR|F SFR|SFR
+208|13|GSM 900|Société Française du Radiotéléphone S.A.|SFR (Contact)|F - Contact|Contact
+208|13|GSM 1800|Société Française du Radiotéléphone S.A.|SFR (Contact)|F - Contact|Contact
+208|11|3G 2100|Société Française du Radiotéléphone S.A.|SFR (FEMTO)|SFR FEMTO|SFRFEMTO
+208|01|3G 900|Orange|Orange France|Orange F|Orange
+208|01|3G 2100|Orange|Orange France|Orange F|Orange
+208|02|GSM 900|Orange|Orange France|F-Contact|Contact
+208|02|GSM 1800|Orange|Orange France|F-Contact|Contact
+208|20|3G 2100|Bouygues Télécom |Bouygues Telecom|F-Bouygues Telecom|BYTEL
+208|20|GSM 900|Bouygues Télécom |Bouygues Telecom|F-Bouygues Telecom|BYTEL
+208|20|GSM 1800|Bouygues Télécom |Bouygues Telecom|F-Bouygues Telecom|BYTEL
+208|88|GSM 900|Bouygues Télécom |Bouygues Telecom (Contact)|F - Contact|Contact
+208|88|GSM 1800|Bouygues Télécom |Bouygues Telecom (Contact)|F - Contact|Contact
+288|02|GSM 900|P/F Kall|VODAFONE FO|VODAFONE FO|VODAFONE
+288|02|3G 2100|P/F Kall|VODAFONE FO|VODAFONE FO|VODAFONE
+288|02|GSM 900|P/F Kall|VODAFONE FO|VODAFONE FO|VODAFONE
+288|02|3G 2100|P/F Kall|VODAFONE FO|VODAFONE FO|VODAFONE
+288|02|LTE 1800|P/F Kall|VODAFONE FO|VODAFONE FO|VODAFONE
+288|01|GSM 900|Føroya Tele (Faroese Telecom)|Faroese Telecom|Foroya Tele|FT-GSM
+288|01|3G 900|Føroya Tele (Faroese Telecom)|Faroese Telecom|Foroya Tele|FT-GSM
+288|01|3G 2100|Føroya Tele (Faroese Telecom)|Faroese Telecom|Foroya Tele|FT-GSM
+288|01|LTE 800|Føroya Tele (Faroese Telecom)|Faroese Telecom|Foroya Tele|FT-GSM
+288|01|3G 1800|Føroya Tele (Faroese Telecom)|Faroese Telecom|Foroya Tele|FT-GSM
+550|01|GSM 900|Federated States of Micronesia Telecommunications Corporation|FSM Telecommunications Corporation|FSM Telecom|FSM Tele
+628|01|GSM 900|Libertis S.A.|LIBERTIS|LIBERTIS|LIBERTIS
+628|04|GSM 900|USAN-Gabon |AZUR GABON|AZUR|AZUR
+628|04|GSM 1800|USAN-Gabon |AZUR GABON|AZUR|AZUR
+628|02|GSM 900|Atlantique Telecom Gabon S.A.|ETISALAT GABON|ETISALAT GAB|ETISALAT
+234|28|3G 1900|Marathon Telecom Limited|Marathon Telecom Limited|Marathon|Marathon
+234|28|3G 2100|Marathon Telecom Limited|Marathon Telecom Limited|Marathon|Marathon
+234|55|3G 2100|Sure (Isle of Man) Limited|Sure|Sure|Sure
+234|55|GSM 900|Sure (Isle of Man) Limited|Sure|Sure|Sure
+234|55|GSM 1800|Sure (Isle of Man) Limited|Sure|Sure|Sure
+234|55|3G 900|Sure (Isle of Man) Limited|Sure|Sure|Sure
+234|55|LTE 800|Sure (Isle of Man) Limited|Sure|Sure|Sure
+234|55|LTE 1800|Sure (Isle of Man) Limited|Sure|Sure|Sure
+234|03|GSM 900|Jersey Airtel Limited|Airtel-Vodafone|Airtel-Vodafone|ATL-VOD
+234|03|GSM 1800|Jersey Airtel Limited|Airtel-Vodafone|Airtel-Vodafone|ATL-VOD
+234|03|3G 2100|Jersey Airtel Limited|Airtel-Vodafone|Airtel-Vodafone|ATL-VOD
+234|03|LTE 800|Jersey Airtel Limited|Airtel-Vodafone|Airtel-Vodafone|ATL-VOD
+234|03|LTE 1800|Jersey Airtel Limited|Airtel-Vodafone|Airtel-Vodafone|ATL-VOD
+234|03|LTE 2600|Jersey Airtel Limited|Airtel-Vodafone|Airtel-Vodafone|ATL-VOD
+234|03|3G 900|Jersey Airtel Limited|Airtel-Vodafone|Airtel-Vodafone|ATL-VOD
+234|55|3G 2100|Sure (Jersey) Limited|Sure|Sure|Sure
+234|55|GSM 900|Sure (Jersey) Limited|Sure|Sure|Sure
+234|55|GSM 1800|Sure (Jersey) Limited|Sure|Sure|Sure
+234|55|3G 900|Sure (Jersey) Limited|Sure|Sure|Sure
+234|55|LTE 1800|Sure (Jersey) Limited|Sure|Sure|Sure
+234|15|3G 2100|Vodafone Ltd|vodafone|vodafone UK|voda UK
+234|15|GSM 900|Vodafone Ltd|vodafone|vodafone UK|voda UK
+234|15|GSM 1800|Vodafone Ltd|vodafone|vodafone UK|voda UK
+234|15|LTE 800|Vodafone Ltd|vodafone|vodafone UK|voda UK
+234|15|LTE 2600|Vodafone Ltd|vodafone|vodafone UK|voda UK
+234|15|3G 900|Vodafone Ltd|vodafone|vodafone UK|voda UK
+234|58|3G 2100|Manx Telecom|Manx Telecom|Manx Telecom|MANX
+234|58|GSM 900|Manx Telecom|Manx Telecom|Manx Telecom|MANX
+234|50|3G 2100|JT (Jersey) Limited|JT|JT|JT
+234|50|GSM 900|JT (Jersey) Limited|JT|JT|JT
+234|50|GSM 1800|JT (Jersey) Limited|JT|JT|JT
+234|50|LTE 800|JT (Jersey) Limited|JT|JT|JT
+234|50|LTE 2600|JT (Jersey) Limited|JT|JT|JT
+234|50|LTE 1800|JT (Jersey) Limited|JT|JT|JT
+234|55|LTE 800|Sure (Guernsey) Limited |Sure|Sure|Sure
+234|55|GSM 900|Sure (Guernsey) Limited |Sure|Sure|Sure
+234|55|3G 2100|Sure (Guernsey) Limited |Sure|Sure|Sure
+234|55|3G 900|Sure (Guernsey) Limited |Sure|Sure|Sure
+234|55|LTE 1800|Sure (Guernsey) Limited |Sure|Sure|Sure
+234|10|GSM 900|Telefónica UK Limited|O2 (UK)|O2 - UK|O2 - UK
+234|10|GSM 1800|Telefónica UK Limited|O2 (UK)|O2 - UK|O2 - UK
+234|10|3G 2100|Telefónica UK Limited|O2 (UK)|O2 - UK|O2 - UK
+234|33|GSM 1800|EE Limited|Orange|EE|EE
+234|33|3G 2100|EE Limited|Orange|EE|EE
+234|30|3G 2100|EE Limited|T-Mobile|EE|EE
+234|30|GSM 1800|EE Limited|T-Mobile|EE|EE
+234|20|3G 2100|Hutchison 3G UK Limited|3|3 UK|3 UK
+234|20|LTE 800|Hutchison 3G UK Limited|3|3 UK|3 UK
+234|20|LTE 1400|Hutchison 3G UK Limited|3|3 UK|3 UK
+234|20|LTE 1800|Hutchison 3G UK Limited|3|3 UK|3 UK
+234|20|LTE 2100|Hutchison 3G UK Limited|3|3 UK|3 UK
+282|04|3G 2100|Veon Georgia LLC|"Mobitel, Georgia"|BEELINE|BEE
+282|04|GSM 900|Veon Georgia LLC|"Mobitel, Georgia"|BEELINE|BEE
+282|04|GSM 1800|Veon Georgia LLC|"Mobitel, Georgia"|BEELINE|BEE
+282|04|LTE 2100|Veon Georgia LLC|"Mobitel, Georgia"|BEELINE|BEE
+282|02|GSM 900|Magticom Ltd|Magticom LTD|MAGTI-GSM-GEO|MAGTI
+282|02|GSM 1800|Magticom Ltd|Magticom LTD|MAGTI-GSM-GEO|MAGTI
+282|01|GSM 900|Silknet JSC|GEOCELL|GEO-GEOCELL|GCELL
+282|01|GSM 1800|Silknet JSC|GEOCELL|GEO-GEOCELL|GCELL
+282|01|3G 2100|Silknet JSC|GEOCELL|GEO-GEOCELL|GCELL
+620|07|GSM 900|Glo Mobile Ghana Limited|Glo Ghana|Glo Ghana|GloGhana
+620|07|GSM 1800|Glo Mobile Ghana Limited|Glo Ghana|Glo Ghana|GloGhana
+620|07|3G 2100|Glo Mobile Ghana Limited|Glo Ghana|Glo Ghana|GloGhana
+620|02|GSM 900|Vodafone Ghana|Vodafone Ghana|GH Vodafone|Vodafone
+620|01|GSM 900|Scancom PLC|MTN|GH MTN|MTN
+620|01|3G 2100|Scancom PLC|MTN|GH MTN|MTN
+620|01|GSM 1800|Scancom PLC|MTN|GH MTN|MTN
+620|06|GSM 900|Airtel Ghana Limited|AirtelTigo|AirtelTigo|ATL-TIGO
+620|06|GSM 1800|Airtel Ghana Limited|AirtelTigo|AirtelTigo|ATL-TIGO
+620|06|3G 2100|Airtel Ghana Limited|AirtelTigo|AirtelTigo|ATL-TIGO
+620|03|GSM 900|Airtel Ghana Limited|AirtelTigo|AirtelTigo|ATL-TIGO
+620|03|GSM 1800|Airtel Ghana Limited|AirtelTigo|AirtelTigo|ATL-TIGO
+620|03|3G 2100|Airtel Ghana Limited|AirtelTigo|AirtelTigo|ATL-TIGO
+266|01|GSM 900|Gibtelecom Limited|GIBTEL|GIBTEL|GIBTEL
+266|01|GSM 1800|Gibtelecom Limited|GIBTEL|GIBTEL|GIBTEL
+266|01|3G 2100|Gibtelecom Limited|GIBTEL|GIBTEL|GIBTEL
+266|01|LTE 800|Gibtelecom Limited|GIBTEL|GIBTEL|GIBTEL
+266|01|LTE 2600|Gibtelecom Limited|GIBTEL|GIBTEL|GIBTEL
+611|05|GSM 900|Cellcom - Guinée S.A.|Cellcom Guinée|GINCL|Cellcom
+611|05|GSM 1800|Cellcom - Guinée S.A.|Cellcom Guinée|GINCL|Cellcom
+611|05|3G 2100|Cellcom - Guinée S.A.|Cellcom Guinée|GINCL|Cellcom
+611|04|GSM 900|Areeba Guinée S.A.|MTN|GNMTN|GNAreeba
+611|04|GSM 1800|Areeba Guinée S.A.|MTN|GNMTN|GNAreeba
+611|01|GSM 900|Orange Guinée S.A.|Orange Guinee|Orange GN|ORANGEGN
+611|01|GSM 1800|Orange Guinée S.A.|Orange Guinee|Orange GN|ORANGEGN
+340|02|GSM 900|Outremer Télécom|Outremer|SFR|SFR
+340|02|GSM 1800|Outremer Télécom|Outremer|SFR|SFR
+340|20|3G 2100|Digicel Antilles Française Guyane|Digicel|Digicel|DigicelF
+340|20|GSM 900|Digicel Antilles Française Guyane|Digicel|Digicel|DigicelF
+340|01|GSM 900|Orange Caraïbe|Orange|F-Orange|Orange
+607|03|GSM 900|Comium Gambia Ltd.|Comium Gambia|GM COMIUM|GMCOMIUM
+607|03|GSM 1800|Comium Gambia Ltd.|Comium Gambia|GM COMIUM|GMCOMIUM
+607|02|GSM 900|Africell (Gambia) Limited|AFRICELL|AFRICELL|AFRICELL
+607|02|GSM 1800|Africell (Gambia) Limited|AFRICELL|AFRICELL|AFRICELL
+607|01|GSM 900|Gambia Telecommunications Cellular Company Ltd (Gamcell)|GAMCELL|GAMCEL|GAMCEL
+607|04|GSM 900|QCell|Qcell|Qcell|QC
+607|04|3G 2100|QCell|Qcell|Qcell|QC
+632|02|GSM 900|Spacetel Guinée-Bissau SA|MTN|MTN|MTN
+632|02|GSM 1800|Spacetel Guinée-Bissau SA|MTN|MTN|MTN
+632|03|GSM 1900|Orange Bissau|Orange Bissau|Orange GB|OrangeGB
+632|03|GSM 1800|Orange Bissau|Orange Bissau|Orange GB|OrangeGB
+627|03|GSM 900|Muni S.A.|Green Com|GNQ-Muni|Muni-GQ
+627|03|GSM 1800|Muni S.A.|Green Com|GNQ-Muni|Muni-GQ
+627|01|GSM 900|Guinea Ecuatorial de Telecomunicaciones Sociedad Anonima|GETESA|GETESA|GETESA
+202|10|GSM 1800|Wind Hellas Telecommunications S.A.|WIND|WIND GR|WIND
+202|10|GSM 900|Wind Hellas Telecommunications S.A.|WIND|WIND GR|WIND
+202|10|3G 2100|Wind Hellas Telecommunications S.A.|WIND|WIND GR|WIND
+202|09|GSM 1800|Wind Hellas Telecommunications S.A.|WIND|WIND GR|WIND
+202|09|GSM 900|Wind Hellas Telecommunications S.A.|WIND|WIND GR|WIND
+202|09|3G 2100|Wind Hellas Telecommunications S.A.|WIND|WIND GR|WIND
+202|05|GSM 900|Vodafone-Panafon Hellenic Telecommunications Company S.A.|vodafone|vodafone GR|voda GR
+202|05|GSM 1800|Vodafone-Panafon Hellenic Telecommunications Company S.A.|vodafone|vodafone GR|voda GR
+202|05|3G 900|Vodafone-Panafon Hellenic Telecommunications Company S.A.|vodafone|vodafone GR|voda GR
+202|05|3G 2100|Vodafone-Panafon Hellenic Telecommunications Company S.A.|vodafone|vodafone GR|voda GR
+202|05|LTE 800|Vodafone-Panafon Hellenic Telecommunications Company S.A.|vodafone|vodafone GR|voda GR
+202|05|LTE 1800|Vodafone-Panafon Hellenic Telecommunications Company S.A.|vodafone|vodafone GR|voda GR
+202|05|LTE 2600|Vodafone-Panafon Hellenic Telecommunications Company S.A.|vodafone|vodafone GR|voda GR
+202|01|GSM 900|Cosmote Mobile Telecommunications S.A.|COSMOTE|GR COSMOTE|C-OTE
+202|01|GSM 1800|Cosmote Mobile Telecommunications S.A.|COSMOTE|GR COSMOTE|C-OTE
+202|01|3G 2100|Cosmote Mobile Telecommunications S.A.|COSMOTE|GR COSMOTE|C-OTE
+352|030|GSM 900|Digicel Grenada Limited|Digicel|DIGICEL|DIGICEL
+352|030|GSM 1800|Digicel Grenada Limited|Digicel|DIGICEL|DIGICEL
+352|110|GSM 850|Cable & Wireless Grenada Limited|FLOW|FLOW|FLOW
+290|01|GSM 900|Tele Greenland  A/S|TELE Greenland|TELE Greenland|TELE GRL
+290|01|3G 900|Tele Greenland  A/S|TELE Greenland|TELE Greenland|TELE GRL
+290|01|LTE 800|Tele Greenland  A/S|TELE Greenland|TELE Greenland|TELE GRL
+704|02|GSM 850|Comunicaciones Celulares S.A.|TIGO GUATEMALA|TIGO|TIGO
+704|02|3G 850|Comunicaciones Celulares S.A.|TIGO GUATEMALA|TIGO|TIGO
+704|02|LTE 850|Comunicaciones Celulares S.A.|TIGO GUATEMALA|TIGO|TIGO
+704|03|3G 1900|"Telecomunicaciones de Guatemala, S.A. (TELGUA)"|CLARO|CLARO GTM|CLAROGTM
+704|03|GSM 1900|"Telecomunicaciones de Guatemala, S.A. (TELGUA)"|CLARO|CLARO GTM|CLAROGTM
+704|03|LTE 1900|"Telecomunicaciones de Guatemala, S.A. (TELGUA)"|CLARO|CLARO GTM|CLAROGTM
+704|01|3G 1900|"Telecomunicaciones de Guatemala, S.A. (TELGUA)"|CLARO|CLARO GTM|CLAROGTM
+704|01|GSM 900|"Telecomunicaciones de Guatemala, S.A. (TELGUA)"|CLARO|CLARO GTM|CLAROGTM
+704|01|GSM 1900|"Telecomunicaciones de Guatemala, S.A. (TELGUA)"|CLARO|CLARO GTM|CLAROGTM
+704|01|LTE 1900|"Telecomunicaciones de Guatemala, S.A. (TELGUA)"|CLARO|CLARO GTM|CLAROGTM
+310|110|3G 850|PTI Pacifica Inc.|IT&E|IT&E|IT&E
+310|110|3G 1900|PTI Pacifica Inc.|IT&E|IT&E|IT&E
+310|110|LTE 1900|PTI Pacifica Inc.|IT&E|IT&E|IT&E
+310|110|LTE 700|PTI Pacifica Inc.|IT&E|IT&E|IT&E
+310|032|GSM 1900|"IT&E Overseas, Inc."|IT&E Wireless|IT&E|IT&E
+310|140|3G 850|"Teleguam Holdings, LLC"|GTA|GTA|GTA
+310|140|GSM 850|"Teleguam Holdings, LLC"|GTA|GTA|GTA
+310|140|GSM 1900|"Teleguam Holdings, LLC"|GTA|GTA|GTA
+310|140|LTE 700|"Teleguam Holdings, LLC"|GTA|GTA|GTA
+310|140|LTE 2100|"Teleguam Holdings, LLC"|GTA|GTA|GTA
+310|470|LTE 2100|"DOCOMO PACIFIC, INC. (Guam)"|DOCOMO PACIFIC INC|DOCOMO PACIFIC|DPAC
+310|370|GSM 1900|"DOCOMO PACIFIC, INC. (Guam)"|DOCOMO PACIFIC INC|DOCOMO PACIFIC|DPAC
+310|370|3G 850|"DOCOMO PACIFIC, INC. (Guam)"|DOCOMO PACIFIC INC|DOCOMO PACIFIC|DPAC
+310|370|3G 1900|"DOCOMO PACIFIC, INC. (Guam)"|DOCOMO PACIFIC INC|DOCOMO PACIFIC|DPAC
+310|370|LTE 700|"DOCOMO PACIFIC, INC. (Guam)"|DOCOMO PACIFIC INC|DOCOMO PACIFIC|DPAC
+310|470|GSM 1900|"DOCOMO PACIFIC, INC. (Guam)"|DOCOMO PACIFIC INC|DOCOMO PACIFIC|DPAC
+310|470|3G 850|"DOCOMO PACIFIC, INC. (Guam)"|DOCOMO PACIFIC INC|DOCOMO PACIFIC|DPAC
+310|470|LTE 700|"DOCOMO PACIFIC, INC. (Guam)"|DOCOMO PACIFIC INC|DOCOMO PACIFIC|DPAC
+310|470|LTE 1700|"DOCOMO PACIFIC, INC. (Guam)"|DOCOMO PACIFIC INC|DOCOMO PACIFIC|DPAC
+738|002|GSM 900|Guyana Telephone and Telegraph Company|GTT + Do More|GUY GTT + Do More|GTT+
+738|002|GSM 1800|Guyana Telephone and Telegraph Company|GTT + Do More|GUY GTT + Do More|GTT+
+738|01|GSM 900|U-Mobile (Cellular) Inc|Digicel Guyana|Digicel|Digicel
+738|01|GSM 1800|U-Mobile (Cellular) Inc|Digicel Guyana|Digicel|Digicel
+454|18|GSM 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|00|GSM 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|02|GSM 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|10|GSM 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|18|GSM 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|00|LTE 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|02|LTE 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|10|LTE 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|18|LTE 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|00|LTE 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|02|LTE 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|10|LTE 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|18|LTE 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|00|LTE 2600|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|02|LTE 2600|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|10|LTE 2600|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|18|LTE 2600|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|00|LTE 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|02|LTE 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|10|LTE 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|18|LTE 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|00|3G 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|02|3G 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|10|3G 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|18|3G 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|00|3G 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|02|3G 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|10|3G 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|18|3G 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|00|GSM 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|02|GSM 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|10|GSM 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|18|GSM 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|00|GSM 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|02|GSM 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|10|GSM 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|18|GSM 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|00|LTE 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|02|LTE 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|10|LTE 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|18|LTE 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|00|LTE 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|02|LTE 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|10|LTE 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|18|LTE 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|00|LTE 2600|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|02|LTE 2600|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|10|LTE 2600|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|18|LTE 2600|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|00|LTE 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|02|LTE 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|10|LTE 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|18|LTE 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|16|3G 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|19|3G 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|20|3G 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|16|3G 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|19|3G 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|20|3G 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|16|GSM 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|19|GSM 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|20|GSM 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|16|LTE 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|19|LTE 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|20|LTE 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|16|LTE 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|19|LTE 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|20|LTE 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|16|LTE 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|19|LTE 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|20|LTE 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|16|LTE 2600|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|19|LTE 2600|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|20|LTE 2600|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|16|3G 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|19|3G 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|20|3G 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|16|3G 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|19|3G 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|20|3G 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|16|GSM 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|19|GSM 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|20|GSM 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|16|LTE 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|19|LTE 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|20|LTE 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|16|LTE 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|19|LTE 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|20|LTE 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|16|LTE 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|19|LTE 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|20|LTE 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|16|LTE 2600|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|19|LTE 2600|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|20|LTE 2600|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|00|3G 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|02|3G 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|10|3G 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|18|3G 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|00|3G 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|02|3G 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|10|3G 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|18|3G 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|00|GSM 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|02|GSM 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|10|GSM 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|18|GSM 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|00|GSM 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|02|GSM 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|10|GSM 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|18|GSM 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|00|LTE 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|02|LTE 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|10|LTE 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|18|LTE 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|00|LTE 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|02|LTE 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|00|3G 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|10|LTE 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|18|LTE 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|00|LTE 2600|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|02|LTE 2600|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|10|LTE 2600|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|18|LTE 2600|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|00|LTE 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|02|LTE 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|10|LTE 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|18|LTE 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|00|3G 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|02|3G 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|10|3G 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|18|3G 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|00|3G 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|02|3G 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|10|3G 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|18|3G 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|00|GSM 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|02|GSM 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|10|GSM 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|18|GSM 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|00|GSM 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|02|GSM 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|10|GSM 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|18|GSM 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|00|LTE 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|02|LTE 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|10|LTE 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|18|LTE 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|00|LTE 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|02|LTE 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|10|LTE 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|18|LTE 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|00|LTE 2600|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|02|LTE 2600|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|10|LTE 2600|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|18|LTE 2600|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|00|LTE 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|02|LTE 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|10|LTE 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|18|LTE 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|16|3G 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|19|3G 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|20|3G 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|16|3G 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|19|3G 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|20|3G 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|16|GSM 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|19|GSM 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|20|GSM 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|16|LTE 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|19|LTE 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|20|LTE 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|16|LTE 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|19|LTE 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|20|LTE 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|16|LTE 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|19|LTE 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|20|LTE 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|16|LTE 2600|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|19|LTE 2600|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|20|LTE 2600|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|16|3G 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|19|3G 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|20|3G 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|16|3G 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|19|3G 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|20|3G 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|16|GSM 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|19|GSM 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|20|GSM 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|16|LTE 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|19|LTE 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|20|LTE 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|16|LTE 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|19|LTE 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|20|LTE 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|16|LTE 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|19|LTE 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|20|LTE 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|16|LTE 2600|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|19|LTE 2600|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|16|GSM 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|19|GSM 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|20|GSM 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|16|GSM 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|19|GSM 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|20|GSM 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|16|GSM 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|19|GSM 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|20|GSM 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|16|GSM 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|19|GSM 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|20|GSM 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|20|LTE 2600|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|02|3G 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|10|3G 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|18|3G 2100|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|00|3G 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|02|3G 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|10|3G 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|18|3G 900|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|00|GSM 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|02|GSM 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|10|GSM 1800|Hong Kong Telecommunications (HKT) Limited|CSL|CSL|CSL
+454|15|3G 2100|SmarTone Mobile Communications Limited|SmarTone HK|SmarTone HK|SMC HK
+454|15|GSM 900|SmarTone Mobile Communications Limited|SmarTone HK|SmarTone HK|SMC HK
+454|15|GSM 1800|SmarTone Mobile Communications Limited|SmarTone HK|SmarTone HK|SMC HK
+454|17|3G 2100|SmarTone Mobile Communications Limited|SmarTone HK|SmarTone HK|SMC HK
+454|17|GSM 900|SmarTone Mobile Communications Limited|SmarTone HK|SmarTone HK|SMC HK
+454|17|GSM 1800|SmarTone Mobile Communications Limited|SmarTone HK|SmarTone HK|SMC HK
+454|06|3G 2100|SmarTone Mobile Communications Limited|SmarTone HK|SmarTone HK|SMC HK
+454|06|GSM 900|SmarTone Mobile Communications Limited|SmarTone HK|SmarTone HK|SMC HK
+454|06|GSM 1800|SmarTone Mobile Communications Limited|SmarTone HK|SmarTone HK|SMC HK
+454|06|LTE 1800|SmarTone Mobile Communications Limited|SmarTone HK|SmarTone HK|SMC HK
+454|06|LTE 2600|SmarTone Mobile Communications Limited|SmarTone HK|SmarTone HK|SMC HK
+454|12|GSM 1800|China Mobile Hong Kong Company Limited|China Mobile HK|China Mobile HK|CMHK
+454|13|GSM 1800|China Mobile Hong Kong Company Limited|China Mobile HK|China Mobile HK|CMHK
+454|03|3G 900|Hutchison Telecommunications Hong Kong Holdings Limited|3|3|3
+454|03|3G 2100|Hutchison Telecommunications Hong Kong Holdings Limited|3|3|3
+454|04|GSM 900|Hutchison Telecommunications Hong Kong Holdings Limited|3|3|3
+454|04|GSM 1800|Hutchison Telecommunications Hong Kong Holdings Limited|3|3|3
+454|03|LTE 1800|Hutchison Telecommunications Hong Kong Holdings Limited|3|3|3
+454|03|GSM 900|Hutchison Telecommunications Hong Kong Holdings Limited|3|3|3
+454|03|GSM 1800|Hutchison Telecommunications Hong Kong Holdings Limited|3|3|3
+454|03|LTE-FDD 1800|Hutchison Telecommunications Hong Kong Holdings Limited|3|3|3
+454|03|LTE-FDD 2600|Hutchison Telecommunications Hong Kong Holdings Limited|3|3|3
+454|03|LTE-TDD 2300|Hutchison Telecommunications Hong Kong Holdings Limited|3|3|3
+708|030|GSM 1900|Empresa Hondureña de Telecomunicaciones (HONDUTEL)|Empresa Hondurena de Telecomunicaciones|HND|HT - 200
+708|02|LTE 850|"Telefónica Celular, S.A. (CELTEL)  "|TIGO|TIGOHND|TIGO
+708|02|GSM 850|"Telefónica Celular, S.A. (CELTEL)  "|TIGO|TIGOHND|TIGO
+708|02|3G 850|"Telefónica Celular, S.A. (CELTEL)  "|TIGO|TIGOHND|TIGO
+708|02|LTE 1700|"Telefónica Celular, S.A. (CELTEL)  "|TIGO|TIGOHND|TIGO
+708|02|LTE 2100|"Telefónica Celular, S.A. (CELTEL)  "|TIGO|TIGOHND|TIGO
+708|001|GSM 1900|Servicios de Comunicaciones de Honduras S.A. de C.V.|CLARO GSM|CLARO HND|ClaroHND
+708|001|3G 1900|Servicios de Comunicaciones de Honduras S.A. de C.V.|CLARO GSM|CLARO HND|ClaroHND
+708|001|LTE 1700|Servicios de Comunicaciones de Honduras S.A. de C.V.|CLARO GSM|CLARO HND|ClaroHND
+708|001|LTE 2100|Servicios de Comunicaciones de Honduras S.A. de C.V.|CLARO GSM|CLARO HND|ClaroHND
+219|02|GSM 1800|Tele2 d.o.o za telekomunikacijske usluge|Tele2|Tele2 HR|Tele2 HR
+219|10|3G 1900|A1 Hrvatska d.o.o|A1 HR|A1 HR|A1 HR
+219|10|LTE 800|A1 Hrvatska d.o.o|A1 HR|A1 HR|A1 HR
+219|10|GSM 900|A1 Hrvatska d.o.o|A1 HR|A1 HR|A1 HR
+219|10|3G 2100|A1 Hrvatska d.o.o|A1 HR|A1 HR|A1 HR
+219|10|LTE 1800|A1 Hrvatska d.o.o|A1 HR|A1 HR|A1 HR
+219|01|3G 900|Hrvatski Telekom d.d.|Croatian Telecom Inc|HT HR|HT HR
+219|01|3G 2100|Hrvatski Telekom d.d.|Croatian Telecom Inc|HT HR|HT HR
+219|01|GSM 900|Hrvatski Telekom d.d.|Croatian Telecom Inc|HT HR|HT HR
+219|01|GSM 1800|Hrvatski Telekom d.d.|Croatian Telecom Inc|HT HR|HT HR
+219|01|LTE 800|Hrvatski Telekom d.d.|Croatian Telecom Inc|HT HR|HT HR
+219|01|LTE 1800|Hrvatski Telekom d.d.|Croatian Telecom Inc|HT HR|HT HR
+372|03|GSM 900|National Telecom S.A|Natcom|Natcom|Natcom
+372|03|3G 2100|National Telecom S.A|Natcom|Natcom|Natcom
+216|70|GSM 900|Vodafone Hungary Mobile Telecommunications Company Limited|vodafone|vodafone HU|voda HU
+216|70|GSM 1800|Vodafone Hungary Mobile Telecommunications Company Limited|vodafone|vodafone HU|voda HU
+216|70|3G 900|Vodafone Hungary Mobile Telecommunications Company Limited|vodafone|vodafone HU|voda HU
+216|70|3G 2100|Vodafone Hungary Mobile Telecommunications Company Limited|vodafone|vodafone HU|voda HU
+216|30|GSM 900|Magyar Telekom Nyrt.|T-Mobile Hungary|Telekom HU|THU
+216|30|GSM 1800|Magyar Telekom Nyrt.|T-Mobile Hungary|Telekom HU|THU
+216|30|3G 2100|Magyar Telekom Nyrt.|T-Mobile Hungary|Telekom HU|THU
+216|30|LTE 800|Magyar Telekom Nyrt.|T-Mobile Hungary|Telekom HU|THU
+216|30|LTE 1800|Magyar Telekom Nyrt.|T-Mobile Hungary|Telekom HU|THU
+216|30|LTE 2600|Magyar Telekom Nyrt.|T-Mobile Hungary|Telekom HU|THU
+216|01|GSM 900|Telenor Magyarország Zártkörűen Működő Részvénytársaság|Telenor|Telenor HU|TelenorH
+216|01|GSM 1800|Telenor Magyarország Zártkörűen Működő Részvénytársaság|Telenor|Telenor HU|TelenorH
+216|01|3G 2100|Telenor Magyarország Zártkörűen Működő Részvénytársaság|Telenor 3G|Telenor HU|TelenorH
+216|03|LTE 1800|DIGI Telecommunication and Services Ltd.|Digi.Mobil HU|Digi.Mobil HU|Digi HU
+510|89|GSM 1800|PT. Hutchison 3 Indonesia|3|3|3
+510|89|3G 2100|PT. Hutchison 3 Indonesia|3|3|3
+510|10|GSM 900|PT Telekomunikasi Selular|TELKOMSEL|IND TELKOMSEL|T-SEL
+510|10|GSM 1800|PT Telekomunikasi Selular|TELKOMSEL|IND TELKOMSEL|T-SEL
+510|10|3G 2100|PT Telekomunikasi Selular|TELKOMSEL|IND TELKOMSEL|T-SEL
+510|10|LTE 1800|PT Telekomunikasi Selular|TELKOMSEL|IND TELKOMSEL|T-SEL
+510|10|LTE 900|PT Telekomunikasi Selular|TELKOMSEL|IND TELKOMSEL|T-SEL
+510|11|GSM 900|PT. XL Axiata Tbk|XL Axiata|IND XL|XL
+510|11|GSM 1800|PT. XL Axiata Tbk|XL Axiata|IND XL|XL
+510|11|3G 900|PT. XL Axiata Tbk|XL Axiata|IND XL|XL
+510|11|3G 2100|PT. XL Axiata Tbk|XL Axiata|IND XL|XL
+510|11|LTE 1800|PT. XL Axiata Tbk|XL Axiata|IND XL|XL
+510|11|LTE 900|PT. XL Axiata Tbk|XL Axiata|IND XL|XL
+510|08|GSM 900|PT. XL Axiata Tbk|XL Axiata|IND XL|Axis
+510|08|GSM 1800|PT. XL Axiata Tbk|XL Axiata|IND XL|Axis
+510|08|3G 900|PT. XL Axiata Tbk|XL Axiata|IND XL|Axis
+510|08|3G 2100|PT. XL Axiata Tbk|XL Axiata|IND XL|Axis
+510|08|LTE 1800|PT. XL Axiata Tbk|XL Axiata|IND XL|Axis
+510|08|LTE 900|PT. XL Axiata Tbk|XL Axiata|IND XL|Axis
+510|21|GSM 1800|PT Indosat Tbk|INDOSATOOREDOO|IND INDOSAT|INDOSAT
+510|01|GSM 900|PT Indosat Tbk|INDOSATOOREDOO|IND INDOSAT|INDOSAT
+510|01|GSM 1800|PT Indosat Tbk|INDOSATOOREDOO|IND INDOSAT|INDOSAT
+510|28|LTE-FDD 850|PT. Smartfren Telecom Tbk.|Smartfren Telecom|Smartfren|SF
+510|09|LTE-TDD 2300|PT. Smartfren Telecom Tbk.|Smartfren Telecom|Smartfren|SF
+510|09|CDMA 2000 1X|PT. Smartfren Telecom Tbk.|Smartfren Telecom|Smartfren|SF
+510|28|CDMA 2000 1X|PT. Smartfren Telecom Tbk.|Smartfren Telecom|Smartfren|SF
+510|28|CDMA 800|PT. Smartfren Telecom Tbk.|Smartfren Telecom|Smartfren|SF
+405|818|GSM 1800|Telenor (India) Communications Private Limited|Telenor|IN Telenor|Telenor
+405|819|GSM 1800|Telenor (India) Communications Private Limited|Telenor|IN Telenor|Telenor
+405|875|GSM 1800|Telenor (India) Communications Private Limited|Telenor|IN Telenor|Telenor
+405|876|GSM 1800|Telenor (India) Communications Private Limited|Telenor|IN Telenor|Telenor
+405|879|GSM 1800|Telenor (India) Communications Private Limited|Telenor|IN Telenor|Telenor
+405|927|GSM 1800|Telenor (India) Communications Private Limited|Telenor|IN Telenor|Telenor
+405|929|GSM 1800|Telenor (India) Communications Private Limited|Telenor|IN Telenor|Telenor
+404|10|GSM 900|Bharti Airtel Limited|airtel|IND airtel|airtel
+404|31|GSM 900|Bharti Airtel Limited|airtel|IND airtel|airtel
+404|40|GSM 900|Bharti Airtel Limited|airtel|IND airtel|airtel
+404|45|GSM 900|Bharti Airtel Limited|airtel|IND airtel|airtel
+404|49|GSM 900|Bharti Airtel Limited|airtel|IND airtel|airtel
+405|51|GSM 900|Bharti Airtel Limited|airtel|IND airtel|airtel
+405|52|GSM 900|Bharti Airtel Limited|airtel|IND airtel|airtel
+405|53|GSM 900|Bharti Airtel Limited|airtel|IND airtel|airtel
+405|54|GSM 900|Bharti Airtel Limited|airtel|IND airtel|airtel
+405|55|GSM 900|Bharti Airtel Limited|airtel|IND airtel|airtel
+405|56|GSM 900|Bharti Airtel Limited|airtel|IND airtel|airtel
+404|90|GSM 1800|Bharti Airtel Limited|airtel|IND airtel|airtel
+404|92|GSM 1800|Bharti Airtel Limited|airtel|IND airtel|airtel
+404|93|GSM 1800|Bharti Airtel Limited|airtel|IND airtel|airtel
+404|94|GSM 1800|Bharti Airtel Limited|airtel|IND airtel|airtel
+404|95|GSM 1800|Bharti Airtel Limited|airtel|IND airtel|airtel
+404|96|GSM 1800|Bharti Airtel Limited|airtel|IND airtel|airtel
+404|97|GSM 1800|Bharti Airtel Limited|airtel|IND airtel|airtel
+404|98|GSM 1800|Bharti Airtel Limited|airtel|IND airtel|airtel
+404|02|GSM 900|Bharti Airtel Limited|airtel|IND airtel|airtel
+404|03|GSM 900|Bharti Airtel Limited|airtel|IND airtel|airtel
+404|79|GSM 900|Bharat Sanchar Nigam Limited|CellOne All India except Delhi & Mumbai|CellOne|CellOne
+404|73|GSM 900|Bharat Sanchar Nigam Limited|CellOne Andhra Pradesh|CellOne|CellOne
+404|38|GSM 900|Bharat Sanchar Nigam Limited|CellOne Assam|CellOne|CellOne
+404|75|GSM 900|Bharat Sanchar Nigam Limited|CellOne Bihar|CellOne|CellOne
+404|64|GSM 900|Bharat Sanchar Nigam Limited|CellOne Chennai|CellOne|CellOne
+404|57|GSM 900|Bharat Sanchar Nigam Limited|CellOne Gujarat|CellOne|CellOne
+404|34|GSM 900|Bharat Sanchar Nigam Limited|CellOne Haryana|CellOne|CellOne
+404|51|GSM 900|Bharat Sanchar Nigam Limited|CellOne Himachal Pradesh|CellOne|CellOne
+404|62|GSM 900|Bharat Sanchar Nigam Limited|CellOne Jammu & Kashmir|CellOne|CellOne
+404|71|GSM 900|Bharat Sanchar Nigam Limited|CellOne Karnataka|CellOne|CellOne
+404|72|GSM 900|Bharat Sanchar Nigam Limited|CellOne Kerala|CellOne|CellOne
+404|81|GSM 900|Bharat Sanchar Nigam Limited|CellOne Kolkata|CellOne|CellOne
+404|58|GSM 900|Bharat Sanchar Nigam Limited|CellOne Madhya Pradesh|CellOne|CellOne
+404|66|GSM 900|Bharat Sanchar Nigam Limited|CellOne Maharashtra|CellOne|CellOne
+404|77|GSM 900|Bharat Sanchar Nigam Limited|CellOne North East|CellOne|CellOne
+404|76|GSM 900|Bharat Sanchar Nigam Limited|CellOne Orissa|CellOne|CellOne
+404|53|GSM 900|Bharat Sanchar Nigam Limited|CellOne Punjab|CellOne|CellOne
+404|59|GSM 900|Bharat Sanchar Nigam Limited|CellOne Rajasthan|CellOne|CellOne
+404|80|GSM 900|Bharat Sanchar Nigam Limited|CellOne Tamil Nadu|CellOne|CellOne
+404|55|GSM 900|Bharat Sanchar Nigam Limited|CellOne Uttar Pradesh (East)|CellOne|CellOne
+404|54|GSM 900|Bharat Sanchar Nigam Limited|CellOne Uttar Pradesh (West)|CellOne|CellOne
+404|74|GSM 900|Bharat Sanchar Nigam Limited|CellOne West Bengal|CellOne|CellOne
+404|68|GSM 900|Mahanagar Telephone Nigam Limited|Mahanagar Telephone Nigam|IN-DOLPHIN|DOLPHIN
+404|69|GSM 900|Mahanagar Telephone Nigam Limited|Mahanagar Telephone Nigam|IN-DOLPHIN|DOLPHIN
+404|16|GSM 900|Bharti Hexacom Ltd|AIRTEL|IND airtel|airtel
+404|70|GSM 900|Bharti Hexacom Ltd|AIRTEL|IND airtel|airtel
+404|89|GSM 1800|Vodafone Idea Limited|Idea Cellular Ltd|IDEA|IDEA
+405|799|GSM 1800|Vodafone Idea Limited|Idea Cellular Ltd|IDEA|IDEA
+405|845|GSM 1800|Vodafone Idea Limited|Idea Cellular Ltd|IDEA|IDEA
+405|846|GSM 1800|Vodafone Idea Limited|Idea Cellular Ltd|IDEA|IDEA
+405|848|GSM 1800|Vodafone Idea Limited|Idea Cellular Ltd|IDEA|IDEA
+405|849|GSM 1800|Vodafone Idea Limited|Idea Cellular Ltd|IDEA|IDEA
+405|850|GSM 1800|Vodafone Idea Limited|Idea Cellular Ltd|IDEA|IDEA
+405|852|GSM 1800|Vodafone Idea Limited|Idea Cellular Ltd|IDEA|IDEA
+405|853|GSM 1800|Vodafone Idea Limited|Idea Cellular Ltd|IDEA|IDEA
+404|04|GSM 1800|Vodafone Idea Limited|Idea Cellular Ltd|IDEA|IDEA
+404|07|GSM 900|Vodafone Idea Limited|Idea Cellular Ltd|IDEA|IDEA
+404|12|GSM 900|Vodafone Idea Limited|Idea Cellular Ltd|IDEA|IDEA
+404|14|GSM 900|Vodafone Idea Limited|Idea Cellular Ltd|IDEA|IDEA
+404|19|GSM 900|Vodafone Idea Limited|Idea Cellular Ltd|IDEA|IDEA
+404|22|GSM 900|Vodafone Idea Limited|Idea Cellular Ltd|IDEA|IDEA
+404|24|GSM 900|Vodafone Idea Limited|Idea Cellular Ltd|IDEA|IDEA
+404|44|GSM 900|Vodafone Idea Limited|Idea Cellular Ltd|IDEA|IDEA
+404|56|GSM 900|Vodafone Idea Limited|Idea Cellular Ltd|IDEA|IDEA
+405|70|GSM 1800|Vodafone Idea Limited|Idea Cellular Ltd|IDEA|IDEA
+404|78|GSM 900|Vodafone Idea Limited|Idea Cellular Ltd|IDEA|IDEA
+404|82|GSM 1800|Vodafone Idea Limited|Idea Cellular Ltd|IDEA|IDEA
+404|87|GSM 1800|Vodafone Idea Limited|Idea Cellular Ltd|IDEA|IDEA
+405|825|GSM 1800|Videocon Telecommunications Limited|Datacom Solutions Pvt. Ltd.|VIDEOCON|VIDEOCON
+405|827|GSM 1800|Videocon Telecommunications Limited|Datacom Solutions Pvt. Ltd.|VIDEOCON|VIDEOCON
+405|828|GSM 1800|Videocon Telecommunications Limited|Datacom Solutions Pvt. Ltd.|VIDEOCON|VIDEOCON
+405|829|GSM 1800|Videocon Telecommunications Limited|Datacom Solutions Pvt. Ltd.|VIDEOCON|VIDEOCON
+405|830|GSM 1800|Videocon Telecommunications Limited|Datacom Solutions Pvt. Ltd.|VIDEOCON|VIDEOCON
+405|831|GSM 1800|Videocon Telecommunications Limited|Datacom Solutions Pvt. Ltd.|VIDEOCON|VIDEOCON
+405|832|GSM 1800|Videocon Telecommunications Limited|Datacom Solutions Pvt. Ltd.|VIDEOCON|VIDEOCON
+405|833|GSM 1800|Videocon Telecommunications Limited|Datacom Solutions Pvt. Ltd.|VIDEOCON|VIDEOCON
+405|834|GSM 1800|Videocon Telecommunications Limited|Datacom Solutions Pvt. Ltd.|VIDEOCON|VIDEOCON
+405|835|GSM 1800|Videocon Telecommunications Limited|Datacom Solutions Pvt. Ltd.|VIDEOCON|VIDEOCON
+405|836|GSM 1800|Videocon Telecommunications Limited|Datacom Solutions Pvt. Ltd.|VIDEOCON|VIDEOCON
+405|837|GSM 1800|Videocon Telecommunications Limited|Datacom Solutions Pvt. Ltd.|VIDEOCON|VIDEOCON
+405|838|GSM 1800|Videocon Telecommunications Limited|Datacom Solutions Pvt. Ltd.|VIDEOCON|VIDEOCON
+405|839|GSM 1800|Videocon Telecommunications Limited|Datacom Solutions Pvt. Ltd.|VIDEOCON|VIDEOCON
+405|841|GSM 1800|Videocon Telecommunications Limited|Datacom Solutions Pvt. Ltd.|VIDEOCON|VIDEOCON
+405|842|GSM 1800|Videocon Telecommunications Limited|Datacom Solutions Pvt. Ltd.|VIDEOCON|VIDEOCON
+405|843|GSM 1800|Videocon Telecommunications Limited|Datacom Solutions Pvt. Ltd.|VIDEOCON|VIDEOCON
+405|823|GSM 1800|Videocon Telecommunications Limited|Datacom Solutions Pvt. Ltd.|VIDEOCON|VIDEOCON
+405|824|GSM 1800|Videocon Telecommunications Limited|Datacom Solutions Pvt. Ltd.|VIDEOCON|VIDEOCON
+405|840|LTE-TD 2300|Reliance Jio Infocomm Limited|Reliance Jio Infocomm Ltd India|IND-JIO|JIO
+405|854|LTE-TD 2300|Reliance Jio Infocomm Limited|Reliance Jio Infocomm Ltd India|IND-JIO|JIO
+405|855|LTE-TD 2300|Reliance Jio Infocomm Limited|Reliance Jio Infocomm Ltd India|IND-JIO|JIO
+405|856|LTE-TD 2300|Reliance Jio Infocomm Limited|Reliance Jio Infocomm Ltd India|IND-JIO|JIO
+405|857|LTE-TD 2300|Reliance Jio Infocomm Limited|Reliance Jio Infocomm Ltd India|IND-JIO|JIO
+405|858|LTE-TD 2300|Reliance Jio Infocomm Limited|Reliance Jio Infocomm Ltd India|IND-JIO|JIO
+405|859|LTE-TD 2300|Reliance Jio Infocomm Limited|Reliance Jio Infocomm Ltd India|IND-JIO|JIO
+405|860|LTE-TD 2300|Reliance Jio Infocomm Limited|Reliance Jio Infocomm Ltd India|IND-JIO|JIO
+405|861|LTE-TD 2300|Reliance Jio Infocomm Limited|Reliance Jio Infocomm Ltd India|IND-JIO|JIO
+405|862|LTE-TD 2300|Reliance Jio Infocomm Limited|Reliance Jio Infocomm Ltd India|IND-JIO|JIO
+405|863|LTE-TD 2300|Reliance Jio Infocomm Limited|Reliance Jio Infocomm Ltd India|IND-JIO|JIO
+405|864|LTE-TD 2300|Reliance Jio Infocomm Limited|Reliance Jio Infocomm Ltd India|IND-JIO|JIO
+405|865|LTE-TD 2300|Reliance Jio Infocomm Limited|Reliance Jio Infocomm Ltd India|IND-JIO|JIO
+405|866|LTE-TD 2300|Reliance Jio Infocomm Limited|Reliance Jio Infocomm Ltd India|IND-JIO|JIO
+405|867|LTE-TD 2300|Reliance Jio Infocomm Limited|Reliance Jio Infocomm Ltd India|IND-JIO|JIO
+405|868|LTE-TD 2300|Reliance Jio Infocomm Limited|Reliance Jio Infocomm Ltd India|IND-JIO|JIO
+405|869|LTE-TD 2300|Reliance Jio Infocomm Limited|Reliance Jio Infocomm Ltd India|IND-JIO|JIO
+405|870|LTE-TD 2300|Reliance Jio Infocomm Limited|Reliance Jio Infocomm Ltd India|IND-JIO|JIO
+405|871|LTE-TD 2300|Reliance Jio Infocomm Limited|Reliance Jio Infocomm Ltd India|IND-JIO|JIO
+405|872|LTE-TD 2300|Reliance Jio Infocomm Limited|Reliance Jio Infocomm Ltd India|IND-JIO|JIO
+405|873|LTE-TD 2300|Reliance Jio Infocomm Limited|Reliance Jio Infocomm Ltd India|IND-JIO|JIO
+405|874|LTE-TD 2300|Reliance Jio Infocomm Limited|Reliance Jio Infocomm Ltd India|IND-JIO|JIO
+272|02|GSM 900|Three Ireland (Hutchison) Limited|3|3|3
+272|02|GSM 1800|Three Ireland (Hutchison) Limited|3|3|3
+272|02|3G 2100|Three Ireland (Hutchison) Limited|3|3|3
+272|05|3G 2100|Three Ireland (Hutchison) Limited|3|3|3
+272|05|LTE 800|Three Ireland (Hutchison) Limited|3|3|3
+272|05|LTE 900|Three Ireland (Hutchison) Limited|3|3|3
+272|05|LTE 1800|Three Ireland (Hutchison) Limited|3|3|3
+272|03|GSM 900|Meteor Mobile Communications Limited|Meteor|IRL - METEOR|METEOR
+272|03|GSM 1800|Meteor Mobile Communications Limited|Meteor|IRL - METEOR|METEOR
+272|03|LTE 800|Meteor Mobile Communications Limited|Meteor|IRL - METEOR|METEOR
+272|03|LTE 1800|Meteor Mobile Communications Limited|Meteor|IRL - METEOR|METEOR
+272|03|3G 2100|Meteor Mobile Communications Limited|Meteor|IRL - METEOR|METEOR
+272|03|3G 900|Meteor Mobile Communications Limited|Meteor|IRL - METEOR|METEOR
+272|01|GSM 900|Vodafone Ireland Limited|vodafone|vodafone IE|voda IE
+272|01|GSM 1800|Vodafone Ireland Limited|vodafone|vodafone IE|voda IE
+272|01|3G 2100|Vodafone Ireland Limited|vodafone|vodafone IE|voda IE
+272|01|3G 900|Vodafone Ireland Limited|vodafone|vodafone IE|voda IE
+272|01|LTE 800|Vodafone Ireland Limited|vodafone|vodafone IE|voda IE
+272|01|LTE 1800|Vodafone Ireland Limited|vodafone|vodafone IE|voda IE
+418|40|GSM 900|Korek Telecom Company|Korek Telecom|KOREK|KOREK
+418|20|GSM 900|Atheer Telecommunications Iraq Limited|zain IQ|zain IQ|zain IQ
+418|30|GSM 900|Atheer Telecommunications Iraq Limited|Zain Iraq|IRAQNA|IRAQNA
+418|05|GSM 900|Asiacell Communications PJSC|Asiacell|ASIACELL|ASIACELL
+274|11|3G 2100|Nova ehf.|NOVA|NOVA IS|NOVA
+274|11|LTE 800|Nova ehf.|NOVA|NOVA IS|NOVA
+274|11|LTE 1800|Nova ehf.|NOVA|NOVA IS|NOVA
+274|11|LTE 2100|Nova ehf.|NOVA|NOVA IS|NOVA
+274|11|3G 2100|Nova ehf.|NOVA|NOVA IS|NOVA
+274|11|3G 900|Nova ehf.|NOVA|NOVA IS|NOVA
+274|02|LTE 2600|Sýn hf.|Vodafone Iceland|Vodafone|Vodafone
+274|02|LTE 900|Sýn hf.|Vodafone Iceland|Vodafone|Vodafone
+274|02|LTE 2100|Sýn hf.|Vodafone Iceland|Vodafone|Vodafone
+274|02|GSM 900|Sýn hf.|Vodafone Iceland|Vodafone|Vodafone
+274|02|GSM 1800|Sýn hf.|Vodafone Iceland|Vodafone|Vodafone
+274|02|3G 2100|Sýn hf.|Vodafone Iceland|Vodafone|Vodafone
+274|02|LTE 800|Sýn hf.|Vodafone Iceland|Vodafone|Vodafone
+274|02|LTE 1800|Sýn hf.|Vodafone Iceland|Vodafone|Vodafone
+274|02|3G 900|Sýn hf.|Vodafone Iceland|Vodafone|Vodafone
+274|04|GSM 1800|IMC Ísland ehf.|Viking wireless|Viking|Viking
+274|08|GSM 900|Síminn h.f.|NE - On-Waves|IS OnWaves|OnWaves
+274|08|GSM 1800|Síminn h.f.|NE - On-Waves|IS OnWaves|OnWaves
+274|01|GSM 900|Síminn h.f.|Siminn|IS SIMINN|SIMINN
+274|01|GSM 1800|Síminn h.f.|Siminn|IS SIMINN|SIMINN
+274|01|3G 2100|Síminn h.f.|Siminn|IS SIMINN|SIMINN
+274|01|LTE 1800|Síminn h.f.|Siminn|IS SIMINN|SIMINN
+274|01|LTE 2100|Síminn h.f.|Siminn|IS SIMINN|SIMINN
+274|01|3G 900|Síminn h.f.|Siminn|IS SIMINN|SIMINN
+425|28|3G 2100|Hot Mobile Ltd.|Hot Mobile Ltd.|Hot Mobile Ltd.|Israel
+425|28|GSM 900|Hot Mobile Ltd.|Hot Mobile Ltd.|Hot Mobile Ltd.|Israel
+425|28|GSM 1800|Hot Mobile Ltd.|Hot Mobile Ltd.|Hot Mobile Ltd.|Israel
+425|28|3G 900|Hot Mobile Ltd.|Hot Mobile Ltd.|Hot Mobile Ltd.|Israel
+425|07|3G 900|Hot Mobile Ltd.|Hot Mobile Ltd.|Hot Mobile Ltd.|HOT IL
+425|07|3G 2100|Hot Mobile Ltd.|Hot Mobile Ltd.|Hot Mobile Ltd.|HOT IL
+425|07|GSM 900|Hot Mobile Ltd.|Hot Mobile Ltd.|Hot Mobile Ltd.|HOT IL
+425|07|GSM 1800|Hot Mobile Ltd.|Hot Mobile Ltd.|Hot Mobile Ltd.|HOT IL
+425|07|LTE 1800|Hot Mobile Ltd.|Hot Mobile Ltd.|Hot Mobile Ltd.|HOT IL
+425|07|LTE 2100|Hot Mobile Ltd.|Hot Mobile Ltd.|Hot Mobile Ltd.|HOT IL
+425|03|3G 850|Pelephone Communication Ltd.|Pelephone|IL Pelephone|PCL
+425|03|3G 2100|Pelephone Communication Ltd.|Pelephone|IL Pelephone|PCL
+425|03|LTE 1800|Pelephone Communication Ltd.|Pelephone|IL Pelephone|PCL
+425|02|3G 2100|Cellcom Israel Ltd.|Cellcom Israel|Cellcom IL|Cellcom
+425|02|GSM 1800|Cellcom Israel Ltd.|Cellcom Israel|Cellcom IL|Cellcom
+425|02|3G 850|Cellcom Israel Ltd.|Cellcom Israel|Cellcom IL|Cellcom
+425|01|3G 2100|Partner Communications Company Ltd.|Partner IL|Partner IL|Partner
+425|01|GSM 900|Partner Communications Company Ltd.|Partner IL|Partner IL|Partner
+425|01|GSM 1800|Partner Communications Company Ltd.|Partner IL|Partner IL|Partner
+425|01|LTE 1800|Partner Communications Company Ltd.|Partner IL|Partner IL|Partner
+425|08|LTE 1800|Golan Telecom Ltd|Golan Telecom IL|Golan IL|Golan T
+425|08|3G 2100|Golan Telecom Ltd|Golan Telecom IL|Golan IL|Golan T
+425|08|GSM 1800|Golan Telecom Ltd|Golan Telecom IL|Golan IL|Golan T
+425|08|3G 850|Golan Telecom Ltd|Golan Telecom IL|Golan IL|Golan T
+222|99|3G 2100|Wind Tre S.p.A.|H3G|3 ITA|3 ITA
+222|88|GSM 900|Wind Tre S.p.A. (ITAWI)|Wind Telecomunicazioni SpA|I WIND|I WIND
+222|88|GSM 1800|Wind Tre S.p.A. (ITAWI)|Wind Telecomunicazioni SpA|I WIND|I WIND
+222|88|3G 2100|Wind Tre S.p.A. (ITAWI)|Wind Telecomunicazioni SpA|I WIND|I WIND
+222|88|LTE 800|Wind Tre S.p.A. (ITAWI)|Wind Telecomunicazioni SpA|I WIND|I WIND
+901|26|GSM 900|Telecom Italia SpA|TIM|TIM@sea|TIM@sea
+901|26|GSM 1800|Telecom Italia SpA|TIM|TIM@sea|TIM@sea
+222|01|GSM 900|Telecom Italia SpA|TIM|I TIM|TIM
+222|01|GSM 1800|Telecom Italia SpA|TIM|I TIM|TIM
+222|01|3G 2100|Telecom Italia SpA|TIM|I TIM|TIM
+222|01|LTE 800|Telecom Italia SpA|TIM|I TIM|TIM
+222|01|LTE 1800|Telecom Italia SpA|TIM|I TIM|TIM
+222|01|LTE 2600|Telecom Italia SpA|TIM|I TIM|TIM
+222|10|GSM 900|Vodafone Italia S.p.A|vodafone|vodafone IT|voda IT
+222|10|GSM 1800|Vodafone Italia S.p.A|vodafone|vodafone IT|voda IT
+222|10|3G 2100|Vodafone Italia S.p.A|vodafone|vodafone IT|voda IT
+222|50|3G 900|ILIAD Italia S.p.A. |ILIAD ITALIA|ILIAD|ILIAD
+222|50|3G 2100|ILIAD Italia S.p.A. |ILIAD ITALIA|ILIAD|ILIAD
+222|50|LTE 1800|ILIAD Italia S.p.A. |ILIAD ITALIA|ILIAD|ILIAD
+222|50|LTE 2600|ILIAD Italia S.p.A. |ILIAD ITALIA|ILIAD|ILIAD
+338|180|GSM 1900|Cable & Wireless Jamaica Limited|FLOW|FLOW|FLOW
+338|050|GSM 900|Digicel (Jamaica) Limited|Digicel Jamaica|Digicel|Digicel
+338|050|GSM 1800|Digicel (Jamaica) Limited|Digicel Jamaica|Digicel|Digicel
+338|050|GSM 850|Digicel (Jamaica) Limited|Digicel Jamaica|Digicel|Digicel
+338|050|3G 850|Digicel (Jamaica) Limited|Digicel Jamaica|Digicel|Digicel
+338|050|3G 1900|Digicel (Jamaica) Limited|Digicel Jamaica|Digicel|Digicel
+338|050|3G 1800|Digicel (Jamaica) Limited|Digicel Jamaica|Digicel|Digicel
+416|03|GSM 1800|Umniah Mobile Company|Umniah|UMNIAH|UMNIAH
+416|77|GSM 900|Petra Jordanian Mobile Telecommunications Company (Orange Jordan)|Orange|Orange JO|OrangeJO
+416|01|GSM 900|"Jordan Mobile Telephone Services Company, Ltd."|Zain JO|Zain JO|Zain JO
+440|50|LTE 800|KDDI Corporation|KDDI Corporation|KDDI|KDDI
+440|50|LTE 2100|KDDI Corporation|KDDI Corporation|KDDI|KDDI
+440|51|LTE 1500|KDDI Corporation|KDDI Corporation|KDDI|KDDI
+440|51|LTE 2100|KDDI Corporation|KDDI Corporation|KDDI|KDDI
+440|51|LTE 800|KDDI Corporation|KDDI Corporation|KDDI|KDDI
+440|20|3G 2100|SoftBank Corp.|SoftBank|SoftBank|SoftBank
+440|20|LTE-FDD 2100|SoftBank Corp.|SoftBank|SoftBank|SoftBank
+440|20|LTE-TDD 2500|SoftBank Corp.|SoftBank|SoftBank|SoftBank
+440|20|LTE-FDD 700|SoftBank Corp.|SoftBank|SoftBank|SoftBank
+440|20|LTE-TDD 3500|SoftBank Corp.|SoftBank|SoftBank|SoftBank
+440|20|LTE-FDD 900|SoftBank Corp.|SoftBank|SoftBank|SoftBank
+440|20|LTE-FDD 1500|SoftBank Corp.|SoftBank|SoftBank|SoftBank
+440|20|LTE-FDD 1700|SoftBank Corp.|SoftBank|SoftBank|SoftBank
+440|20|3G 900|SoftBank Corp.|SoftBank|SoftBank|SoftBank
+440|10|3G 2100|"NTT DOCOMO, Inc."|DOCOMO|JP DOCOMO|DOCOMO
+221|02|GSM 900|IPKO Telecommunications LLC|IPKO|IPKO|IPKO
+221|02|GSM 1800|IPKO Telecommunications LLC|IPKO|IPKO|IPKO
+221|02|3G 900|IPKO Telecommunications LLC|IPKO|IPKO|IPKO
+221|02|LTE 1800|IPKO Telecommunications LLC|IPKO|IPKO|IPKO
+221|01|GSM 900|Kosovo Telecom JSC|Vala Kosovo Telecom|vala|vala
+221|01|GSM 1800|Kosovo Telecom JSC|Vala Kosovo Telecom|vala|vala
+221|01|3G 900|Kosovo Telecom JSC|Vala Kosovo Telecom|vala|vala
+221|01|LTE 1800|Kosovo Telecom JSC|Vala Kosovo Telecom|vala|vala
+401|07|GSM 900|Mobile Telecom-Service LLP|ALTEL|ALTEL|ALTEL
+401|07|GSM 1800|Mobile Telecom-Service LLP|ALTEL|ALTEL|ALTEL
+401|07|3G 900|Mobile Telecom-Service LLP|ALTEL|ALTEL|ALTEL
+401|07|3G 2100|Mobile Telecom-Service LLP|ALTEL|ALTEL|ALTEL
+401|07|LTE 1800|Mobile Telecom-Service LLP|ALTEL|ALTEL|ALTEL
+401|77|GSM 1800|Mobile Telecom-Service LLP|Tele2 Kazakhstan|Tele2|Tele2
+401|77|3G 900|Mobile Telecom-Service LLP|Tele2 Kazakhstan|Tele2|Tele2
+401|77|3G 2100|Mobile Telecom-Service LLP|Tele2 Kazakhstan|Tele2|Tele2
+401|77|LTE 1800|Mobile Telecom-Service LLP|Tele2 Kazakhstan|Tele2|Tele2
+401|77|GSM 900|Mobile Telecom-Service LLP|Tele2 Kazakhstan|Tele2|Tele2
+401|01|GSM 900|KaR-Tel LLP|Beeline|Beeline KZ|Beeline
+401|01|3G 2100|KaR-Tel LLP|Beeline|Beeline KZ|Beeline
+401|02|GSM 900|Kcell JSC|Kcell|Kcell|Kcell
+639|07|GSM 900|Telkom Kenya Limited|Telkom|Telkom|Telkom
+639|07|GSM 1800|Telkom Kenya Limited|Telkom|Telkom|Telkom
+639|07|3G 2100|Telkom Kenya Limited|Telkom|Telkom|Telkom
+639|07|LTE 800|Telkom Kenya Limited|Telkom|Telkom|Telkom
+639|07|3G 900|Telkom Kenya Limited|Telkom|Telkom|Telkom
+639|03|GSM 900|Airtel Networks Kenya Limited|Airtel|Airtel|Airtel
+639|03|GSM 1800|Airtel Networks Kenya Limited|Airtel|Airtel|Airtel
+639|03|3G 2100|Airtel Networks Kenya Limited|Airtel|Airtel|Airtel
+639|02|GSM 900|Safaricom PLC|Safaricom|Safaricom|SAF-COM
+639|02|GSM 1800|Safaricom PLC|Safaricom|Safaricom|SAF-COM
+639|10|LTE 700|Jamii Telecommunications Limited |FAIBA|FAIBA|FAIBA
+437|09|3G 2100|Nur Telecom LLC|O!|O!|O!
+437|09|GSM 900|Nur Telecom LLC|O!|O!|O!
+437|09|GSM 1800|Nur Telecom LLC|O!|O!|O!
+437|09|LTE 2600|Nur Telecom LLC|O!|O!|O!
+437|05|3G 900|JSC Alfa Telecom|MegaCom|MegaCom|MegaCom
+437|05|3G 2100|JSC Alfa Telecom|MegaCom|MegaCom|MegaCom
+437|05|GSM 900|JSC Alfa Telecom|MegaCom|MegaCom|MegaCom
+437|05|GSM 1800|JSC Alfa Telecom|MegaCom|MegaCom|MegaCom
+437|05|LTE 800|JSC Alfa Telecom|MegaCom|MegaCom|MegaCom
+437|05|LTE 1800|JSC Alfa Telecom|MegaCom|MegaCom|MegaCom
+437|05|LTE 2100|JSC Alfa Telecom|MegaCom|MegaCom|MegaCom
+437|01|3G 2100|Sky Mobile LLC|Beeline|Beeline KG|Beeline
+437|01|GSM 900|Sky Mobile LLC|Beeline|Beeline KG|Beeline
+437|01|GSM 1800|Sky Mobile LLC|Beeline|Beeline KG|Beeline
+456|08|GSM 900|"Viettel (Cambodia) Pte., Ltd."|Metfone|Metfone|Metfone
+456|08|GSM 1800|"Viettel (Cambodia) Pte., Ltd."|Metfone|Metfone|Metfone
+456|08|3G 2100|"Viettel (Cambodia) Pte., Ltd."|Metfone|Metfone|Metfone
+456|02|3G 2100|"Smart Axiata Co., Ltd."|SMART|SMART|SMART
+456|06|3G 2100|"Smart Axiata Co., Ltd."|SMART|SMART|SMART
+456|02|GSM 900|"Smart Axiata Co., Ltd."|SMART|SMART|SMART
+456|02|GSM 1800|"Smart Axiata Co., Ltd."|SMART|SMART|SMART
+456|05|GSM 900|"Smart Axiata Co., Ltd."|SMART|SMART|SMART
+456|05|GSM 900|"Smart Axiata Co., Ltd."|SMART|SMART|SMART
+456|05|3G 2100|"Smart Axiata Co., Ltd."|SMART|SMART|SMART
+456|06|GSM 900|"Smart Axiata Co., Ltd."|SMART|SMART|SMART
+456|06|GSM 1800|"Smart Axiata Co., Ltd."|SMART|SMART|SMART
+456|06|LTE 1800|"Smart Axiata Co., Ltd."|SMART|SMART|SMART
+456|04|3G 2100|"Cambodia Advance Communications Co., Ltd (CADCOMMS)"|qb|qb|qb
+456|01|GSM 900|CamGSM Co.Ltd.|Cellcard|Cellcard|Cellcard
+456|01|3G 2100|CamGSM Co.Ltd.|Cellcard|Cellcard|Cellcard
+456|01|GSM 1800|CamGSM Co.Ltd.|Cellcard|Cellcard|Cellcard
+456|01|LTE 1800|CamGSM Co.Ltd.|Cellcard|Cellcard|Cellcard
+456|11|LTE 850|"South East Asia Telecom (Cambodia) Co., Ltd"|SEATEL CAMBODIA|KH SEATEL|SEATEL
+356|110|GSM 850|Cable & Wireless St Kitts & Nevis Limited|FLOW|FLOW|FLOW
+356|110|GSM 1900|Cable & Wireless St Kitts & Nevis Limited|FLOW|FLOW|FLOW
+450|06|LTE 800|"LG Uplus, Corp."|LG Uplus Corp|KOR LG Uplus|LG U+
+450|06|LTE 2100|"LG Uplus, Corp."|LG Uplus Corp|KOR LG Uplus|LG U+
+450|10|LTE 800|"LG Uplus, Corp."|LG Uplus Corp|KOR LG Uplus|LG U+
+450|10|LTE 2100|"LG Uplus, Corp."|LG Uplus Corp|KOR LG Uplus|LG U+
+450|05|3G 2100|"SK Telecom Co., Ltd."|SK Telecom|KOR SK Telecom|SKT
+450|08|3G 2100|KT Corporation|KT|KT|KT
+450|08|LTE 900|KT Corporation|KT|KT|KT
+450|08|LTE 1800|KT Corporation|KT|KT|KT
+450|08|LTE 2100|KT Corporation|KT|KT|KT
+419|04|GSM 900|Kuwait Telecom Company (K.S.C.)|VIVA KUWAIT|"KT, VIVA"|VIVA
+419|04|GSM 1800|Kuwait Telecom Company (K.S.C.)|VIVA KUWAIT|"KT, VIVA"|VIVA
+419|04|3G 1900|Kuwait Telecom Company (K.S.C.)|VIVA KUWAIT|"KT, VIVA"|VIVA
+419|03|GSM 900|National Mobile Telecommunications Company (K.S.C)|Ooredoo|Ooredoo|Ooredoo
+419|03|GSM 1800|National Mobile Telecommunications Company (K.S.C)|Ooredoo|Ooredoo|Ooredoo
+419|03|3G 2100|National Mobile Telecommunications Company (K.S.C)|Ooredoo|Ooredoo|Ooredoo
+419|03|LTE 1800|National Mobile Telecommunications Company (K.S.C)|Ooredoo|Ooredoo|Ooredoo
+419|02|GSM 900|Mobile Telecommunications Company|zain KW|Zain KW|zain KW
+419|02|GSM 1800|Mobile Telecommunications Company|zain KW|Zain KW|zain KW
+419|02|3G 2100|Mobile Telecommunications Company|zain KW|Zain KW|zain KW
+457|03|GSM 900|Star Telecom Company Limited (STL) |LAT|Unitel|UNITEL
+457|03|GSM 1800|Star Telecom Company Limited (STL) |LAT|Unitel|UNITEL
+457|03|3G 2100|Star Telecom Company Limited (STL) |LAT|Unitel|UNITEL
+457|03|LTE 1800|Star Telecom Company Limited (STL) |LAT|Unitel|UNITEL
+457|08|GSM 900|VimpelCom Lao Company Ltd.|BEELINE|BEELINE LAO|BEELINE
+457|08|GSM 1800|VimpelCom Lao Company Ltd.|BEELINE|BEELINE LAO|BEELINE
+457|08|3G 2100|VimpelCom Lao Company Ltd.|BEELINE|BEELINE LAO|BEELINE
+457|02|GSM 900|ETL Company Limited|ETL MOBILE|ETL MOBILE NETWORK|ETLMNW
+457|02|3G 2100|ETL Company Limited|ETL MOBILE|ETL MOBILE NETWORK|ETLMNW
+457|01|GSM 1800|Lao Telecommunication Public Company|LAO TELECOMMUNICATIONS|LAO GSM|LAO GSM
+457|01|3G 2100|Lao Telecommunication Public Company|LAO TELECOMMUNICATIONS|LAO GSM|LAO GSM
+457|01|GSM 900|Lao Telecommunication Public Company|LAO TELECOMMUNICATIONS|LAO GSM|LAO GSM
+415|05|GSM 900|Ogero Telecom|Ogero Mobile (OM)|LBN OGERO Mobile|OM
+415|03|GSM 900|Mobile Interim Company 2 (MIC2)|MIC2|touch|touch
+415|03|LTE 800|Mobile Interim Company 2 (MIC2)|MIC2|touch|touch
+415|03|LTE 1800|Mobile Interim Company 2 (MIC2)|MIC2|touch|touch
+415|01|GSM 900|Mobile Interim Company 1 (MIC1)|Alfa|alfa|alfa
+415|01|3G 2100|Mobile Interim Company 1 (MIC1)|Alfa|alfa|alfa
+618|07|LTE-FDD 1800|Orange Liberia|Orange Liberia|Orange LBR|Orange L
+618|07|GSM 900|Orange Liberia|Orange Liberia|Orange LBR|Orange L
+618|07|GSM 1800|Orange Liberia|Orange Liberia|Orange LBR|Orange L
+618|07|3G 2100|Orange Liberia|Orange Liberia|Orange LBR|Orange L
+618|04|3G 2100|Novafone Inc.|Novafone Inc|Novafone 4G|Novafone
+618|04|GSM 900|Novafone Inc.|Novafone Inc|Novafone 4G|Novafone
+618|04|GSM 1800|Novafone Inc.|Novafone Inc|Novafone 4G|Novafone
+618|01|GSM 900|Lonestar Communications Corporation|Lonestar Cell|LBR Lonestar Cell|LoneStar
+606|00|GSM 900|Libyana Mobile Phone |Libyana Mobile Phone|Libyana|Libyana
+606|01|GSM 900|Al Madar Al Jadeed|MADAR|Al Madar|Al Madar
+358|110|GSM 850|Cable & Wireless (St. Lucia) Limited|FLOW|FLOW|FLOW
+358|050|GSM 900|Digicel (St Lucia) Limited|Digicel (St Lucia)|DIGICEL|DIGICEL
+358|050|GSM 1800|Digicel (St Lucia) Limited|Digicel (St Lucia)|DIGICEL|DIGICEL
+358|050|GSM 1900|Digicel (St Lucia) Limited|Digicel (St Lucia)|DIGICEL|DIGICEL
+295|01|3G 2100|Swisscom (Switzerland) Ltd (Liechtenstein)|Swisscom|SwisscomFL|Swiss FL
+295|01|GSM 900|Swisscom (Switzerland) Ltd (Liechtenstein)|Swisscom|SwisscomFL|Swiss FL
+295|01|GSM 1800|Swisscom (Switzerland) Ltd (Liechtenstein)|Swisscom|SwisscomFL|Swiss FL
+295|02|GSM 900|Salt (Liechtenstein) AG|Salt.li|Salt.li|Salt.li
+295|02|GSM 1800|Salt (Liechtenstein) AG|Salt.li|Salt.li|Salt.li
+295|02|3G 2100|Salt (Liechtenstein) AG|Salt.li|Salt.li|Salt.li
+295|02|LTE 1800|Salt (Liechtenstein) AG|Salt.li|Salt.li|Salt.li
+295|05|GSM 900|Telecom Liechtenstein AG|FL1|FL1|FL1
+295|05|GSM 1800|Telecom Liechtenstein AG|FL1|FL1|FL1
+295|05|3G 2100|Telecom Liechtenstein AG|FL1|FL1|FL1
+295|05|LTE 800|Telecom Liechtenstein AG|FL1|FL1|FL1
+413|05|3G 2100|Bharti Airtel Lanka (Private) Limited|airtel|SRI AIRTEL|Airtel
+413|05|GSM 900|Bharti Airtel Lanka (Private) Limited|airtel|SRI AIRTEL|Airtel
+413|05|GSM 1800|Bharti Airtel Lanka (Private) Limited|airtel|SRI AIRTEL|Airtel
+413|01|GSM 1800|Mobitel (Pvt) Limited|Mobitel|Mobitel LK|Mobitel
+413|01|GSM 900|Mobitel (Pvt) Limited|Mobitel|Mobitel LK|Mobitel
+413|01|LTE 1800|Mobitel (Pvt) Limited|Mobitel|Mobitel LK|Mobitel
+413|01|3G 2100|Mobitel (Pvt) Limited|Mobitel|Mobitel LK|Mobitel
+413|08|GSM 900|Hutchison Telecommunications Lanka (Pvt) Ltd|Hutchison Telecommunications Lanka (Pte)|Hutch|Hutch
+413|08|GSM 1800|Hutchison Telecommunications Lanka (Pvt) Ltd|Hutchison Telecommunications Lanka (Pte)|Hutch|Hutch
+413|08|3G 2100|Hutchison Telecommunications Lanka (Pvt) Ltd|Hutchison Telecommunications Lanka (Pte)|Hutch|Hutch
+413|03|GSM 900|ETISALAT Lanka (Private) Limited|ETISALAT|SRI Etisalat|Etisalat
+413|03|GSM 1800|ETISALAT Lanka (Private) Limited|ETISALAT|SRI Etisalat|Etisalat
+413|03|3G 2100|ETISALAT Lanka (Private) Limited|ETISALAT|SRI Etisalat|Etisalat
+413|02|GSM 900|Dialog Axiata Plc|DIALOG|DIALOG|DIALOG
+413|02|GSM 1800|Dialog Axiata Plc|DIALOG|DIALOG|DIALOG
+413|02|3G 2100|Dialog Axiata Plc|DIALOG|DIALOG|DIALOG
+413|02|LTE 1800|Dialog Axiata Plc|DIALOG|DIALOG|DIALOG
+651|02|GSM 900|Econet Telecom Lesotho (Pty) Ltd (ETL)|Econet Telecom Lesotho (Pty) Ltd|LS-ETL|ETL
+651|01|3G 2100|Vodacom Lesotho (Pty) Ltd|Vodacom Lesotho|Vodacom Lesotho|VODACOM
+651|01|GSM 900|Vodacom Lesotho (Pty) Ltd|Vodacom Lesotho|Vodacom Lesotho|VODACOM
+651|01|LTE 800|Vodacom Lesotho (Pty) Ltd|Vodacom Lesotho|Vodacom Lesotho|VODACOM
+651|01|LTE 1800|Vodacom Lesotho (Pty) Ltd|Vodacom Lesotho|Vodacom Lesotho|VODACOM
+246|03|GSM 900|UAB Tele2|TELE2|Tele2 LT|Tele2 LT
+246|03|GSM 1800|UAB Tele2|TELE2|Tele2 LT|Tele2 LT
+246|02|GSM 900|UAB Bitė Lietuva|BITE GSM|LT BITE GSM|BITE
+246|02|GSM 1800|UAB Bitė Lietuva|BITE GSM|LT BITE GSM|BITE
+246|02|3G 2100|UAB Bitė Lietuva|BITE GSM|LT BITE GSM|BITE
+246|02|3G 900|UAB Bitė Lietuva|BITE GSM|LT BITE GSM|BITE
+246|02|LTE 800|UAB Bitė Lietuva|BITE GSM|LT BITE GSM|BITE
+246|02|LTE 1800|UAB Bitė Lietuva|BITE GSM|LT BITE GSM|BITE
+246|02|LTE 2600|UAB Bitė Lietuva|BITE GSM|LT BITE GSM|BITE
+246|01|GSM 900|Telia Lietuva AB|OMNITEL|OMNITEL LT|OMT
+270|99|GSM 900|Orange Communications Luxembourg S.A.|Orange|L Orange-LU|Orange
+270|99|GSM 1800|Orange Communications Luxembourg S.A.|Orange|L Orange-LU|Orange
+270|99|3G 2100|Orange Communications Luxembourg S.A.|Orange|L Orange-LU|Orange
+270|99|LTE 800|Orange Communications Luxembourg S.A.|Orange|L Orange-LU|Orange
+270|99|LTE 1800|Orange Communications Luxembourg S.A.|Orange|L Orange-LU|Orange
+270|77|GSM 900|Proximus Luxembourg S.A.|TANGO|L TANGO|TANGO
+270|77|GSM 1800|Proximus Luxembourg S.A.|TANGO|L TANGO|TANGO
+270|77|3G 2100|Proximus Luxembourg S.A.|TANGO|L TANGO|TANGO
+270|01|GSM 900|POST Luxembourg|POST|POST|POST
+270|01|GSM 1800|POST Luxembourg|POST|POST|POST
+270|01|3G 2100|POST Luxembourg|POST|POST|POST
+270|01|LTE 1800|POST Luxembourg|POST|POST|POST
+270|01|LTE 800|POST Luxembourg|POST|POST|POST
+247|05|GSM 900|SIA Bite Mobile|Bite Latvija|BITE LV|BITE LV
+247|05|GSM 1800|SIA Bite Mobile|Bite Latvija|BITE LV|BITE LV
+247|05|3G 2100|SIA Bite Mobile|Bite Latvija|BITE LV|BITE LV
+247|01|GSM 900|Latvijas Mobilais Telefons|LMT|LV LMT|LMT
+247|01|GSM 1800|Latvijas Mobilais Telefons|LMT|LV LMT|LMT
+247|01|3G 900|Latvijas Mobilais Telefons|LMT|LV LMT|LMT
+247|01|3G 2100|Latvijas Mobilais Telefons|LMT|LV LMT|LMT
+247|02|GSM 900|Tele2 SIA|TELE2|Tele2 LV|Tele2 LV
+247|02|GSM 1800|Tele2 SIA|TELE2|Tele2 LV|Tele2 LV
+247|02|3G 2100|Tele2 SIA|TELE2|Tele2 LV|Tele2 LV
+455|00|GSM 900|SmarTone Mobile Communications (Macau) Limited|SmarTone|SmarTone MAC|SMC MAC
+455|00|GSM 1800|SmarTone Mobile Communications (Macau) Limited|SmarTone|SmarTone MAC|SMC MAC
+455|03|LTE-FDD 1800|Hutchison Telephone (Macau) Company Limited|3 Macau|3 Macau|3 Macau
+455|03|3G 900|Hutchison Telephone (Macau) Company Limited|3 Macau|3 Macau|3 Macau
+455|03|3G 2100|Hutchison Telephone (Macau) Company Limited|3 Macau|3 Macau|3 Macau
+455|03|GSM 900|Hutchison Telephone (Macau) Company Limited|3 Macau|3 Macau|3 Macau
+455|03|GSM 1800|Hutchison Telephone (Macau) Company Limited|3 Macau|3 Macau|3 Macau
+455|01|3G 2100|"Companhia de Telecomunicações de Macau, S.A.R.L."|CTM|CTM|CTM
+455|01|GSM 900|"Companhia de Telecomunicações de Macau, S.A.R.L."|CTM|CTM|CTM
+455|01|GSM 1800|"Companhia de Telecomunicações de Macau, S.A.R.L."|CTM|CTM|CTM
+455|01|3G 900|"Companhia de Telecomunicações de Macau, S.A.R.L."|CTM|CTM|CTM
+455|04|LTE-TD 2300|"Companhia de Telecomunicações de Macau, S.A.R.L."|CTM|CTM|CTM
+455|04|LTE-FDD 1800|"Companhia de Telecomunicações de Macau, S.A.R.L."|CTM|CTM|CTM
+455|04|LTE-FDD 2600|"Companhia de Telecomunicações de Macau, S.A.R.L."|CTM|CTM|CTM
+455|01|LTE-FDD 1800|"Companhia de Telecomunicações de Macau, S.A.R.L."|CTM|CTM|CTM
+455|01|LTE-FDD 2600|"Companhia de Telecomunicações de Macau, S.A.R.L."|CTM|CTM|CTM
+455|04|3G 900|"Companhia de Telecomunicações de Macau, S.A.R.L."|CTM|CTM|CTM
+455|01|LTE-TD 2300|"Companhia de Telecomunicações de Macau, S.A.R.L."|CTM|CTM|CTM
+455|04|3G 2100|"Companhia de Telecomunicações de Macau, S.A.R.L."|CTM|CTM|CTM
+604|02|GSM 900|Wana Corporate S.A.|WANA|inwi|inwi
+604|02|GSM 1800|Wana Corporate S.A.|WANA|inwi|inwi
+604|00|GSM 900|Orange Maroc|Orange|Orange MA|Orange
+604|01|GSM 900|Itissalat Al-Maghrib S.A.|IAM|MOR IAM|IAM
+604|01|3G 2100|Itissalat Al-Maghrib S.A.|IAM|MOR IAM|IAM
+604|01|GSM 1800|Itissalat Al-Maghrib S.A.|IAM|MOR IAM|IAM
+212|10|3G 2100|Monaco Telecom S.A.M.|Monaco Telecom|Monaco|MONACO
+212|01|GSM 900|Monaco Telecom S.A.M.|Monaco Telecom|vala|vala
+259|05|3G 900|Moldtelecom S.A.|UNITE|UNITE|UNITE
+259|05|3G 2100|Moldtelecom S.A.|UNITE|UNITE|UNITE
+259|05|LTE 1800|Moldtelecom S.A.|UNITE|UNITE|UNITE
+259|02|GSM 900|Moldcell S.A|Moldcell|Moldcell|Moldcell
+259|01|GSM 1800|Orange Moldova S.A.|VoXtel|Orange MD|Orange
+259|01|3G 2100|Orange Moldova S.A.|VoXtel|Orange MD|Orange
+259|01|LTE 2600|Orange Moldova S.A.|VoXtel|Orange MD|Orange
+259|01|GSM 900|Orange Moldova S.A.|VoXtel|Orange MD|Orange
+259|15|LTE 800|"Closed Joint Stock Company """"Interdnestrcom"""""|IDC|IDC|IDC
+646|04|GSM 900|TELECOM MALAGASY (TELMA) S.A.|Telma Mobile|TELMA|TELMA
+646|02|GSM 900|Orange Madagascar S.A.|Orange Madagascar|Orange|Orange
+646|01|GSM 900|Airtel Madagascar SA|Airtel|Airtel|Airtel
+646|01|GSM 1800|Airtel Madagascar SA|Airtel|Airtel|Airtel
+646|05|LTE 2100|Gulfsat Madagascar SA |Bip|Bip|Bip
+646|05|LTE 2600|Gulfsat Madagascar SA |Bip|Bip|Bip
+472|02|GSM 900|Ooredoo Maldives Public Limited Company|Ooredoo Maldives PVT LTD|Ooredoo Maldives PVT LTD|Ooredoo
+472|02|3G 2100|Ooredoo Maldives Public Limited Company|Ooredoo Maldives PVT LTD|Ooredoo Maldives PVT LTD|Ooredoo
+472|02|LTE 1800|Ooredoo Maldives Public Limited Company|Ooredoo Maldives PVT LTD|Ooredoo Maldives PVT LTD|Ooredoo
+472|02|LTE 2100|Ooredoo Maldives Public Limited Company|Ooredoo Maldives PVT LTD|Ooredoo Maldives PVT LTD|Ooredoo
+472|01|GSM 900|Dhivehi Raajjeyge Gulhun Public Limited Company|DHIRAAGU|DHIRAAGU|DHIRAAGU
+334|90|3G 1700|"AT&T Comunicaciones Digitales, S. de R.L. de C.V."|AT&T Mexico|AT&T|AT&T
+334|90|3G 2100|"AT&T Comunicaciones Digitales, S. de R.L. de C.V."|AT&T Mexico|AT&T|AT&T
+334|070|GSM 850|"AT&T Comercializacion Movil, S. de R.L. de C.V."|AT&T Mexico|AT&T|AT&T
+334|070|GSM 1900|"AT&T Comercializacion Movil, S. de R.L. de C.V."|AT&T Mexico|AT&T|AT&T
+334|070|3G 850|"AT&T Comercializacion Movil, S. de R.L. de C.V."|AT&T Mexico|AT&T|AT&T
+334|070|3G 1900|"AT&T Comercializacion Movil, S. de R.L. de C.V."|AT&T Mexico|AT&T|AT&T
+334|070|3G 2100|"AT&T Comercializacion Movil, S. de R.L. de C.V."|AT&T Mexico|AT&T|AT&T
+334|070|3G 2100|"AT&T Comercializacion Movil, S. de R.L. de C.V."|AT&T Mexico|AT&T|AT&T
+334|070|3G 1700|"AT&T Comercializacion Movil, S. de R.L. de C.V."|AT&T Mexico|AT&T|AT&T
+901|44|GSM 850|"AT&T Comercializacion Movil, S. de R.L. de C.V."|AT&T Mexico|AT&T|AT&T
+901|44|GSM 1900|"AT&T Comercializacion Movil, S. de R.L. de C.V."|AT&T Mexico|AT&T|AT&T
+901|44|3G 850|"AT&T Comercializacion Movil, S. de R.L. de C.V."|AT&T Mexico|AT&T|AT&T
+901|44|3G 1900|"AT&T Comercializacion Movil, S. de R.L. de C.V."|AT&T Mexico|AT&T|AT&T
+901|44|3G 2100|"AT&T Comercializacion Movil, S. de R.L. de C.V."|AT&T Mexico|AT&T|AT&T
+901|44|3G 1700|"AT&T Comercializacion Movil, S. de R.L. de C.V."|AT&T Mexico|AT&T|AT&T
+334|050|3G 1900|"AT&T Comercializacion Movil, S. de R.L. de C.V."|AT&T Mexico|AT&T|AT&T
+334|050|GSM 850|"AT&T Comercializacion Movil, S. de R.L. de C.V."|AT&T Mexico|AT&T|AT&T
+334|050|GSM 1900|"AT&T Comercializacion Movil, S. de R.L. de C.V."|AT&T Mexico|AT&T|AT&T
+334|050|3G 850|"AT&T Comercializacion Movil, S. de R.L. de C.V."|AT&T Mexico|AT&T|AT&T
+334|03|GSM 1900|"Pegaso PCS, S.A. de C.V."|Movistar México|Movistar|TEMM
+334|03|LTE 1900|"Pegaso PCS, S.A. de C.V."|Movistar México|Movistar|TEMM
+334|03|3G 1900|"Pegaso PCS, S.A. de C.V."|Movistar México|Movistar|TEMM
+334|020|GSM 1900|"Radiomóvil Dipsa, S.A. de C.V."|TELCEL|TELCEL|TELCEL
+334|020|GSM 850|"Radiomóvil Dipsa, S.A. de C.V."|TELCEL|TELCEL|TELCEL
+334|020|3G 850|"Radiomóvil Dipsa, S.A. de C.V."|TELCEL|TELCEL|TELCEL
+334|020|3G 1900|"Radiomóvil Dipsa, S.A. de C.V."|TELCEL|TELCEL|TELCEL
+334|020|LTE 1700|"Radiomóvil Dipsa, S.A. de C.V."|TELCEL|TELCEL|TELCEL
+334|020|LTE 2100|"Radiomóvil Dipsa, S.A. de C.V."|TELCEL|TELCEL|TELCEL
+294|03|GSM 900|one.Vip DOOEL Skopje|VIP MKD|Vip MKD|Vip MKD
+294|03|GSM 1800|one.Vip DOOEL Skopje|VIP MKD|Vip MKD|Vip MKD
+294|03|3G 900|one.Vip DOOEL Skopje|VIP MKD|Vip MKD|Vip MKD
+294|03|3G 2100|one.Vip DOOEL Skopje|VIP MKD|Vip MKD|Vip MKD
+294|01|GSM 900|Makedonski Telekom AD - Skopje|Makedonski Telekom|Telekom MK|MKT MK
+294|01|3G 2100|Makedonski Telekom AD - Skopje|Makedonski Telekom|Telekom MK|MKT MK
+610|02|GSM 900|Orange Mali SA|Orange MALI|ORANGE ML|OML
+610|01|GSM 900|Malitel - SA|MALITEL|MALITEL ML|MALITEL
+610|03|3G 2100|Alpha Telecommunication Mali S.A.|TELECEL|TELECEL ML|TELECEL
+610|03|GSM 900|Alpha Telecommunication Mali S.A.|TELECEL|TELECEL ML|TELECEL
+610|03|GSM 1800|Alpha Telecommunication Mali S.A.|TELECEL|TELECEL ML|TELECEL
+278|77|3G 2100|Melita Ltd.|Melita Mobile|Melita Mobile|Melita
+278|77|3G 900|Melita Ltd.|Melita Mobile|Melita Mobile|Melita
+278|21|3G 2100|GO p.l.c.|go mobile|go mobile|gomobile
+278|21|LTE 1800|GO p.l.c.|go mobile|go mobile|gomobile
+278|21|GSM 900|GO p.l.c.|go mobile|go mobile|gomobile
+278|21|GSM 1800|GO p.l.c.|go mobile|go mobile|gomobile
+278|01|GSM 900|Vodafone Malta Limited|vodafone|vodafone MT|voda MT
+278|01|3G 2100|Vodafone Malta Limited|vodafone|vodafone MT|voda MT
+278|01|LTE 1800|Vodafone Malta Limited|vodafone|vodafone MT|voda MT
+414|01|GSM 900|Myanma Posts and Telecommunications|MPT GSM Network|MM 900|MPTGSM
+414|06|3G 900|Telenor Myanmar Limited |Telenor Myanmar|Telenor|TNM
+414|06|3G 2100|Telenor Myanmar Limited |Telenor Myanmar|Telenor|TNM
+414|05|3G 900|Ooredoo Myanmar Limited|Ooredoo|Ooredoo|Ooredoo
+414|05|3G 2100|Ooredoo Myanmar Limited|Ooredoo|Ooredoo|Ooredoo
+414|09|LTE 900|"Telecom International Myanmar Co., Ltd"|MYTEL|MYTEL|MYTEL
+414|09|3G 900|"Telecom International Myanmar Co., Ltd"|MYTEL|MYTEL|MYTEL
+414|09|3G 2100|"Telecom International Myanmar Co., Ltd"|MYTEL|MYTEL|MYTEL
+414|09|GSM 900|"Telecom International Myanmar Co., Ltd"|MYTEL|MYTEL|MYTEL
+414|09|LTE 2100|"Telecom International Myanmar Co., Ltd"|MYTEL|MYTEL|MYTEL
+414|09|LTE 1800|"Telecom International Myanmar Co., Ltd"|MYTEL|MYTEL|MYTEL
+414|09|GSM 1800|"Telecom International Myanmar Co., Ltd"|MYTEL|MYTEL|MYTEL
+297|03|3G 2100|MTEL d.o.o. Podgorica|MTEL|MTEL|MTEL
+297|03|GSM 900|MTEL d.o.o. Podgorica|MTEL|MTEL|MTEL
+297|03|GSM 1800|MTEL d.o.o. Podgorica|MTEL|MTEL|MTEL
+297|03|3G 900|MTEL d.o.o. Podgorica|MTEL|MTEL|MTEL
+297|02|3G 900|Crnogorski Telekom a.d. Podgorica |Telekom.me|Telekom.me|T.me
+297|02|LTE 800|Crnogorski Telekom a.d. Podgorica |Telekom.me|Telekom.me|T.me
+297|02|LTE 2600|Crnogorski Telekom a.d. Podgorica |Telekom.me|Telekom.me|T.me
+297|02|3G 2100|Crnogorski Telekom a.d. Podgorica |Telekom.me|Telekom.me|T.me
+297|02|GSM 900|Crnogorski Telekom a.d. Podgorica |Telekom.me|Telekom.me|T.me
+297|02|GSM 1800|Crnogorski Telekom a.d. Podgorica |Telekom.me|Telekom.me|T.me
+297|02|LTE 1800|Crnogorski Telekom a.d. Podgorica |Telekom.me|Telekom.me|T.me
+297|01|LTE 1800|Telenor d.o.o. Podgorica|Telenor|Telenor|Telenor
+297|01|GSM 900|Telenor d.o.o. Podgorica|Telenor|Telenor|Telenor
+297|01|GSM 1800|Telenor d.o.o. Podgorica|Telenor|Telenor|Telenor
+297|01|3G 2100|Telenor d.o.o. Podgorica|Telenor|Telenor|Telenor
+428|99|GSM 900|MobiCom Corporation|MobiCom|MN MobiCom|MobiCom
+428|99|3G 2100|MobiCom Corporation|MobiCom|MN MobiCom|MobiCom
+428|88|GSM 900|Unitel LLC|Unitel|MONGOLIA UNITEL LLC|UNTLMN
+428|88|GSM 1800|Unitel LLC|Unitel|MONGOLIA UNITEL LLC|UNTLMN
+428|88|3G 2100|Unitel LLC|Unitel|MONGOLIA UNITEL LLC|UNTLMN
+428|88|LTE-FDD 1800|Unitel LLC|Unitel|MONGOLIA UNITEL LLC|UNTLMN
+428|88|LTE-FDD 700|Unitel LLC|Unitel|MONGOLIA UNITEL LLC|UNTLMN
+428|01|LTE 1800|Skytel LLC|Skytel|Skytel MN|Skytel
+428|01|3G 2100|Skytel LLC|Skytel|Skytel MN|Skytel
+643|03|3G 2100|Movitel S.A.|MOVITEL|MOVITEL|MOVITEL
+643|03|GSM 900|Movitel S.A.|MOVITEL|MOVITEL|MOVITEL
+643|03|GSM 1800|Movitel S.A.|MOVITEL|MOVITEL|MOVITEL
+643|04|GSM 1800|"VM, S.A."|Vodacom Mozambique|VodaCom-MZ|VodaCom
+643|04|3G 2100|"VM, S.A."|Vodacom Mozambique|VodaCom-MZ|VodaCom
+643|04|LTE 800|"VM, S.A."|Vodacom Mozambique|VodaCom-MZ|VodaCom
+643|04|LTE 1800|"VM, S.A."|Vodacom Mozambique|VodaCom-MZ|VodaCom
+643|04|LTE 2100|"VM, S.A."|Vodacom Mozambique|VodaCom-MZ|VodaCom
+643|04|GSM 900|"VM, S.A."|Vodacom Mozambique|VodaCom-MZ|VodaCom
+643|01|GSM 900|Moçambique Celular S.A.R.L.|mcel|MOZ - mCel|mCel
+643|01|GSM 1800|Moçambique Celular S.A.R.L.|mcel|MOZ - mCel|mCel
+643|01|3G 2100|Moçambique Celular S.A.R.L.|mcel|MOZ - mCel|mCel
+609|02|3G 2100|Chinguitel S.A. |Chinguitel|MR Expresso|EMR
+609|02|GSM 900|Chinguitel S.A. |Chinguitel|MR Expresso|EMR
+609|02|GSM 1800|Chinguitel S.A. |Chinguitel|MR Expresso|EMR
+609|01|GSM 900|Tunisian Mauritanian Company of Telecommunications (MATTEL)|MATTEL|MR MATTEL|MATTEL
+609|10|GSM 900|Mauritanienne des Télécommunications S.A (Mauritel) |MAURITEL|MAURITEL|MAURITEL
+354|860|GSM 850|Cable and Wireless (West Indies) Ltd.|FLOW|FLOW|FLOW
+617|03|GSM 900|Mahanagar Telephone (Mauritius) Ltd.|MTML|MTML|MTML
+617|10|GSM 900|Emtel Ltd|EMTEL|EMTEL-MRU|EMTEL
+617|01|GSM 900|Cellplus Mobile Communications Ltd.|my.t|CELLPLUS-MRU|my.t
+617|01|LTE 1800|Cellplus Mobile Communications Ltd.|my.t|CELLPLUS-MRU|my.t
+617|01|3G 2100|Cellplus Mobile Communications Ltd.|my.t|CELLPLUS-MRU|my.t
+650|01|GSM 900|Telekom Networks Malawi Limited|TNM|TNM|TNM
+650|01|GSM 1800|Telekom Networks Malawi Limited|TNM|TNM|TNM
+650|10|GSM 900|Airtel Malawi Limited|Airtel|Airtel|Airtel
+650|10|3G 2100|Airtel Malawi Limited|Airtel|Airtel|Airtel
+502|18|3G 2100|U Mobile Sdn. Bhd.|U Mobile|U MOBILE|U MOBILE
+502|12|GSM 900|Maxis Broadband Sdn. Bhd.|MMS & MB|MY MAXIS|MY MAXIS
+502|12|GSM 1800|Maxis Broadband Sdn. Bhd.|MMS & MB|MY MAXIS|MY MAXIS
+502|12|3G 2100|Maxis Broadband Sdn. Bhd.|MMS & MB|MY MAXIS|MY MAXIS
+502|16|GSM 1800|Digi Telecommunications Sdn Bhd|Digi|Digi|Digi 4G+
+502|16|3G 2100|Digi Telecommunications Sdn Bhd|Digi|Digi|Digi 4G+
+502|16|LTE 2600|Digi Telecommunications Sdn Bhd|Digi|Digi|Digi 4G+
+502|19|GSM 900|Celcom Axiata Berhad |CELCOM GSM|MY CELCOM|CELCOM
+502|13|3G 2100|Celcom Axiata Berhad |Celcom Malaysia|MY CELCOM 3G|CELCOM
+502|156|LTE 2600|ALTEL Communications Sdn Bhd|ALTEL|MYSALTEL|ALTEL
+502|152|LTE 2600|YTL Communications Sdn. Bhd.|Yes|Yes 4G|Yes 4G
+502|153|LTE-TDD 2600|webe digital sdn bhd|unifi|unifi|unifi
+502|153|LTE-TDD 2300|webe digital sdn bhd|unifi|unifi|unifi
+502|153|LTE-FDD 850|webe digital sdn bhd|unifi|unifi|unifi
+647|01|GSM 900|BJT Partners|MAORE MOBILE|MAORE MOBILE|MMOBILE
+647|01|GSM 1800|BJT Partners|MAORE MOBILE|MAORE MOBILE|MMOBILE
+649|03|GSM 900|Telecom Namibia Limited|tnmobile™|tnmobile|tnmobile
+649|03|GSM 1800|Telecom Namibia Limited|tnmobile™|tnmobile|tnmobile
+649|01|GSM 900|Mobile Telecommunications Limited|MTC|MTC NAMIBIA|MTCNAM
+649|01|GSM 1800|Mobile Telecommunications Limited|MTC|MTC NAMIBIA|MTCNAM
+649|01|3G 2100|Mobile Telecommunications Limited|MTC|MTC NAMIBIA|MTCNAM
+649|01|LTE 1800|Mobile Telecommunications Limited|MTC|MTC NAMIBIA|MTCNAM
+546|01|GSM 900|Office des Postes et Telecommunications|MOBILIS|NCL MOBILIS|MOBNCL
+546|01|3G 2100|Office des Postes et Telecommunications|MOBILIS|NCL MOBILIS|MOBNCL
+546|01|LTE 1800|Office des Postes et Telecommunications|MOBILIS|NCL MOBILIS|MOBNCL
+614|04|GSM 1800|Orange Niger S.A.|Orange Niger|Orange|Orange
+614|04|GSM 900|Orange Niger S.A.|Orange Niger|Orange|Orange
+614|02|GSM 900|Celtel Niger S.A.|Airtel|Airtel|Airtel
+614|03|GSM 900|Telecel Niger SA|ETISALAT|ETISALAT NER|ETISALAT
+505|10|GSM 900|Norfolk Telecom|Norfolk Telecom|Norfolk Telecom|NT
+621|60|3G 2100|Emerging Markets Telecommunication Services Ltd|9mobile|9mobile|9mobile
+621|60|LTE 1800|Emerging Markets Telecommunication Services Ltd|9mobile|9mobile|9mobile
+621|60|GSM 900|Emerging Markets Telecommunication Services Ltd|9mobile|9mobile|9mobile
+621|60|GSM 1800|Emerging Markets Telecommunication Services Ltd|9mobile|9mobile|9mobile
+621|50|GSM 900|Globacom Limited|Glo Mobile|Glo NG|glo
+621|50|GSM 1800|Globacom Limited|Glo Mobile|Glo NG|glo
+621|20|GSM 900|Airtel Networks Limited|Airtel|Airtel|Airtel
+621|20|GSM 1800|Airtel Networks Limited|Airtel|Airtel|Airtel
+621|20|3G 2100|Airtel Networks Limited|Airtel|Airtel|Airtel
+621|20|LTE 1800|Airtel Networks Limited|Airtel|Airtel|Airtel
+621|30|GSM 1800|MTN Nigeria Communications Limited|MTN Nigeria|MTN - NG|MTN-NG
+621|30|LTE 2600|MTN Nigeria Communications Limited|MTN Nigeria|MTN - NG|MTN-NG
+621|30|GSM 900|MTN Nigeria Communications Limited|MTN Nigeria|MTN - NG|MTN-NG
+621|30|3G 2100|MTN Nigeria Communications Limited|MTN Nigeria|MTN - NG|MTN-NG
+621|40|GSM 900|NATCOM Development and Investment Ltd.|ntel Nigeria|ntel|ntel
+621|40|GSM 1800|NATCOM Development and Investment Ltd.|ntel Nigeria|ntel|ntel
+710|300|GSM 900|Telefónia Celular de Nicaragua S.A.|Movistar|Movistar|Movistar
+710|300|3G 850|Telefónia Celular de Nicaragua S.A.|Movistar|Movistar|Movistar
+710|300|3G 1900|Telefónia Celular de Nicaragua S.A.|Movistar|Movistar|Movistar
+710|300|LTE 700|Telefónia Celular de Nicaragua S.A.|Movistar|Movistar|Movistar
+710|300|LTE 1900|Telefónia Celular de Nicaragua S.A.|Movistar|Movistar|Movistar
+710|300|GSM 850|Telefónia Celular de Nicaragua S.A.|Movistar|Movistar|Movistar
+710|21|3G 850|Empresa Nicaraguense de Telecomunicaciones S.A. - ENITEL|CLARO NIC|CLARO NIC|ClaroNIC
+710|21|GSM 850|Empresa Nicaraguense de Telecomunicaciones S.A. - ENITEL|CLARO NIC|CLARO NIC|ClaroNIC
+710|21|GSM 1900|Empresa Nicaraguense de Telecomunicaciones S.A. - ENITEL|CLARO NIC|CLARO NIC|ClaroNIC
+710|73|3G 850|Empresa Nicaraguense de Telecomunicaciones S.A. - ENITEL|CLARO NIC|CLARO NIC|ClaroNIC
+710|73|GSM 850|Empresa Nicaraguense de Telecomunicaciones S.A. - ENITEL|CLARO NIC|CLARO NIC|ClaroNIC
+710|73|GSM 1900|Empresa Nicaraguense de Telecomunicaciones S.A. - ENITEL|CLARO NIC|CLARO NIC|ClaroNIC
+710|73|LTE 1700|Empresa Nicaraguense de Telecomunicaciones S.A. - ENITEL|CLARO NIC|CLARO NIC|ClaroNIC
+710|73|LTE 2100|Empresa Nicaraguense de Telecomunicaciones S.A. - ENITEL|CLARO NIC|CLARO NIC|ClaroNIC
+204|16|3G 2100|T-Mobile Netherlands B.V.|T-Mobile NL|T-Mobile NL|TMO NL
+204|16|GSM 1800|T-Mobile Netherlands B.V.|T-Mobile NL|T-Mobile NL|TMO NL
+204|08|GSM 900|KPN B.V.|KPN B.V.|NL KPN|NL KPN
+204|08|GSM 1800|KPN B.V.|KPN B.V.|NL KPN|NL KPN
+204|08|3G 2100|KPN B.V.|KPN B.V.|NL KPN|NL KPN
+204|08|LTE 800|KPN B.V.|KPN B.V.|NL KPN|NL KPN
+204|08|LTE 2600|KPN B.V.|KPN B.V.|NL KPN|NL KPN
+204|12|GSM 1800|KPN B.V.|Telfort B.V.|NL Telfort|NL Tlfrt
+204|04|GSM 900|Vodafone Libertel B.V.|vodafone|vodafone NL|voda NL
+204|04|GSM 1800|Vodafone Libertel B.V.|vodafone|vodafone NL|voda NL
+204|04|3G 2100|Vodafone Libertel B.V.|vodafone|vodafone NL|voda NL
+204|04|LTE 800|Vodafone Libertel B.V.|vodafone|vodafone NL|voda NL
+204|04|LTE 1800|Vodafone Libertel B.V.|vodafone|vodafone NL|voda NL
+204|04|LTE 2600|Vodafone Libertel B.V.|vodafone|vodafone NL|voda NL
+204|02|LTE 800|Tele2 Nederland B.V.|Tele2 Nederland|Tele2 NL|Tele2
+204|02|LTE 2600|Tele2 Nederland B.V.|Tele2 Nederland|Tele2 NL|Tele2
+242|01|GSM 900|Telenor Norge AS|TELENOR|N Telenor|TELENOR
+242|01|GSM 1800|Telenor Norge AS|TELENOR|N Telenor|TELENOR
+242|01|3G 2100|Telenor Norge AS|TELENOR|N Telenor|TELENOR
+242|01|LTE 800|Telenor Norge AS|TELENOR|N Telenor|TELENOR
+242|01|LTE 1800|Telenor Norge AS|TELENOR|N Telenor|TELENOR
+242|01|LTE 2600|Telenor Norge AS|TELENOR|N Telenor|TELENOR
+242|02|GSM 900|Telia Norge AS|NetCom|N NetCom|NetCom
+242|02|GSM 1800|Telia Norge AS|NetCom|N NetCom|NetCom
+242|02|3G 2100|Telia Norge AS|NetCom|N NetCom|NetCom
+242|14|LTE 800|ICE Communication Norge AS|ICE Norge AS|ice.net|ice.net
+242|14|LTE 900|ICE Communication Norge AS|ICE Norge AS|ice.net|ice.net
+242|14|LTE 1800|ICE Communication Norge AS|ICE Norge AS|ice.net|ice.net
+429|02|GSM 900|Ncell Pvt. Ltd|Ncell|Ncell|Ncell
+429|02|GSM 1800|Ncell Pvt. Ltd|Ncell|Ncell|Ncell
+429|01|3G 2100|Nepal Doorsanchar Company Ltd|Nepal Telecom|Nepal Telecom|NT
+429|01|GSM 900|Nepal Doorsanchar Company Ltd|Nepal Telecom|Nepal Telecom|NT
+429|01|LTE 1800|Nepal Doorsanchar Company Ltd|Nepal Telecom|Nepal Telecom|NT
+429|01|GSM 1800|Nepal Doorsanchar Company Ltd|Nepal Telecom|Nepal Telecom|NT
+429|04|GSM 900|Smart Telecom Pvt. Ltd.|SmartCell|SmartCell|ST
+429|04|LTE 1800|Smart Telecom Pvt. Ltd.|SmartCell|SmartCell|ST
+530|24|GSM 900|Two Degrees Networks Limited|2degrees|2degrees|2degrees
+530|24|GSM 1800|Two Degrees Networks Limited|2degrees|2degrees|2degrees
+530|05|LTE 1800|Spark New Zealand|Spark NZ|Spark NZ|Spark NZ
+530|05|LTE-TDD 2300|Spark New Zealand|Spark NZ|Spark NZ|Spark NZ
+530|05|LTE-TDD 2600|Spark New Zealand|Spark NZ|Spark NZ|Spark NZ
+530|05|3G 850|Spark New Zealand|Spark NZ|Spark NZ|Spark NZ
+530|05|3G 2100|Spark New Zealand|Spark NZ|Spark NZ|Spark NZ
+530|05|LTE 700|Spark New Zealand|Spark NZ|Spark NZ|Spark NZ
+530|01|GSM 900|Vodafone New Zealand Ltd|vodafone|vodafone NZ|voda NZ
+422|03|GSM 900|Omani Qatari Telecommunication Company SAOG|Ooredoo Oman|Ooredoo Oman|Ooredoo
+422|03|3G 900|Omani Qatari Telecommunication Company SAOG|Ooredoo Oman|Ooredoo Oman|Ooredoo
+422|03|LTE 1800|Omani Qatari Telecommunication Company SAOG|Ooredoo Oman|Ooredoo Oman|Ooredoo
+422|02|GSM 900|Oman Telecommunications Company S.A.O.G.|Omantel Oman|Omantel|Omantel
+422|02|LTE 1800|Oman Telecommunications Company S.A.O.G.|Omantel Oman|Omantel|Omantel
+422|02|LTE-TD 2300|Oman Telecommunications Company S.A.O.G.|Omantel Oman|Omantel|Omantel
+422|02|3G 2100|Oman Telecommunications Company S.A.O.G.|Omantel Oman|Omantel|Omantel
+410|06|GSM 900|Telenor Pakistan (Private) Limited|Telenor Pakistan (Pvt) Ltd.|Telenor PK|TELENOR
+410|06|GSM 1800|Telenor Pakistan (Private) Limited|Telenor Pakistan (Pvt) Ltd.|Telenor PK|TELENOR
+410|04|GSM 900|CMPak Limited|ZONG|ZONG|ZONG
+410|04|GSM 1800|CMPak Limited|ZONG|ZONG|ZONG
+410|03|GSM 900|Pakistan Telecommunication Mobile Limited|Ufone|PK-UFONE|UFONE
+410|01|GSM 900|Pakistan Mobile Communications Limited (PMCL)|Jazz|Jazz|Jazz
+410|01|GSM 1800|Pakistan Mobile Communications Limited (PMCL)|Jazz|Jazz|Jazz
+410|01|3G 2100|Pakistan Mobile Communications Limited (PMCL)|Jazz|Jazz|Jazz
+410|05|GSM 900|Special Communications Organization|SCOM|SCOM-PK|SCOM
+714|03|GSM 1900|"Claro Panamá, S.A."|Claro Panama|CLARO PA|CLARO PA
+714|04|GSM 1900|Digicel (Panama) S.A.|Digicel Panama|DIGICEL|DIGICEL
+714|01|GSM 850|"Cable & Wireless Panamá, S.A."|Cable & Wireless Panama|+Movil - C&W PAN|PANCW
+714|01|3G 850|"Cable & Wireless Panamá, S.A."|Cable & Wireless Panama|+Movil - C&W PAN|PANCW
+714|020|LTE 700|"Telefónica Móviles Panamá, S.A."|Movistar|Movistar|Movistar
+714|020|GSM 850|"Telefónica Móviles Panamá, S.A."|Movistar|Movistar|Movistar
+714|020|LTE 1900|"Telefónica Móviles Panamá, S.A."|Movistar|Movistar|Movistar
+714|020|3G 850|"Telefónica Móviles Panamá, S.A."|Movistar|Movistar|Movistar
+714|020|3G 1900|"Telefónica Móviles Panamá, S.A."|Movistar|Movistar|Movistar
+716|15|GSM 900|Viettel Peru S.A.C.|Viettel Peru S.A.C.|Viettel Peru|VTP
+716|15|GSM 1900|Viettel Peru S.A.C.|Viettel Peru S.A.C.|Viettel Peru|VTP
+716|17|GSM 1900|Entel Perú S.A.|Entel Peru|Entel|Entel
+716|17|LTE 2100|Entel Perú S.A.|Entel Peru|Entel|Entel
+716|17|3G 1900|Entel Perú S.A.|Entel Peru|Entel|Entel
+716|10|GSM 1900|"América Móvil Perú, S.A.C."|CLARO PER|CLARO PER|ClaroPER
+716|10|3G 850|"América Móvil Perú, S.A.C."|CLARO PER|CLARO PER|ClaroPER
+716|10|LTE 1900|"América Móvil Perú, S.A.C."|CLARO PER|CLARO PER|ClaroPER
+716|06|LTE 700|Telefónica del Perú S.A.A.|Movistar Peru|MOVISTAR|MOVISTAR
+716|06|LTE 2100|Telefónica del Perú S.A.A.|Movistar Peru|MOVISTAR|MOVISTAR
+716|06|GSM 850|Telefónica del Perú S.A.A.|Movistar Peru|MOVISTAR|MOVISTAR
+716|06|3G 850|Telefónica del Perú S.A.A.|Movistar Peru|MOVISTAR|MOVISTAR
+515|05|3G 2100|"Digitel Mobile Phils., Inc."|Digitel Mobile/Sun Cellular|PH Sun Cellular|SUN
+515|05|GSM 1800|"Digitel Mobile Phils., Inc."|Digitel Mobile/Sun Cellular|PH Sun Cellular|SUN
+515|03|GSM 900|"Smart Communications, Inc."|SMART Gold|SMART|SMART
+515|03|GSM 1800|"Smart Communications, Inc."|SMART Gold|SMART|SMART
+515|03|3G 850|"Smart Communications, Inc."|SMART Gold|SMART|SMART
+515|03|3G 2100|"Smart Communications, Inc."|SMART Gold|SMART|SMART
+515|02|GSM 900|"Globe Telecom, Inc."|Globe Telecom|Globe Telecom-PH|GLOBE
+515|02|GSM 1800|"Globe Telecom, Inc."|Globe Telecom|Globe Telecom-PH|GLOBE
+515|02|3G 2100|"Globe Telecom, Inc."|Globe Telecom|Globe Telecom-PH|GLOBE
+515|02|LTE 1800|"Globe Telecom, Inc."|Globe Telecom|Globe Telecom-PH|GLOBE
+552|01|3G 900|Palau National Communications Corporation (PNCC) |PalauCel|PalauCel|PalauCel
+552|01|LTE-FDD 700|Palau National Communications Corporation (PNCC) |PalauCel|PalauCel|PalauCel
+552|01|GSM 900|Palau National Communications Corporation (PNCC) |PalauCel|PalauCel|PalauCel
+537|03|GSM 900|Digicel (PNG) Limited|Digicel PNG|DIGICEL|DIGICEL
+537|01|GSM 900|Bemobile Limited  |bmobile|bmobile|bmobile
+537|02|GSM 850|Telikom PNG Limited|Telikom PNG|Telikom PNG|TM
+537|02|LTE 1800|Telikom PNG Limited|Telikom PNG|Telikom PNG|TM
+260|06|GSM 900|P4 Sp. z o.o.|P4|Play|Play
+260|06|3G 2100|P4 Sp. z o.o.|P4|Play|Play
+260|06|LTE 1800|P4 Sp. z o.o.|P4|Play|Play
+260|03|GSM 900|Orange Polska S.A.|Orange|Orange PL|Orange
+260|03|GSM 1800|Orange Polska S.A.|Orange|Orange PL|Orange
+260|03|3G 2100|Orange Polska S.A.|Orange|Orange PL|Orange
+260|03|LTE 1800|Orange Polska S.A.|Orange|Orange PL|Orange
+260|02|GSM 900|T-Mobile Polska S.A.|T-Mobile.pl|T-Mobile.pl|TM PL
+260|02|GSM 1800|T-Mobile Polska S.A.|T-Mobile.pl|T-Mobile.pl|TM PL
+260|02|3G 2100|T-Mobile Polska S.A.|T-Mobile.pl|T-Mobile.pl|TM PL
+260|02|LTE 1800|T-Mobile Polska S.A.|T-Mobile.pl|T-Mobile.pl|TM PL
+260|01|3G 900|Polkomtel Sp. z o.o. |Plus|Plus|PLUS
+260|01|LTE 800|Polkomtel Sp. z o.o. |Plus|Plus|PLUS
+260|01|3G 2100|Polkomtel Sp. z o.o. |Plus|Plus|PLUS
+260|01|GSM 900|Polkomtel Sp. z o.o. |Plus|Plus|PLUS
+260|01|GSM 1800|Polkomtel Sp. z o.o. |Plus|Plus|PLUS
+260|01|LTE 1800|Polkomtel Sp. z o.o. |Plus|Plus|PLUS
+330|110|GSM 850|"Puerto Rico Telephone Company, Inc."|Claro GSM|PR Claro|Claro
+330|110|GSM 1800|"Puerto Rico Telephone Company, Inc."|Claro GSM|PR Claro|Claro
+330|110|3G 850|"Puerto Rico Telephone Company, Inc."|Claro GSM|PR Claro|Claro
+330|110|3G 1900|"Puerto Rico Telephone Company, Inc."|Claro GSM|PR Claro|Claro
+330|120|LTE 700|"PR Wireless, Inc."|Open Mobile|Open Mob PRI|Open Mob
+268|03|GSM 900|"NOS – Comunicações, S.A."|NOS|NOS|NOS
+268|03|GSM 1800|"NOS – Comunicações, S.A."|NOS|NOS|NOS
+268|06|GSM 900|MEO - Serviços de Comunicações e Multimédia SA|MEO|MEO|MEO
+268|06|GSM 1800|MEO - Serviços de Comunicações e Multimédia SA|MEO|MEO|MEO
+268|06|3G 2100|MEO - Serviços de Comunicações e Multimédia SA|MEO|MEO|MEO
+268|01|GSM 900|"Vodafone Portugal - Comunicações Pessoais, S.A."|vodafone|vodafone P|voda P
+268|01|GSM 1800|"Vodafone Portugal - Comunicações Pessoais, S.A."|vodafone|vodafone P|voda P
+744|05|GSM 850|Núcleo S.A.|Personal|PY Personal|Personal
+744|05|GSM 1900|Núcleo S.A.|Personal|PY Personal|Personal
+744|05|3G 850|Núcleo S.A.|Personal|PY Personal|Personal
+744|05|3G 1900|Núcleo S.A.|Personal|PY Personal|Personal
+744|04|GSM 850|Telefonica Celular Del Paraguay S.A. (Telecel S.A.)|TIGO Paraguay|TIGO PY|TIGO
+744|04|3G 850|Telefonica Celular Del Paraguay S.A. (Telecel S.A.)|TIGO Paraguay|TIGO PY|TIGO
+744|04|3G 1900|Telefonica Celular Del Paraguay S.A. (Telecel S.A.)|TIGO Paraguay|TIGO PY|TIGO
+744|04|GSM 1900|Telefonica Celular Del Paraguay S.A. (Telecel S.A.)|TIGO Paraguay|TIGO PY|TIGO
+744|01|GSM 1900|Hola Paraguay S.A.|VOX|HOLA PARAGUAY S.A.|HPGYSA
+744|01|GSM 850|Hola Paraguay S.A.|VOX|HOLA PARAGUAY S.A.|HPGYSA
+744|01|3G 900|Hola Paraguay S.A.|VOX|HOLA PARAGUAY S.A.|HPGYSA
+744|01|LTE 1700|Hola Paraguay S.A.|VOX|HOLA PARAGUAY S.A.|HPGYSA
+744|01|LTE 2100|Hola Paraguay S.A.|VOX|HOLA PARAGUAY S.A.|HPGYSA
+744|02|GSM 1900|AMX Paraguay S.A.|CLARO PARAGUAY|CLARO PY|CLARO PY
+425|06|GSM 900|Wataniya Palestine Mobile Telecommunications Company|Ooredoo Palestine|Ooredoo Palestine|Ooredoo
+425|06|GSM 1800|Wataniya Palestine Mobile Telecommunications Company|Ooredoo Palestine|Ooredoo Palestine|Ooredoo
+425|05|GSM 900|Palestine Telecommunications Company|Palestine Telecommunications Co. P.L.C|JAWWAL-PALESTINE|JAWWAL
+547|20|3G 900|Onati S.A.S.|VINI|F-VINI|VINI
+547|20|LTE 800|Onati S.A.S.|VINI|F-VINI|VINI
+547|20|GSM 900|Onati S.A.S.|VINI|F-VINI|VINI
+547|20|3G 2100|Onati S.A.S.|VINI|F-VINI|VINI
+547|15|3G 2100|Pacific Mobile Telecom|VODAFONE|VODAFONE PF|VODAFONE
+547|15|GSM 900|Pacific Mobile Telecom|VODAFONE|VODAFONE PF|VODAFONE
+547|15|LTE 800|Pacific Mobile Telecom|VODAFONE|VODAFONE PF|VODAFONE
+547|15|LTE 2100|Pacific Mobile Telecom|VODAFONE|VODAFONE PF|VODAFONE
+427|02|3G 2100|Vodafone Qatar Q.S.C.|Vodafone Qatar|vodafone|VF-QA
+427|02|GSM 900|Vodafone Qatar Q.S.C.|Vodafone Qatar|vodafone|VF-QA
+427|02|GSM 1800|Vodafone Qatar Q.S.C.|Vodafone Qatar|vodafone|VF-QA
+427|02|LTE 800|Vodafone Qatar Q.S.C.|Vodafone Qatar|vodafone|VF-QA
+427|02|LTE 1800|Vodafone Qatar Q.S.C.|Vodafone Qatar|vodafone|VF-QA
+427|01|GSM 900|Ooredoo QSC|Ooredoo|Ooredoo|Ooredoo
+427|01|GSM 1800|Ooredoo QSC|Ooredoo|Ooredoo|Ooredoo
+427|01|LTE 800|Ooredoo QSC|Ooredoo|Ooredoo|Ooredoo
+427|01|LTE 1800|Ooredoo QSC|Ooredoo|Ooredoo|Ooredoo
+427|01|LTE 2600|Ooredoo QSC|Ooredoo|Ooredoo|Ooredoo
+427|01|3G 900|Ooredoo QSC|Ooredoo|Ooredoo|Ooredoo
+427|01|3G 1800|Ooredoo QSC|Ooredoo|Ooredoo|Ooredoo
+647|03|GSM 900|TELCO OI|FREE MOBILE RE|FREE MOBILE RE|FREE RE
+647|03|LTE 1800|TELCO OI|FREE MOBILE RE|FREE MOBILE RE|FREE RE
+647|03|GSM 1800|TELCO OI|FREE MOBILE RE|FREE MOBILE RE|FREE RE
+647|03|LTE 800|TELCO OI|FREE MOBILE RE|FREE MOBILE RE|FREE RE
+647|03|3G 2100|TELCO OI|FREE MOBILE RE|FREE MOBILE RE|FREE RE
+647|03|3G 900|TELCO OI|FREE MOBILE RE|FREE MOBILE RE|FREE RE
+647|02|3G 900|TELCO OI|TELCO OI|TELCO OI|TELCO OI
+647|02|GSM 900|TELCO OI|TELCO OI|TELCO OI|TELCO OI
+647|02|GSM 1800|TELCO OI|TELCO OI|TELCO OI|TELCO OI
+647|02|3G 2100|TELCO OI|TELCO OI|TELCO OI|TELCO OI
+647|00|GSM 900|Orange Réunion|Orange Reunion|Orange re|Orange
+647|00|GSM 1800|Orange Réunion|Orange Reunion|Orange re|Orange
+647|04|LTE 1800|ZEOP Mobile |ZEOP|ZEOP|ZEOP
+647|04|LTE 2100|ZEOP Mobile |ZEOP|ZEOP|ZEOP
+647|04|LTE 2600|ZEOP Mobile |ZEOP|ZEOP|ZEOP
+226|05|3G 2100|S.C. RCS & RDS S.A.|Digi.Mobil|RO Digi.Mobil|Digi
+226|03|GSM 900|Telekom Romania Mobile Communications S.A.|TELEKOM.RO|TELEKOM.RO|TELEKOM
+226|03|GSM 1800|Telekom Romania Mobile Communications S.A.|TELEKOM.RO|TELEKOM.RO|TELEKOM
+226|03|3G 2100|Telekom Romania Mobile Communications S.A.|TELEKOM.RO|TELEKOM.RO|TELEKOM
+226|10|GSM 900|S.C. Orange România S.A.|ORANGE|RO ORANGE|ORANGE
+226|10|GSM 1800|S.C. Orange România S.A.|ORANGE|RO ORANGE|ORANGE
+226|10|3G 2100|S.C. Orange România S.A.|ORANGE|RO ORANGE|ORANGE
+226|01|LTE 1800|S.C. Vodafone Romania S.A.|Vodafone RO|RO Vodafone RO|VF-RO
+226|01|3G 900|S.C. Vodafone Romania S.A.|Vodafone RO|RO Vodafone RO|VF-RO
+226|01|3G 2100|S.C. Vodafone Romania S.A.|Vodafone RO|RO Vodafone RO|VF-RO
+226|01|GSM 900|S.C. Vodafone Romania S.A.|Vodafone RO|RO Vodafone RO|VF-RO
+226|01|GSM 1800|S.C. Vodafone Romania S.A.|Vodafone RO|RO Vodafone RO|VF-RO
+250|35|GSM 1800|LLC Ekaterinburg-2000|MOTIV|MOTIV|MOTIV
+250|20|GSM 1800|LLC T2 Mobile|Tele2|Tele2 RU|Tele2
+250|20|GSM 900|LLC T2 Mobile|Tele2|Tele2 RU|Tele2
+250|20|3G 2100|LLC T2 Mobile|Tele2|Tele2 RU|Tele2
+250|99|GSM 900|VimpelCom PJSC|Beeline|Beeline|Beeline
+250|99|GSM 1800|VimpelCom PJSC|Beeline|Beeline|Beeline
+250|99|3G 2100|VimpelCom PJSC|Beeline|Beeline|Beeline
+250|99|LTE 800|VimpelCom PJSC|Beeline|Beeline|Beeline
+250|99|LTE 2600|VimpelCom PJSC|Beeline|Beeline|Beeline
+250|02|GSM 900|MegaFon PJSC|MegaFon|MegaFon RUS|MegaFon
+250|02|GSM 1800|MegaFon PJSC|MegaFon|MegaFon RUS|MegaFon
+250|02|3G 2100|MegaFon PJSC|MegaFon|MegaFon RUS|MegaFon
+250|02|LTE 2600|MegaFon PJSC|MegaFon|MegaFon RUS|MegaFon
+250|02|LTE 2500|MegaFon PJSC|MegaFon|MegaFon RUS|MegaFon
+250|01|3G 900|PJSC Mobile TeleSystems (MTS)|MTS|MTS RUS|MTS RUS
+250|01|3G 2100|PJSC Mobile TeleSystems (MTS)|MTS|MTS RUS|MTS RUS
+250|01|GSM 900|PJSC Mobile TeleSystems (MTS)|MTS|MTS RUS|MTS RUS
+250|01|GSM 1800|PJSC Mobile TeleSystems (MTS)|MTS|MTS RUS|MTS RUS
+250|01|LTE-TD 2600|PJSC Mobile TeleSystems (MTS)|MTS|MTS RUS|MTS RUS
+250|01|LTE-FDD 800|PJSC Mobile TeleSystems (MTS)|MTS|MTS RUS|MTS RUS
+250|01|LTE-FDD 2600|PJSC Mobile TeleSystems (MTS)|MTS|MTS RUS|MTS RUS
+250|27|LTE 1800|TMT LLC|LETAI|LETAI|LETAI
+250|27|GSM 1800|TMT LLC|LETAI|LETAI|LETAI
+250|28|LTE 1900|LLC Antares|voda|voda|voda
+635|13|GSM 900|Tigo Rwanda Ltd|TIGO RWANDA LTD|TIGO RWANDA|TIGO RW
+635|13|GSM 1800|Tigo Rwanda Ltd|TIGO RWANDA LTD|TIGO RWANDA|TIGO RW
+635|13|3G 2100|Tigo Rwanda Ltd|TIGO RWANDA LTD|TIGO RWANDA|TIGO RW
+635|14|GSM 900|Bharti Airtel Rwanda Holdings B.V.|Airtel|Airtel|Airtel
+635|14|GSM 1800|Bharti Airtel Rwanda Holdings B.V.|Airtel|Airtel|Airtel
+635|14|3G 2100|Bharti Airtel Rwanda Holdings B.V.|Airtel|Airtel|Airtel
+635|14|LTE 800|Bharti Airtel Rwanda Holdings B.V.|Airtel|Airtel|Airtel
+635|14|LTE 1800|Bharti Airtel Rwanda Holdings B.V.|Airtel|Airtel|Airtel
+635|10|GSM 900|MTN RwandaCell S.A.R.L.|MTN-RWA|MTN RWANDA|MTN
+635|10|GSM 1800|MTN RwandaCell S.A.R.L.|MTN-RWA|MTN RWANDA|MTN
+635|10|3G 2100|MTN RwandaCell S.A.R.L.|MTN-RWA|MTN RWANDA|MTN
+635|10|LTE 800|MTN RwandaCell S.A.R.L.|MTN-RWA|MTN RWANDA|MTN
+635|10|LTE 1800|MTN RwandaCell S.A.R.L.|MTN-RWA|MTN RWANDA|MTN
+420|04|GSM 900|MTC Saudi Arabia (Zain)|Zain Saudi Arabia|Zain KSA|Zain KSA
+420|04|GSM 1800|MTC Saudi Arabia (Zain)|Zain Saudi Arabia|Zain KSA|Zain KSA
+420|04|LTE 2100|MTC Saudi Arabia (Zain)|Zain Saudi Arabia|Zain KSA|Zain KSA
+420|03|LTE-TD 2500|Etihad Etisalat Company|Mobily|Mobily-KSA|Mobily
+420|03|GSM 900|Etihad Etisalat Company|Mobily|Mobily-KSA|Mobily
+420|03|3G 2100|Etihad Etisalat Company|Mobily|Mobily-KSA|Mobily
+420|01|GSM 900|Saudi Telecom Company (STC)|STC|STC|STC
+420|01|3G 2100|Saudi Telecom Company (STC)|STC|STC|STC
+420|01|LTE-TD 2300|Saudi Telecom Company (STC)|STC|STC|STC
+634|01|GSM 900|Sudanese Mobile Telephone (Zain) Co. Ltd|Zain Sudan|Zain SDN|Zain SD
+634|01|GSM 1800|Sudanese Mobile Telephone (Zain) Co. Ltd|Zain Sudan|Zain SDN|Zain SD
+634|01|3G 2100|Sudanese Mobile Telephone (Zain) Co. Ltd|Zain Sudan|Zain SDN|Zain SD
+634|02|GSM 900|MTN Sudan|MTN|MTN|MTN
+634|02|GSM 1800|MTN Sudan|MTN|MTN|MTN
+634|02|3G 2100|MTN Sudan|MTN|MTN|MTN
+608|02|GSM 900|Sentel GSM S.A.|SENTEL|SN-SENTEL SG|SENTEL
+608|01|GSM 900|Société Nationale des Télécommunications du Sénégal (SONATEL)|Orange Senegal|Orange SN|OrangeSN
+608|03|GSM 900|Sudan Telecom Company Ltd |Expresso Senegal|SEN expresso|Expresso
+608|03|GSM 1800|Sudan Telecom Company Ltd |Expresso Senegal|SEN expresso|Expresso
+525|05|LTE 1800|StarHub Mobile Pte Ltd|StarHub|StarHub|StarHub
+525|05|LTE 2600|StarHub Mobile Pte Ltd|StarHub|StarHub|StarHub
+525|08|3G 2100|StarHub Mobile Pte Ltd|StarHub|StarHub|StarHub
+525|08|LTE 1800|StarHub Mobile Pte Ltd|StarHub|StarHub|StarHub
+525|08|LTE 2600|StarHub Mobile Pte Ltd|StarHub|StarHub|StarHub
+525|05|3G 2100|StarHub Mobile Pte Ltd|StarHub|StarHub|StarHub
+525|01|GSM 900|SingTel Mobile Singapore Pte. Ltd.|Singtel|Singtel|Singtel
+525|01|GSM 1800|SingTel Mobile Singapore Pte. Ltd.|Singtel|Singtel|Singtel
+525|01|LTE 1800|SingTel Mobile Singapore Pte. Ltd.|Singtel|Singtel|Singtel
+525|01|LTE 2600|SingTel Mobile Singapore Pte. Ltd.|Singtel|Singtel|Singtel
+525|01|3G 900|SingTel Mobile Singapore Pte. Ltd.|Singtel|Singtel|Singtel
+525|01|3G 2100|SingTel Mobile Singapore Pte. Ltd.|Singtel|Singtel|Singtel
+525|02|GSM 1800|SingTel Mobile Singapore Pte. Ltd.|Singtel|Singtel|Singtel
+525|07|3G 2100|SingTel Mobile Singapore Pte. Ltd.|Singtel|SGP Call Zone|CallZone
+525|01|LTE 900|SingTel Mobile Singapore Pte. Ltd.|Singtel|Singtel|Singtel
+525|03|LTE 1800|M1 Limited|M1 Limited|SGP-M1|M1
+525|03|LTE 2600|M1 Limited|M1 Limited|SGP-M1|M1
+525|03|3G 2100|M1 Limited|M1 Limited|SGP-M1|M1
+525|10|LTE 900|TPG Telecom Pte. Ltd.|TPG SG|TPG SG|TPG SG
+525|10|LTE-TDD 2300|TPG Telecom Pte. Ltd.|TPG SG|TPG SG|TPG SG
+525|10|LTE-TDD 2600|TPG Telecom Pte. Ltd.|TPG SG|TPG SG|TPG SG
+658|01|GSM 900|Sure South Atlantic (St Helena & Ascension Islands) Ltd|Sure South Atlantic Ltd (Ascension)|Sure|Sure
+658|01|GSM 1800|Sure South Atlantic (St Helena & Ascension Islands) Ltd|Sure South Atlantic Ltd (Ascension)|Sure|Sure
+540|01|GSM 900|Solomon Telekom Company  Limited|Our Telekom|Our Telekom|Telekom
+540|02|GSM 900|Bemobile (Solomon Islands) Limited|bmobile|bmobile|bmobile
+540|02|GSM 1800|Bemobile (Solomon Islands) Limited|bmobile|bmobile|bmobile
+619|05|GSM 900|Africell Sierra Leone Limited|Africell|Africell|Africell
+619|01|GSM 900|Orange (SL) Limited|Orange|Orange SL|OrangeSL
+619|07|GSM 900|QCell (SL) Ltd.|QCell|QCell|QC
+619|07|GSM 1800|QCell (SL) Ltd.|QCell|QCell|QC
+619|07|3G 2100|QCell (SL) Ltd.|QCell|QCell|QC
+706|04|LTE 1900|"Telefónica Móviles El Salvador, S.A de C.V."|Telefonica|Movistar|Movistar
+706|04|3G 1900|"Telefónica Móviles El Salvador, S.A de C.V."|Telefonica|Movistar|Movistar
+706|04|GSM 850|"Telefónica Móviles El Salvador, S.A de C.V."|Telefonica|Movistar|Movistar
+706|04|GSM 1900|"Telefónica Móviles El Salvador, S.A de C.V."|Telefonica|Movistar|Movistar
+706|04|LTE 850|"Telefónica Móviles El Salvador, S.A de C.V."|Telefonica|Movistar|Movistar
+706|04|3G 850|"Telefónica Móviles El Salvador, S.A de C.V."|Telefonica|Movistar|Movistar
+706|03|GSM 850|"Telemovil El Salvador, S.A."|Tigo El Salvador|Tigo SV|Tigo
+706|02|GSM 900|"Digicel, S.A. de C.V."|Digicel|Digicel|DIGICEL
+706|02|3G 900|"Digicel, S.A. de C.V."|Digicel|Digicel|DIGICEL
+706|01|GSM 1900|"CTE Telecom Personal, S.A. de C.V."|CLARO SLV|CLARO SLV|ClaroSLV
+706|01|3G 2100|"CTE Telecom Personal, S.A. de C.V."|CLARO SLV|CLARO SLV|ClaroSLV
+706|01|LTE-FDD 1900|"CTE Telecom Personal, S.A. de C.V."|CLARO SLV|CLARO SLV|ClaroSLV
+637|30|GSM 900|Golis Telecommunications Company Ltd|Golis Telecom Somalia|Som Golis|Golis
+637|01|GSM 900|Telesom Company|Telesom|SO Telesom|Tele
+637|50|GSM 900|Hormuud Telecommunication Incorporation|Hormuud Telecom Inc.|Hormuud Telecom|Hormuud
+637|50|GSM 1800|Hormuud Telecommunication Incorporation|Hormuud Telecom Inc.|Hormuud Telecom|Hormuud
+637|50|3G 2100|Hormuud Telecommunication Incorporation|Hormuud Telecom Inc.|Hormuud Telecom|Hormuud
+637|50|LTE 800|Hormuud Telecommunication Incorporation|Hormuud Telecom Inc.|Hormuud Telecom|Hormuud
+637|50|LTE 1800|Hormuud Telecommunication Incorporation|Hormuud Telecom Inc.|Hormuud Telecom|Hormuud
+308|01|GSM 900|SPM Telecom |AMERIS|SPM AMERIS|AMERIS
+220|05|GSM 900|Vip mobile d.o.o.|Vip|Vip SRB|Vip SRB
+220|05|GSM 1800|Vip mobile d.o.o.|Vip|Vip SRB|Vip SRB
+220|05|3G 2100|Vip mobile d.o.o.|Vip|Vip SRB|Vip SRB
+220|05|LTE 1800|Vip mobile d.o.o.|Vip|Vip SRB|Vip SRB
+220|03|3G 2100|Telekom Srbija a.d.|Telekom Srbija|mt:s|MTS
+220|03|GSM 900|Telekom Srbija a.d.|Telekom Srbija|mt:s|MTS
+220|03|GSM 1800|Telekom Srbija a.d.|Telekom Srbija|mt:s|MTS
+220|03|LTE 1800|Telekom Srbija a.d.|Telekom Srbija|mt:s|MTS
+220|01|GSM 900|Telenor d.o.o.|Telenor|Telenor SRB|Telenor
+220|01|GSM 1800|Telenor d.o.o.|Telenor|Telenor SRB|Telenor
+220|01|3G 2100|Telenor d.o.o.|Telenor|Telenor SRB|Telenor
+220|01|LTE 1800|Telenor d.o.o.|Telenor|Telenor SRB|Telenor
+659|02|3G 2100|MTN South Sudan|MTN South Sudan|MTN|MTN
+659|02|GSM 900|MTN South Sudan|MTN South Sudan|MTN|MTN
+659|02|GSM 1800|MTN South Sudan|MTN South Sudan|MTN|MTN
+659|06|GSM 900|Sudanese Mobile Telephone (Zain South Sudan) Co.Ltd|Sudanese Mobile Telephone (ZAIN) CO.LTD|ZAIN SS|ZAIN SS
+659|06|GSM 1800|Sudanese Mobile Telephone (Zain South Sudan) Co.Ltd|Sudanese Mobile Telephone (ZAIN) CO.LTD|ZAIN SS|ZAIN SS
+626|01|GSM 900|"Companhia Santomense de Telecomunicações, SARL"|CSTmovel|STP CSTmovel|CSTmovel
+626|02|3G 900|Unitel STP S.a.r.l.|Unitel STP|Unitel STP|Unitel
+626|02|3G 1900|Unitel STP S.a.r.l.|Unitel STP|Unitel STP|Unitel
+626|02|3G 2100|Unitel STP S.a.r.l.|Unitel STP|Unitel STP|Unitel
+626|02|GSM 900|Unitel STP S.a.r.l.|Unitel STP|Unitel STP|Unitel
+746|03|GSM 900|Digicel Suriname N.V.|Digicel Suriname NV|DIGICEL|DIGICEL
+746|03|GSM 1800|Digicel Suriname N.V.|Digicel Suriname NV|DIGICEL|DIGICEL
+746|03|3G 900|Digicel Suriname N.V.|Digicel Suriname NV|DIGICEL|DIGICEL
+746|02|GSM 900|Telecommunications Company Suriname|TELESUR.GSM|SR.TELESUR.GSM|TeleG
+746|02|GSM 1800|Telecommunications Company Suriname|TELESUR.GSM|SR.TELESUR.GSM|TeleG
+231|06|GSM 900|"O2 Slovakia, s.r.o."|O2 - SK|O2 - SK|O2 - SK
+231|06|GSM 1800|"O2 Slovakia, s.r.o."|O2 - SK|O2 - SK|O2 - SK
+231|06|3G 2100|"O2 Slovakia, s.r.o."|O2 - SK|O2 - SK|O2 - SK
+231|06|LTE 800|"O2 Slovakia, s.r.o."|O2 - SK|O2 - SK|O2 - SK
+231|06|LTE 1800|"O2 Slovakia, s.r.o."|O2 - SK|O2 - SK|O2 - SK
+231|01|GSM 900|"Orange Slovensko, a.s."|Orange SK|Orange SK|Orange
+231|01|GSM 1800|"Orange Slovensko, a.s."|Orange SK|Orange SK|Orange
+231|01|3G 2100|"Orange Slovensko, a.s."|Orange SK|Orange SK|Orange
+231|02|GSM 900|"Slovak Telekom, a.s."|Telekom|Telekom SK|Telekom
+231|02|GSM 1800|"Slovak Telekom, a.s."|Telekom|Telekom SK|Telekom
+231|02|3G 2100|"Slovak Telekom, a.s."|Telekom|Telekom SK|Telekom
+231|02|LTE 1800|"Slovak Telekom, a.s."|Telekom|Telekom SK|Telekom
+231|03|LTE 1800|"SWAN Mobile, a.s."|SWAN SK|SWAN SK|SWAN SK
+293|64|3G 2100|T-2 d.o.o.|T-2|T-2|T-2
+293|70|GSM 1800|Telemach d.o.o.|TELEMACH|TELEMACH|TELEMACH
+293|70|3G 900|Telemach d.o.o.|TELEMACH|TELEMACH|TELEMACH
+293|70|3G 2100|Telemach d.o.o.|TELEMACH|TELEMACH|TELEMACH
+293|70|LTE 800|Telemach d.o.o.|TELEMACH|TELEMACH|TELEMACH
+293|40|GSM 900|"A1 Slovenija, d.d."|A1 SI|A1 SI|A1 SI
+293|40|GSM 1800|"A1 Slovenija, d.d."|A1 SI|A1 SI|A1 SI
+293|40|3G 2100|"A1 Slovenija, d.d."|A1 SI|A1 SI|A1 SI
+293|40|LTE 1800|"A1 Slovenija, d.d."|A1 SI|A1 SI|A1 SI
+293|41|GSM 900|Telekom Slovenije d.d.|MOBITEL|MOBITEL|MOBITEL
+293|41|GSM 1800|Telekom Slovenije d.d.|MOBITEL|MOBITEL|MOBITEL
+293|41|3G 2100|Telekom Slovenije d.d.|MOBITEL|MOBITEL|MOBITEL
+293|41|LTE 800|Telekom Slovenije d.d.|MOBITEL|MOBITEL|MOBITEL
+293|41|LTE 900|Telekom Slovenije d.d.|MOBITEL|MOBITEL|MOBITEL
+293|41|LTE 1800|Telekom Slovenije d.d.|MOBITEL|MOBITEL|MOBITEL
+293|41|LTE 2100|Telekom Slovenije d.d.|MOBITEL|MOBITEL|MOBITEL
+293|41|LTE 2600|Telekom Slovenije d.d.|MOBITEL|MOBITEL|MOBITEL
+240|02|3G 2100|Hi3G Access AB|3|3 SE|3 SE
+240|04|3G 2100|Hi3G Access AB|Hi3G Access AB / Telenor Sverige AB|SWEDEN|SWE
+240|01|GSM 900|Telia Company AB|TeliaSonera|TELIA S|TELIA
+240|01|GSM 1800|Telia Company AB|TeliaSonera|TELIA S|TELIA
+240|01|LTE 800|Telia Company AB|TeliaSonera|TELIA S|TELIA
+240|01|LTE 2600|Telia Company AB|TeliaSonera|TELIA S|TELIA
+240|01|LTE 1800|Telia Company AB|TeliaSonera|TELIA S|TELIA
+240|05|3G 2100|Telia Company AB|TeliaSonera shared with COMVIQ GSM|Sweden 3G|Sweden3G
+240|08|3G 2100|Telenor Sverige AB|Telenor|Telenor SE|TelenorS
+240|08|LTE 800|Telenor Sverige AB|Telenor|Telenor SE|TelenorS
+240|08|LTE 1800|Telenor Sverige AB|Telenor|Telenor SE|TelenorS
+240|08|LTE 2600|Telenor Sverige AB|Telenor|Telenor SE|TelenorS
+240|08|LTE 900|Telenor Sverige AB|Telenor|Telenor SE|TelenorS
+240|04|3G 2100|Telenor Sverige AB|Telenor Sverige AB / Hi3G Access AB|SWEDEN|SWE
+240|24|GSM 900|Telenor Sverige AB|Telenor Sverige AB / Tele2 AB (Shared Network)|Sweden Mobile|MobileS
+240|24|GSM 1800|Telenor Sverige AB|Telenor Sverige AB / Tele2 AB (Shared Network)|Sweden Mobile|MobileS
+240|05|3G 2100|Tele2 AB|COMVIQ GSM shared with TeliaSonera MobileNetworks|Sweden 3G|Sweden3G
+240|07|GSM 900|Tele2 AB|Tele 2 AB|Tele2|Tele2 SE
+240|07|GSM 1800|Tele2 AB|Tele 2 AB|Tele2|Tele2 SE
+240|07|LTE 800|Tele2 AB|Tele 2 AB|Tele2|Tele2 SE
+240|07|LTE 1800|Tele2 AB|Tele 2 AB|Tele2|Tele2 SE
+240|07|LTE 2600|Tele2 AB|Tele 2 AB|Tele2|Tele2 SE
+240|07|LTE 900|Tele2 AB|Tele 2 AB|Tele2|Tele2 SE
+240|24|GSM 900|Tele2 AB|Tele 2 AB / Telenor Sverige AB|Sweden Mobile|MobileS
+653|10|GSM 900|Swazi MTN Limited|Swazi MTN|Swazi-MTN|SwaziMTN
+653|02|GSM 900|Swazi Mobile Limited|Swazi Mobile|Swazi Mobile|Swazi Mo
+653|02|GSM 1800|Swazi Mobile Limited|Swazi Mobile|Swazi Mobile|Swazi Mo
+633|10|GSM 900|Airtel (Seychelles) Limited|Airtel|Airtel|Airtel
+633|01|GSM 900|Cable and Wireless (Seychelles) Ltd|CABLE & WIRELESS|C&W SEY|C&W SEY
+633|01|3G 2100|Cable and Wireless (Seychelles) Ltd|CABLE & WIRELESS|C&W SEY|C&W SEY
+633|01|LTE 800|Cable and Wireless (Seychelles) Ltd|CABLE & WIRELESS|C&W SEY|C&W SEY
+633|01|LTE 1800|Cable and Wireless (Seychelles) Ltd|CABLE & WIRELESS|C&W SEY|C&W SEY
+417|02|GSM 900|MTN Syria (JSC)|MTN Syria|MTN|MTN
+417|02|GSM 1800|MTN Syria (JSC)|MTN Syria|MTN|MTN
+376|350|GSM 850|Cable and Wireless (TCI) Ltd|FLOW|FLOW|FLOW
+622|03|GSM 900|Millicom Tchad SA|Millicom Tchad|Tigo TD|Tigo
+622|03|GSM 1800|Millicom Tchad SA|Millicom Tchad|Tigo TD|Tigo
+622|03|3G 2100|Millicom Tchad SA|Millicom Tchad|Tigo TD|Tigo
+622|03|LTE 1800|Millicom Tchad SA|Millicom Tchad|Tigo TD|Tigo
+622|01|GSM 900|Airtel Tchad|Airtel|Airtel|Airtel
+615|03|GSM 900|Telecel Togo|ETISALAT|ETISALAT TOGO|ETISALAT
+615|01|GSM 900|Togo Telecom|TOGO CELL|TG-TOGO CELL|TGCELL
+520|00|3G 850|CAT Telecom Public Company|CAT Telecom PLC|TH 3G+|TH 3G+
+520|47|LTE 2300|TOT PLC|TOT Mobile|TOT Mobile|TOT
+520|15|3G 2100|TOT PLC|TOT Mobile|TOT Mobile|TOT
+520|18|GSM 1800|Total Access Communications PLC.|DTAC|TH-DTAC|DTAC
+520|18|GSM 850|Total Access Communications PLC.|DTAC|TH-DTAC|DTAC
+520|03|3G 2100|Advanced Wireless Network Company Limited|AIS|AIS|AIS
+901|45|3G 2100|Advanced Wireless Network Company Limited|AIS|AISatSea|AISatSea
+520|03|LTE 1800|Advanced Wireless Network Company Limited|AIS|AIS|AIS
+520|01|GSM 900|Advanced Wireless Network Company Limited|AIS|AIS|AIS
+520|04|3G 2100|"True Move H Universal Communication Co., Ltd."|True Move H |TRUE-H|TRUE-H
+520|04|LTE 1800|"True Move H Universal Communication Co., Ltd."|True Move H|TRUE-H|TRUE-H
+520|04|LTE 2100|"True Move H Universal Communication Co., Ltd."|True Move H|TRUE-H|TRUE-H
+520|04|GSM 900|"True Move H Universal Communication Co., Ltd."|True Move H|TRUE-H|TRUE-H
+520|04|LTE 900|"True Move H Universal Communication Co., Ltd."|True Move H|TRUE-H|TRUE-H
+520|99|GSM 900|"True Move H Universal Communication Co., Ltd."|True Move H|TRUE-H|TRUE-H
+520|05|3G 2100|"dtac TriNet Co., Ltd."|dtac TriNet|dtac TriNet|dtac
+520|05|LTE 2100|"dtac TriNet Co., Ltd."|dtac TriNet|dtac TriNet|dtac
+436|05|GSM 900|Tacom LLC|BEELINE TJ|BEELINE TJ|BEELINE
+436|05|GSM 1800|Tacom LLC|BEELINE TJ|BEELINE TJ|BEELINE
+436|05|3G 2100|Tacom LLC|BEELINE TJ|BEELINE TJ|BEELINE
+436|01|GSM 900|Indigo Tajikistan CJSC|TCELL|TCELL|TCELL
+436|01|GSM 1800|Indigo Tajikistan CJSC|TCELL|TCELL|TCELL
+436|01|3G 2100|Indigo Tajikistan CJSC|TCELL|TCELL|TCELL
+436|02|GSM 900|Indigo Tajikistan CJSC|TCELL|TCELL|TCELL
+436|02|GSM 1800|Indigo Tajikistan CJSC|TCELL|TCELL|TCELL
+436|02|3G 2100|Indigo Tajikistan CJSC|TCELL|TCELL|TCELL
+436|01|3G 2100|Indigo Tajikistan CJSC|TCELL|TCELL|TCELL
+436|02|3G 2100|Indigo Tajikistan CJSC|TCELL|TCELL|TCELL
+436|04|LTE 1800|CJSC Babilon-Mobile|Babilon-M|Babilon-M|Babilon
+436|04|LTE 2100|CJSC Babilon-Mobile|Babilon-M|Babilon-M|Babilon
+436|04|GSM 900|CJSC Babilon-Mobile|Babilon-M|Babilon-M|Babilon
+436|04|3G 2100|CJSC Babilon-Mobile|Babilon-M|Babilon-M|Babilon
+436|03|GSM 900|"TT Mobile, Closed Joint Stock Company "|MegaFon Tajikistan|MegaFon TJK|MegaFon
+436|03|GSM 1800|"TT Mobile, Closed Joint Stock Company "|MegaFon Tajikistan|MegaFon TJK|MegaFon
+436|03|3G 2100|"TT Mobile, Closed Joint Stock Company "|MegaFon Tajikistan|MegaFon TJK|MegaFon
+554|01|LTE 700|Telecommunications Tokelau Corporation|Teletok|Teletok|TTOK
+438|02|GSM 900|Altyn-Asyr Close Joint-Stock Company|Altyn Asyr|TM CELL|TM CELL
+438|02|GSM 1800|Altyn-Asyr Close Joint-Stock Company|Altyn Asyr|TM CELL|TM CELL
+514|02|GSM 900|Timor Telecom|Timor Telecom|TLS-TT|TT
+514|01|3G 2100|PT Telekomunikasi Indonesia International|Telkomcel|TLS-TC|TCEL
+514|01|GSM 850|PT Telekomunikasi Indonesia International|Telkomcel|TLS-TC|TCEL
+514|01|GSM 900|PT Telekomunikasi Indonesia International|Telkomcel|TLS-TC|TCEL
+514|01|GSM 1800|PT Telekomunikasi Indonesia International|Telkomcel|TLS-TC|TCEL
+539|88|GSM 900|Digicel (Tonga) Limited|Digicel (Tonga) Limited|Digicel Tonga|Digicel
+539|01|GSM 900|Tonga Communications Corporation|U-CALL|U-CALL|U-CALL
+539|01|LTE 1800|Tonga Communications Corporation|U-CALL|U-CALL|U-CALL
+374|130|3G 1900|Digicel Trinidad and Tobago Ltd|Digicel Trinidad and Tobago Ltd|Digicel|Digicel
+374|130|GSM 850|Digicel Trinidad and Tobago Ltd|Digicel Trinidad and Tobago Ltd|Digicel|Digicel
+374|130|GSM 1900|Digicel Trinidad and Tobago Ltd|Digicel Trinidad and Tobago Ltd|Digicel|Digicel
+374|12|GSM 1800|Telecommunications Services of Trinidad and Tobago Ltd|TSTT|TSTT|TSTT
+605|03|GSM 900|Ooredoo Tunisie SA|TUNISIANA|TUNISIANA|TUNISIAN
+605|03|3G 900|Ooredoo Tunisie SA|TUNISIANA|TUNISIANA|TUNISIAN
+605|03|3G 2100|Ooredoo Tunisie SA|TUNISIANA|TUNISIANA|TUNISIAN
+605|02|GSM 900|Tunisie Telecom|TUNTEL|TUNISIE TELECOM|TUNTEL
+605|01|GSM 900|"Orange Tunisie, SA"|Orange TN|Orange TN|OrangeTN
+605|01|GSM 1800|"Orange Tunisie, SA"|Orange TN|Orange TN|OrangeTN
+605|01|3G 2100|"Orange Tunisie, SA"|Orange TN|Orange TN|OrangeTN
+286|03|GSM 1800|Avea Iletisim Hizmetleri A.S.|AVEA|AVEA|AVEA
+286|03|3G 2100|Avea Iletisim Hizmetleri A.S.|AVEA|AVEA|AVEA
+286|02|GSM 900|Vodafone Telekomunikasyon A.S|Vodafone Turkey|Vodafone Türkiye|VF-TR
+286|02|3G 2100|Vodafone Telekomunikasyon A.S|Vodafone Turkey|Vodafone Türkiye|VF-TR
+286|02|LTE-TDD 2600|Vodafone Telekomunikasyon A.S|Vodafone Turkey|Vodafone Türkiye|VF-TR
+286|02|LTE-FDD 800|Vodafone Telekomunikasyon A.S|Vodafone Turkey|Vodafone Türkiye|VF-TR
+286|02|LTE-FDD 2600|Vodafone Telekomunikasyon A.S|Vodafone Turkey|Vodafone Türkiye|VF-TR
+286|02|LTE-FDD 1800|Vodafone Telekomunikasyon A.S|Vodafone Turkey|Vodafone Türkiye|VF-TR
+286|02|LTE-FDD 2100|Vodafone Telekomunikasyon A.S|Vodafone Turkey|Vodafone Türkiye|VF-TR
+286|02|LTE-FDD 900|Vodafone Telekomunikasyon A.S|Vodafone Turkey|Vodafone Türkiye|VF-TR
+286|02|GSM 1800|Vodafone Telekomunikasyon A.S|Vodafone Turkey|Vodafone Türkiye|VF-TR
+286|01|GSM 900|Turkcell Iletisim Hizmetleri A.S.|Turkcell Iletisim Hizmetleri|TR TURKCELL|TCELL
+286|01|3G 2100|Turkcell Iletisim Hizmetleri A.S.|Turkcell Iletisim Hizmetleri|TR TURKCELL|TCELL
+466|88|GSM 1800|Far EasTone Telecommunications Co Ltd|Far EasTone|KGT-Online|KGT
+466|01|GSM 900|Far EasTone Telecommunications Co Ltd|Far EasTone|Far EasTone|FET
+466|01|GSM 1800|Far EasTone Telecommunications Co Ltd|Far EasTone|Far EasTone|FET
+466|01|3G 2100|Far EasTone Telecommunications Co Ltd|Far EasTone|Far EasTone|FET
+466|01|GSM 900|Far EasTone Telecommunications Co Ltd|Far EasTone|Far EasTone|FET
+466|01|GSM 1800|Far EasTone Telecommunications Co Ltd|Far EasTone|Far EasTone|FET
+466|01|3G 2100|Far EasTone Telecommunications Co Ltd|Far EasTone|Far EasTone|FET
+466|01|LTE 700|Far EasTone Telecommunications Co Ltd|Far EasTone|Far EasTone|FET
+466|01|LTE 700|Far EasTone Telecommunications Co Ltd|Far EasTone|Far EasTone|FET
+466|01|LTE 1800|Far EasTone Telecommunications Co Ltd|Far EasTone|Far EasTone|FET
+466|01|LTE 1800|Far EasTone Telecommunications Co Ltd|Far EasTone|Far EasTone|FET
+466|92|GSM 900|Chunghwa Telecom|Chunghwa Telecom|Chunghwa Telecom|Chunghwa
+466|92|GSM 1800|Chunghwa Telecom|Chunghwa Telecom|Chunghwa Telecom|Chunghwa
+466|92|3G 2100|Chunghwa Telecom|Chunghwa Telecom|Chunghwa Telecom|Chunghwa
+466|93|GSM 900|Taiwan Mobile Co.Ltd|MOBITAI|TWN MOBITAI|TW MOB
+466|97|GSM 1800|Taiwan Mobile Co.Ltd|Taiwan Mobile|TW Mobile|TWM
+466|97|GSM 900|Taiwan Mobile Co.Ltd|Taiwan Mobile|TW Mobile|TWM
+466|97|LTE 700/1800|Taiwan Mobile Co.Ltd|Taiwan Mobile|TW Mobile|TWM
+466|99|GSM 900|Taiwan Mobile Co.Ltd|TransAsia|TWM TransAsi|TWM TAT
+466|99|GSM 1800|Taiwan Mobile Co.Ltd|TransAsia|TWM TransAsi|TWM TAT
+466|89|3G 2100|Taiwan Star Telecom Corporation Limited|T Star|T Star|T Star
+466|89|LTE 900|Taiwan Star Telecom Corporation Limited|T Star|T Star|T Star
+466|05|LTE-TDD 2600|"Asia Pacific Telecom Co., Ltd. (APT)"|TWN APT|TWN APT|APT
+466|05|LTE-FDD 700|"Asia Pacific Telecom Co., Ltd. (APT)"|TWN APT|TWN APT|APT
+466|05|LTE-FDD 900|"Asia Pacific Telecom Co., Ltd. (APT)"|TWN APT|TWN APT|APT
+466|12|LTE-FDD 900|"Asia Pacific Telecom Co., Ltd. (APT)"|TWN APT|TWN APT|APT
+466|12|LTE-FDD 700|"Asia Pacific Telecom Co., Ltd. (APT)"|TWN APT|TWN APT|APT
+466|05|GSM 900|"Asia Pacific Telecom Co., Ltd. (APT)"|TWN APT|TWN APT|APT
+466|12|GSM 900|"Asia Pacific Telecom Co., Ltd. (APT)"|TWN APT|TWN APT|APT
+640|05|GSM 900|Airtel Tanzania Limited|Airtel|Airtel|Airtel
+640|05|GSM 1800|Airtel Tanzania Limited|Airtel|Airtel|Airtel
+640|05|GSM 400|Airtel Tanzania Limited|Airtel|Airtel|Airtel
+640|02|3G 900|MIC Tanzania Limited|Tigo|TIGO - TZ|TIGO
+640|02|3G 2100|MIC Tanzania Limited|Tigo|TIGO - TZ|TIGO
+640|02|GSM 900|MIC Tanzania Limited|Tigo|TIGO - TZ|TIGO
+640|02|GSM 1800|MIC Tanzania Limited|Tigo|TIGO - TZ|TIGO
+640|02|LTE 800|MIC Tanzania Limited|Tigo|TIGO - TZ|TIGO
+640|02|LTE 1800|MIC Tanzania Limited|Tigo|TIGO - TZ|TIGO
+640|04|GSM 900|Vodacom Tanzania Limited|Vodacom Tanzania Limited|VodaCom|VodaCom
+640|04|GSM 1800|Vodacom Tanzania Limited|Vodacom Tanzania Limited|VodaCom|VodaCom
+640|03|GSM 900|Zanzibar Telecom Public Limited Company|ZANTEL|ZANTEL-TZ|ZANTEL
+640|03|GSM 1800|Zanzibar Telecom Public Limited Company|ZANTEL|ZANTEL-TZ|ZANTEL
+641|18|GSM 900|Suretelcom Uganda Limited|SMART Uganda|Suretelcom|suretel
+641|18|GSM 1800|Suretelcom Uganda Limited|SMART Uganda|Suretelcom|suretel
+641|14|GSM 900|Africell Uganda Limited|Africell Uganda Limited|Africell Uganda|AUL
+641|14|GSM 1800|Africell Uganda Limited|Africell Uganda Limited|Africell Uganda|AUL
+641|11|3G 2100|Uganda Telecom Ltd|Uganda Telecom|Uganda Telecom|UTL
+641|11|GSM 900|Uganda Telecom Ltd|Uganda Telecom|Uganda Telecom|UTL
+641|10|GSM 900|MTN Uganda Ltd|MTN-UGANDA|MTN-UGANDA|MTN-UG
+641|01|GSM 900|Airtel Uganda Limited|Airtel|Airtel|Airtel
+641|01|GSM 1800|Airtel Uganda Limited|Airtel|Airtel|Airtel
+641|22|GSM 900|Airtel Uganda Limited|Airtel|Airtel|Airtel
+641|22|GSM 1800|Airtel Uganda Limited|Airtel|Airtel|Airtel
+641|04|GSM 1800|Tangerine Limited|TANGERINE|UG TANG|TANG
+641|04|LTE 2600|Tangerine Limited|TANGERINE|UG TANG|TANG
+641|04|LTE-FDD 800|Tangerine Limited|TANGERINE|UG TANG|TANG
+255|07|3G 2100|TriMob LLC|TriMob|TriMob|TriMob
+255|06|3G 2100|lifecell LLC|life:)|life:)|life:)
+255|06|LTE 1800|lifecell LLC|life:)|life:)|life:)
+255|06|LTE 2600|lifecell LLC|life:)|life:)|life:)
+255|06|GSM 900|lifecell LLC|life:)|life:)|life:)
+255|06|GSM 1800|lifecell LLC|life:)|life:)|life:)
+255|02|GSM 900|"Kyivstar, Private Joint Stock Company"|Beeline UA|Beeline UA|Beeline
+255|02|GSM 1800|"Kyivstar, Private Joint Stock Company"|Beeline UA|Beeline UA|Beeline
+255|03|GSM 900|"Kyivstar, Private Joint Stock Company"|KYIVSTAR|UA-KYIVSTAR|UA-KS
+255|03|GSM 1800|"Kyivstar, Private Joint Stock Company"|KYIVSTAR|UA-KYIVSTAR|UA-KS
+255|01|GSM 900|PrJSC VF Ukraine|VODAFONE|VODAFONE|VODAFONE
+255|01|GSM 1800|PrJSC VF Ukraine|VODAFONE|VODAFONE|VODAFONE
+255|01|3G 2100|PrJSC VF Ukraine|VODAFONE|VODAFONE|VODAFONE
+748|07|GSM 850|Telefónica Móviles Del Uruguay S.A.|MOVISTAR|Movistar|Movistar
+748|07|GSM 1900|Telefónica Móviles Del Uruguay S.A.|MOVISTAR|Movistar|Movistar
+748|10|GSM 1900|AM Wireless Uruguay S.A.|CLARO URUGUAY|CLARO URUGUAY|CLARO UY
+748|01|GSM 1800|Antel|Antel|Antel|Antel
+748|01|3G 2100|Antel|Antel|Antel|Antel
+312|060|GSM 1900|Vanu Coverage Co|Vanu Coverage Co|CoverageCo|CvgCo
+311|740|3G 850|"TelAlaska Cellular, Inc."|TelAlaska Cellular|TCI|TCI
+310|120|LTE 2500|Sprint Corporation|Sprint Nextel Coporation|Sprint|Sprint
+310|120|LTE-TDD 2500|Sprint Corporation|Sprint Nextel Coporation|Sprint|Sprint
+310|120|LTE 1900|Sprint Corporation|Sprint Nextel Coporation|Sprint|Sprint
+310|730|GSM 850|United States Cellular Corporation|U.S.Cellular|U.S.Cellular|USCC
+311|580|LTE 850|United States Cellular Corporation|U.S.Cellular|U.S.Cellular|USCC
+311|580|LTE 700|United States Cellular Corporation|U.S.Cellular|U.S.Cellular|USCC
+311|580|LTE 1900|United States Cellular Corporation|U.S.Cellular|U.S.Cellular|USCC
+311|580|LTE 2100|United States Cellular Corporation|U.S.Cellular|U.S.Cellular|USCC
+310|840|GSM 1900|Telecom North America Mobile Inc.|telna Mobile|telna Mobile|telna
+311|990|LTE 700|"Vermont Telephone Company, Inc "|VTel Wireless|VTW US|VTW
+311|990|LTE 1700|"Vermont Telephone Company, Inc "|VTel Wireless|VTW US|VTW
+311|990|LTE 2100|"Vermont Telephone Company, Inc "|VTel Wireless|VTW US|VTW
+311|990|LTE 2500|"Vermont Telephone Company, Inc "|VTel Wireless|VTW US|VTW
+310|890|LTE 700|Verizon Wireless|Verizon Wireless|Verizon|Verizon
+311|480|LTE 700|Verizon Wireless|Verizon Wireless|Verizon|Verizon
+311|480|GSM 850|Verizon Wireless|Verizon Wireless|Verizon|Verizon
+311|480|GSM 1900|Verizon Wireless|Verizon Wireless|Verizon|Verizon
+311|270|LTE 700|Verizon Wireless|Verizon Wireless|Verizon|Verizon
+311|270|GSM 850|Verizon Wireless|Verizon Wireless|Verizon|Verizon
+311|270|GSM 1900|Verizon Wireless|Verizon Wireless|Verizon|Verizon
+310|740|GSM 850|OTZ Telecommunications Inc.|OTZ Cellular|USA OTZ|OTZ
+311|530|GSM 1900|"NewCore Wireless, LLC"|NewCore Wireless LLC|USANW|USANW
+312|260|LTE 1900|"NewCore Wireless, LLC"|"NewCore Wireless, LLC"|USACL|USACL
+310|460|GSM 1900|"NewCore Wireless, LLC"|"NewCore Wireless, LLC"|USA1L|USA1L
+310|190|GSM 850|"The Alaska Wireless Network, LLC "|Alaska Wireless|USA Dutch Harbor|D-HARBOR
+310|050|GSM 1900|"The Alaska Wireless Network, LLC "|GCI Communications Corp.|GCI|GCI
+311|370|GSM 1900|"The Alaska Wireless Network, LLC "|GCI Communications Corp.|GCI|GCI
+311|240|3G 850|Cordova Wireless Communications LLC|Cordova Wireless Communications|USACWCI|CWCI
+310|300|GSM 1900|"iSmart Mobile, LLC "|Big Sky Mobile|BigSkyUS|Big Sky
+310|570|GSM 1900|"MTPCS, LLC"|Cellular One|Cell One|Cell One
+310|710|GSM 850|Arctic Slope Telephone Association Cooperative|Artic Slope Telephone Association Cooperative|USA ASTAC|ASTAC
+311|190|GSM 850|"Cellular Properties, Inc  "|Cellular One of East Central Illinois|USAC1ECI|C1ECI
+311|080|GSM 850|Pine Telephone Company|Pine Cellular|Pine Cellular|PINECell
+311|040|GSM 850|"Commnet Wireless, LLC"|Commnet|USA - Commnet|Commnet
+311|040|GSM 1900|"Commnet Wireless, LLC"|Commnet|USA - Commnet|Commnet
+311|030|GSM 850|"Indigo Wireless, Inc"|Indigo Wireless|Indigo|Indigo
+311|030|3G 850|"Indigo Wireless, Inc"|Indigo Wireless|Indigo|Indigo
+311|030|LTE 850|"Indigo Wireless, Inc"|Indigo Wireless|Indigo|Indigo
+311|030|LTE 1900|"Indigo Wireless, Inc"|Indigo Wireless|Indigo|Indigo
+311|030|GSM 1900|"Indigo Wireless, Inc"|Indigo Wireless|Indigo|Indigo
+310|180|GSM 850|"C T Cube, LP"|West Central Wireless|West Central Wireless|WCW
+310|180|GSM 1900|"C T Cube, LP"|West Central Wireless|West Central Wireless|WCW
+310|450|LTE 2100|"NE Colorado Cellular, Inc"|Viaero Wireless|Cell One of NE Colorado|NECCI
+310|450|3G 850|"NE Colorado Cellular, Inc"|Viaero Wireless|Cell One of NE Colorado|NECCI
+310|450|3G 1900|"NE Colorado Cellular, Inc"|Viaero Wireless|Cell One of NE Colorado|NECCI
+310|450|LTE 700|"NE Colorado Cellular, Inc"|Viaero Wireless|Cell One of NE Colorado|NECCI
+310|450|LTE 1700|"NE Colorado Cellular, Inc"|Viaero Wireless|Cell One of NE Colorado|NECCI
+310|450|LTE 1900|"NE Colorado Cellular, Inc"|Viaero Wireless|Cell One of NE Colorado|NECCI
+310|020|GSM 850|Union Telephone Company|Union Telephone Company|US - Union Telephone|UnionTel
+310|020|GSM 1900|Union Telephone Company|Union Telephone Company|US - Union Telephone|UnionTel
+310|320|LTE 700|"Smith Bagley, Inc."|CellularOne|USA - CellularOne|Cell
+310|320|GSM 850|"Smith Bagley, Inc."|CellularOne|USA - CellularOne|Cell
+310|320|GSM 1900|"Smith Bagley, Inc."|CellularOne|USA - CellularOne|Cell
+310|630|GSM 1900|Choice Wireless LC|CellularOne of Texoma|USA AmeriLink|AMERLINK
+310|530|GSM 1900|"Iowa Wireless Services, LLC"|i wireless|Iowa Wireless USA|IWS
+310|770|GSM 1900|"Iowa Wireless Services, LLC"|i wireless|Iowa Wireless USA|IWS
+310|770|3G 1700|"Iowa Wireless Services, LLC"|i wireless|Iowa Wireless USA|IWS
+310|770|3G 2100|"Iowa Wireless Services, LLC"|i wireless|Iowa Wireless USA|IWS
+310|340|GSM 1900|"Limitless Mobile, LLC"|Limitles Mobile USA|Limitless Mobile|LMUSA
+310|340|3G 1900|"Limitless Mobile, LLC"|Limitles Mobile USA|Limitless Mobile|LMUSA
+310|340|LTE 1900|"Limitless Mobile, LLC"|Limitles Mobile USA|Limitless Mobile|LMUSA
+311|600|GSM 1900|"Limitless Mobile, LLC"|Limitles Mobile USA|Limitless Mobile|LMUSA
+311|600|3G 1900|"Limitless Mobile, LLC"|Limitles Mobile USA|Limitless Mobile|LMUSA
+311|600|LTE 1900|"Limitless Mobile, LLC"|Limitles Mobile USA|Limitless Mobile|LMUSA
+312|180|GSM 1900|"Limitless Mobile, LLC"|Limitles Mobile USA|Limitless Mobile|LMUSA
+312|180|3G 1900|"Limitless Mobile, LLC"|Limitles Mobile USA|Limitless Mobile|LMUSA
+312|180|LTE 1900|"Limitless Mobile, LLC"|Limitles Mobile USA|Limitless Mobile|LMUSA
+310|690|GSM 1900|"Limitless Mobile, LLC"|Limitles Mobile USA|Limitless Mobile|LMUSA
+310|690|3G 1900|"Limitless Mobile, LLC"|Limitles Mobile USA|Limitless Mobile|LMUSA
+310|690|LTE 1900|"Limitless Mobile, LLC"|Limitles Mobile USA|Limitless Mobile|LMUSA
+310|160|GSM 1900|"T-Mobile USA, Inc"|T-Mobile USA|T-Mobile|T-Mobile
+310|200|GSM 1900|"T-Mobile USA, Inc"|T-Mobile USA|T-Mobile|T-Mobile
+310|220|GSM 1900|"T-Mobile USA, Inc"|T-Mobile USA|T-Mobile|T-Mobile
+310|230|GSM 1900|"T-Mobile USA, Inc"|T-Mobile USA|T-Mobile|T-Mobile
+310|240|GSM 1900|"T-Mobile USA, Inc"|T-Mobile USA|T-Mobile|T-Mobile
+310|250|GSM 1900|"T-Mobile USA, Inc"|T-Mobile USA|T-Mobile|T-Mobile
+310|260|GSM 1900|"T-Mobile USA, Inc"|T-Mobile USA|T-Mobile|T-Mobile
+310|270|GSM 1900|"T-Mobile USA, Inc"|T-Mobile USA|T-Mobile|T-Mobile
+310|310|GSM 1900|"T-Mobile USA, Inc"|T-Mobile USA|T-Mobile|T-Mobile
+311|660|LTE 700|"T-Mobile USA, Inc"|T-Mobile USA|Metro PCS|MPCS
+311|660|LTE 1900|"T-Mobile USA, Inc"|T-Mobile USA|Metro PCS|MPCS
+311|660|LTE 1700/2100|"T-Mobile USA, Inc"|T-Mobile USA|Metro PCS|MPCS
+310|260|LTE 700|"T-Mobile USA, Inc"|T-Mobile USA|T-Mobile|T-Mobile
+310|260|LTE 1900|"T-Mobile USA, Inc"|T-Mobile USA|T-Mobile|T-Mobile
+310|260|LTE 1700/2100|"T-Mobile USA, Inc"|T-Mobile USA|T-Mobile|T-Mobile
+310|490|GSM 1900|"T-Mobile USA, Inc"|T-Mobile USA|T-Mobile|T-Mobile
+310|800|GSM 1900|"T-Mobile USA, Inc"|T-Mobile USA|T-Mobile|T-Mobile
+310|660|GSM 1900|"T-Mobile USA, Inc"|T-Mobile USA|T-Mobile|T-Mobile
+310|210|GSM 1900|"T-Mobile USA, Inc"|T-Mobile USA|T-Mobile|T-Mobile
+310|260|3G 1900|"T-Mobile USA, Inc"|T-Mobile USA|T-Mobile|T-Mobile
+310|260|3G 1700/2100|"T-Mobile USA, Inc"|T-Mobile USA|T-Mobile|T-Mobile
+310|150|GSM 850|AT&T Mobility|AT&T Mobility|AT&T|AT&T
+310|150|3G 850|AT&T Mobility|AT&T Mobility|AT&T|AT&T
+310|150|3G 1900|AT&T Mobility|AT&T Mobility|AT&T|AT&T
+310|150|GSM 1900|AT&T Mobility|AT&T Mobility|AT&T|AT&T
+310|170|GSM 850|AT&T Mobility|AT&T Mobility|AT&T|AT&T
+310|170|3G 850|AT&T Mobility|AT&T Mobility|AT&T|AT&T
+310|170|3G 1900|AT&T Mobility|AT&T Mobility|AT&T|AT&T
+310|170|GSM 1900|AT&T Mobility|AT&T Mobility|AT&T|AT&T
+310|380|GSM 850|AT&T Mobility|AT&T Mobility|AT&T|AT&T
+310|380|3G 850|AT&T Mobility|AT&T Mobility|AT&T|AT&T
+310|380|3G 1900|AT&T Mobility|AT&T Mobility|AT&T|AT&T
+310|380|GSM 1900|AT&T Mobility|AT&T Mobility|AT&T|AT&T
+310|410|GSM 850|AT&T Mobility|AT&T Mobility|AT&T|AT&T
+310|410|3G 850|AT&T Mobility|AT&T Mobility|AT&T|AT&T
+310|410|3G 1900|AT&T Mobility|AT&T Mobility|AT&T|AT&T
+310|410|GSM 1900|AT&T Mobility|AT&T Mobility|AT&T|AT&T
+310|280|GSM 1900|AT&T Mobility|AT&T Mobility|AT&T|AT&T
+310|280|GSM 850|AT&T Mobility|AT&T Mobility|AT&T|AT&T
+310|280|3G 850|AT&T Mobility|AT&T Mobility|AT&T|AT&T
+310|280|3G 1900|AT&T Mobility|AT&T Mobility|AT&T|AT&T
+310|030|GSM 1900|AT&T Mobility|AT&T Mobility|AT&T|AT&T
+310|030|GSM 850|AT&T Mobility|AT&T Mobility|AT&T|AT&T
+310|030|3G 850|AT&T Mobility|AT&T Mobility|AT&T|AT&T
+310|030|3G 1900|AT&T Mobility|AT&T Mobility|AT&T|AT&T
+310|150|LTE 700|AT&T Mobility|AT&T Mobility|AT&T|AT&T
+310|170|LTE 700|AT&T Mobility|AT&T Mobility|AT&T|AT&T
+310|380|LTE 700|AT&T Mobility|AT&T Mobility|AT&T|AT&T
+310|410|LTE 700|AT&T Mobility|AT&T Mobility|AT&T|AT&T
+310|280|LTE 700|AT&T Mobility|AT&T Mobility|AT&T|AT&T
+310|030|LTE 700|AT&T Mobility|AT&T Mobility|AT&T|AT&T
+310|150|LTE 1700/2100|AT&T Mobility|AT&T Mobility|AT&T|AT&T
+310|170|LTE 1700/2100|AT&T Mobility|AT&T Mobility|AT&T|AT&T
+310|380|LTE 1700/2100|AT&T Mobility|AT&T Mobility|AT&T|AT&T
+310|410|LTE 1700/2100|AT&T Mobility|AT&T Mobility|AT&T|AT&T
+310|280|LTE 1700/2100|AT&T Mobility|AT&T Mobility|AT&T|AT&T
+310|030|LTE 1700/2100|AT&T Mobility|AT&T Mobility|AT&T|AT&T
+311|710|GSM 1900|"Northeast Wireless Networks, LLC"|Northeast Wireless Networks|Northeast Wireless|NEWN
+312|230|LTE 1900|North Dakota Network Company|SRT Wireless|SRT Wireless|SRTW
+312|480|GSM 850|"Sagebrush Cellular, Inc."|Nemont|Nemont|Nemont
+312|480|GSM 1900|"Sagebrush Cellular, Inc."|Nemont|Nemont|Nemont
+312|480|LTE 700|"Sagebrush Cellular, Inc."|Nemont|Nemont|Nemont
+312|630|GSM 1800|"NetGenuity, Inc"|"NetGenuity, Inc"|NetGenuity|NetGenui
+312|630|GSM 1900|"NetGenuity, Inc"|"NetGenuity, Inc"|NetGenuity|NetGenui
+312|420|LTE 700|Nex-Tech Wireless LLC|Nex-Tech Wireless|Nex-Tech Wireless USA|NTW
+312|420|LTE 1900|Nex-Tech Wireless LLC|Nex-Tech Wireless|Nex-Tech Wireless USA|NTW
+311|810|LTE 1700|Bluegrass Wireless LLC|Bluegrass Wireless|Bluegrass Wireless|BW
+310|58|LTE 850|"Inland Cellular, LLC"|Inland Cellular LLC|Inland Cellular|IC
+310|990|LTE 700|Evolve Cellular Inc.|Worldcall|Worldcall|Evolve
+312|870|LTE 700|GigSky Mobile LLC|GigSky Mobile|GigSky|GigSky
+312|280|LTE 1900|"Cellular Network Partnership, An Oklahoma Limited Partnership "|Pioneer Cellular|Pioneer|CNP
+312|280|LTE 700|"Cellular Network Partnership, An Oklahoma Limited Partnership "|Pioneer Cellular|Pioneer|CNP
+313|070|PCS 1900|"Midwest Network Solutions Hub, LLC. "|MNSHub|MNSHub|MNSHub
+312|290|LTE 850|"Uintah Basin Electronic Telecommunications, L.L.C. (Strata Networks)"|"Uintah Basin Electronic Telecommunications, LLC D/B/A Strata Networks"|Strata Networks USA|Strata
+312|290|LTE 1700|"Uintah Basin Electronic Telecommunications, L.L.C. (Strata Networks)"|"Uintah Basin Electronic Telecommunications, LLC D/B/A Strata Networks"|Strata Networks USA|Strata
+312|290|LTE 2100|"Uintah Basin Electronic Telecommunications, L.L.C. (Strata Networks)"|"Uintah Basin Electronic Telecommunications, LLC D/B/A Strata Networks"|Strata Networks USA|Strata
+311|230|LTE 700|Cellular South Inc. d.b.a. C Spire|C Spire|C Spire|C Spire
+311|230|LTE 850|Cellular South Inc. d.b.a. C Spire|C Spire|C Spire|C Spire
+311|230|LTE 1900|Cellular South Inc. d.b.a. C Spire|C Spire|C Spire|C Spire
+311|630|LTE 700|Cellular South Inc. d.b.a. C Spire|C Spire|C Spire|C Spire
+311|630|LTE 850|Cellular South Inc. d.b.a. C Spire|C Spire|C Spire|C Spire
+311|630|LTE 1900|Cellular South Inc. d.b.a. C Spire|C Spire|C Spire|C Spire
+313|380|LTE 1900|OptimERA Inc.|OptimERA Wireless|OptimERA|OptimERA
+313|380|LTE 2500|OptimERA Inc.|OptimERA Wireless|OptimERA|OptimERA
+434|04|GSM 900|Unitel LLC|Beeline|Beeline UZ|Beeline
+434|04|GSM 1800|Unitel LLC|Beeline|Beeline UZ|Beeline
+434|04|3G 2100|Unitel LLC|UNITEL|Beeline UZ|Beeline
+434|05|GSM 900|Coscom LLC|Ucell|UZB Ucell|Ucell
+434|05|GSM 1800|Coscom LLC|Ucell|UZB Ucell|Ucell
+434|05|3G 2100|Coscom LLC|Ucell|UZB Ucell|Ucell
+434|05|LTE 700|Coscom LLC|Ucell|UZB Ucell|Ucell
+434|05|LTE 2600|Coscom LLC|Ucell|UZB Ucell|Ucell
+434|07|GSM 900|"Universal Mobile Systems, LLC"|UMS|UMS-UZB|UMS
+434|07|GSM 1800|"Universal Mobile Systems, LLC"|UMS|UMS-UZB|UMS
+434|07|3G 2100|"Universal Mobile Systems, LLC"|UMS|UMS-UZB|UMS
+434|07|LTE 800|"Universal Mobile Systems, LLC"|UMS|UMS-UZB|UMS
+434|07|LTE 2500|"Universal Mobile Systems, LLC"|UMS|UMS-UZB|UMS
+434|08|GSM 900|Uzbektelecom Joint-Stock Company|UzMobile|UzMobile|UzMobile
+434|08|GSM 1800|Uzbektelecom Joint-Stock Company|UzMobile|UzMobile|UzMobile
+434|08|3G 2100|Uzbektelecom Joint-Stock Company|UzMobile|UzMobile|UzMobile
+360|110|GSM 850|Cable & Wireless (St. Vincent & the Grenadines) Ltd|FLOW|FLOW|FLOW
+360|070|GSM 900|Digicel SVG Ltd|Digicel (St. Vincent and Grenadines)|DIGICEL|DIGICEL
+360|070|GSM 1800|Digicel SVG Ltd|Digicel (St. Vincent and Grenadines)|DIGICEL|DIGICEL
+734|06|GSM 850|Telecomunicaciones Movilnet C.A.|Telecomunicaciones Movilnet|VE_MOVILNET|Movilnet
+734|04|GSM 850|"Telefónica Venezolana, C.A."|Movistar|Movistar|Movistar
+734|02|GSM 900|Corporacion Digitel C.A.|DIGITEL|DIGITEL|DIGITEL
+734|02|GSM 1800|Corporacion Digitel C.A.|DIGITEL|DIGITEL|DIGITEL
+734|02|3G 900|Corporacion Digitel C.A.|DIGITEL|DIGITEL|DIGITEL
+734|02|LTE 1800|Corporacion Digitel C.A.|DIGITEL|DIGITEL|DIGITEL
+348|170|GSM 850|Cable and Wireless (BVI) Ltd|FLOW|FLOW|FLOW
+348|570|GSM 900|Caribbean Cellular Telephone |CCT|CCT Boatphone|CCTBVI
+348|570|GSM 1900|Caribbean Cellular Telephone |CCT|CCT Boatphone|CCTBVI
+452|05|GSM 900|Vietnamobile Telecommunications Joint Stock Company|Vietnamobile|Vietnamobile|VNMOBILE
+452|05|3G 2100|Vietnamobile Telecommunications Joint Stock Company|Vietnamobile|Vietnamobile|VNMOBILE
+452|05|LTE 900|Vietnamobile Telecommunications Joint Stock Company|Vietnamobile|Vietnamobile|VNMOBILE
+452|05|LTE 2100|Vietnamobile Telecommunications Joint Stock Company|Vietnamobile|Vietnamobile|VNMOBILE
+452|05|3G 900|Vietnamobile Telecommunications Joint Stock Company|Vietnamobile|Vietnamobile|VNMOBILE
+452|07|GSM 1800|GTEL Mobile Joint Stock Company (GTEL Mobile)|Gmobile|Gmobile|Gmobile
+452|01|GSM 900|MOBIFONE CORPORATION|Mobifone|VN Mobifone|Mobifone
+452|01|GSM 1800|MOBIFONE CORPORATION|Mobifone|VN Mobifone|Mobifone
+452|01|3G 2100|MOBIFONE CORPORATION|Mobifone|VN Mobifone|Mobifone
+452|04|3G 2100|Viettel Group|Viettel|VIETTEL|VIETTEL
+452|04|GSM 900|Viettel Group|Viettel|VIETTEL|VIETTEL
+452|04|GSM 1800|Viettel Group|Viettel|VIETTEL|VIETTEL
+452|04|LTE 1800|Viettel Group|Viettel|VIETTEL|VIETTEL
+452|02|GSM 900|Vietnam Posts and Telecommunications Group (VNPT)|VINAPHONE|VN VINAPHONE|GPC
+541|05|GSM 900|Digicel (Vanuatu) Ltd|Digicel|Digicel|Digicel
+541|05|3G 900|Digicel (Vanuatu) Ltd|Digicel|Digicel|Digicel
+541|01|GSM 900|Telecom Vanuatu Limited|SMILE|VUT SMILE|SMILE
+543|01|3G 900|Service des Postes et Télécommunications des Îles Wallis et Futuna (SPT)|Manuia|Manuia|Manuia
+543|01|LTE 900|Service des Postes et Télécommunications des Îles Wallis et Futuna (SPT)|Manuia|Manuia|Manuia
+549|00|GSM 900|Digicel (Samoa) Limited|Digicel|DIGICEL|DIGICEL
+549|27|3G 900|Bluesky Samoa Limited|Bluesky Samoa Limited|Bluesky|Bluesky
+549|27|GSM 900|Bluesky Samoa Limited|Bluesky Samoa Limited|Bluesky|Bluesky
+421|04|GSM 900|Y-Telecom|Y-Telecom|Y-Telecom|Y
+421|01|GSM 900|Yemen Mobile Phone Company - Sabafon|Yemen Company for Mobile Telephony|SabaFon|SABAFON
+421|02|GSM 900|MTN Yemen|MTN|MTN|MTN
+655|02|LTE 1800|Telkom SA Ltd|Telkom SA Ltd|Telkom SA|Telkom
+655|02|LTE 2100|Telkom SA Ltd|Telkom SA Ltd|Telkom SA|Telkom
+655|02|LTE 2300|Telkom SA Ltd|Telkom SA Ltd|Telkom SA|Telkom
+655|05|GSM 900|Telkom SA Ltd|Telkom SA Ltd|Telkom SA|Telkom
+655|05|GSM 1800|Telkom SA Ltd|Telkom SA Ltd|Telkom SA|Telkom
+655|05|3G 900|Telkom SA Ltd|Telkom SA Ltd|Telkom SA|Telkom
+655|05|3G 2100|Telkom SA Ltd|Telkom SA Ltd|Telkom SA|Telkom
+655|05|LTE 1800|Telkom SA Ltd|Telkom SA Ltd|Telkom SA|Telkom
+655|02|GSM 1800|Telkom SA Ltd|Telkom SA Ltd|Telkom SA|Telkom
+655|02|3G 2100|Telkom SA Ltd|Telkom SA Ltd|Telkom SA|Telkom
+655|07|GSM 900|Cell C (Pty) Ltd|Cell C|Cell C|Cell C
+655|07|GSM 1800|Cell C (Pty) Ltd|Cell C|Cell C|Cell C
+655|07|3G 2100|Cell C (Pty) Ltd|Cell C|Cell C|Cell C
+655|01|GSM 900|Vodacom (Pty) Ltd. |VodaCom|VodaCom-SA|Vodacom
+655|01|3G 2100|Vodacom (Pty) Ltd. |VodaCom|VodaCom-SA|Vodacom
+655|01|LTE 1800|Vodacom (Pty) Ltd. |VodaCom|VodaCom-SA|Vodacom
+655|01|GSM 1800|Vodacom (Pty) Ltd. |VodaCom|VodaCom-SA|Vodacom
+655|10|3G 2100|Mobile Telephone Networks (Pty) Ltd.|MTN-SA|MTN-SA|MTN
+655|10|GSM 900|Mobile Telephone Networks (Pty) Ltd.|MTN-SA|MTN-SA|MTN
+655|10|GSM 1800|Mobile Telephone Networks (Pty) Ltd.|MTN-SA|MTN-SA|MTN
+655|10|LTE 1800|Mobile Telephone Networks (Pty) Ltd.|MTN-SA|MTN-SA|MTN
+655|10|3G 900|Mobile Telephone Networks (Pty) Ltd.|MTN-SA|MTN-SA|MTN
+655|38|LTE 1800|Rain Networks PTY Ltd.|rain|rain|rain
+645|03|GSM 900|Zambia Telecommunications Company Ltd (ZAMTEL)|ZAMTEL|ZAMTEL|ZAMTEL
+645|02|GSM 900|MTN (Zambia) Ltd|MTN ZAMBIA|MTN ZM|MTN ZM
+645|01|GSM 900|Airtel Networks Zambia Plc.|Airtel|Airtel|Airtel
+648|01|GSM 900|Net*One Cellular (Pvt) Ltd|Net*One Cellular|ZW NET*ONE|NETONE
+648|04|GSM 900|Econet Wireless (Private) Limited|ECONET|ZW ECONET|ECONET
+648|04|3G 2100|Econet Wireless (Private) Limited|ECONET|ZW ECONET|ECONET
+648|04|LTE 1800|Econet Wireless (Private) Limited|ECONET|ZW ECONET|ECONET
+648|03|GSM 900|Telecel Zimbabwe (PVT) Ltd|TELECEL|TELECEL ZW|TELECEL

@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>YunFile</title>
+    <!-- zui css -->
+    <link rel="stylesheet" href="src/app.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/zui@1.8.1/dist/css/zui.lite.min.css">
+	
+	<!--use  local js
+	<script src="src/jquery-3.2.1.mini.js"></script>
+	<script src="src/cos-js-sdk-v4.js"></script>
+	<script src="src/rivets.min.js"></script>
+	<script src="src/zui.lite.min.js"></script>
+	--!>
+	<!--jsdelivr cdn combo all js-->
+    <script src="https://cdn.jsdelivr.net/combine/npm/sightglass@0.2.6/index.min.js,npm/rivets@0.9.6/dist/rivets.min.js,npm/jquery@2.2.4/dist/jquery.min.js,npm/cos-js-sdk-v4@1.1.11/dist/cos-js-sdk-v4.min.js,npm/zui@1.8.1/dist/js/zui.lite.min.js"></script> 
+</head>
+<body class="sidebar-collapse" style="height: auto; min-height: 100%;">
+    <div class="wrapper">
+        <header class="main-header">
+            <nav class="navbar navbar-fixed-top bg-primary">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="#">
+                        <span class="logo">YunFile</span>
+                        <span class="logo-mini">YunFile</span> 
+                    </a>
+                </div>
+                <div class="collapse navbar-collapse">
+                    <div class="container-fluid">
+                        <ul class="nav navbar-nav navbar-right">
+                            <li>
+                                <a href="javascript:;">
+                                    <span>
+                                        <i class="icon icon-envelope-alt"></i>
+                                        <span class="label label-success label-pill up">2</span>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="dropdown">
+                                <a href="javascript:;" data-toggle="dropdown"><i class="icon icon-user"></i> 管理员 <span class="caret"></span></a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="#">资料设置</a></li>
+                                    <li class="divider"></li>
+                                    <li><a href="#">注销</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </header>
+        
+        <div class="content-wrapper">
+            <div class="content-header">
+                <ul class="breadcrumb">
+                    <li><a href="#"><i class="icon icon-home"></i></a></li>
+                    <li class="active">文件列表</li>
+                </ul>
+            </div>
+            <div class="content-body">
+                <div class="container-fluid">
+                        <div class="alert alert-info">
+                                <div class="content">
+                                    <strong>状态 </strong>:
+                                    <em id='status_resutl'>就绪</em>
+                                </div>
+                              </div>
+                    <div class="panel">
+                        <div class="panel-heading">
+                            <div class="panel-title">文件列表</div>
+                        </div>
+                        <div class="panel-body">
+                            <div class="table-tools" style="margin-bottom: 15px;">
+                                <div class="pull-right" style="width: 250px;">
+                                    <div class="input-group">
+                                        <input type="text" class="form-control" placeholder="关键字">
+                                        <span class="input-group-btn">
+                                            <button class="btn btn-default" type="button">搜索</button>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="tools-group">
+                                    <form id="form">
+                                            <input id="js-file" type="file" style="display:none;"/>
+                                    </form>
+                                    <a href="#" id="uploadFile" class="btn btn-primary"><i class="icon icon-upload"></i> 上传文件</a>
+                                    <a href="#" id="getUploadList"  class="btn btn-success"><i class="icon icon-list"></i> 刷新列表</a>
+                                    <!--
+                                    <a href="#" class="btn btn-danger"><i class="icon icon-remove-sign"></i> 删除</a>
+                                    -->
+                                </div>
+                            </div>
+                            <table class="table table-bordered">
+                                <thead>
+                                    <tr>
+                                        <th width="30">
+                                            <input type="checkbox">
+                                        </th>
+                                        <th width="42">ID</th>
+                                        <th>源文件名</th>
+                                        <th>大小</th>
+                                        <th>结果文件</th>
+                                        <th>上传时间</th>
+                                        <th>备注</th>
+                                        <th>操作</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="tablebody">
+                                    <tr rv-each-tabletrs="tabletrs">
+                                        <td><input type="checkbox"></td>
+                                        <td>{%tabletrs%}</td>
+                                        <td><a rv-href="tabletrs.src_url" target="_blank">{tabletrs.src_name}</a></td>
+                                        <td>{tabletrs.src_filesize}</td>
+                                        <td><a rv-href="tabletrs.lst_url" target="_blank">{tabletrs.lst_name}</a></td>
+                                        <td>{tabletrs.src_time}</td>
+                                        <td>__ :) __</td>
+                                        <td>
+                                            <a href="#" rv-on-click="tabletrs.del_file" class="btn btn-danger"><i class="icon icon-remove-sign"></i> 删除</a>
+                                        </td>
+                                    </tr>
+                                    <tr id="loading">
+                                        <td colspan="8" align="center">Loading.......</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> 
+    </div>
+</body>
+
+
+<script src="src/bs.js"></script>
+<script>
+var tabletrs = []
+rivets.bind($("#tablebody"), {
+  tabletrs: tabletrs
+})
+
+$(function(){
+    $("#getUploadList").click()
+})
+</script>
+</html>
