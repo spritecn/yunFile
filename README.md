@@ -1,4 +1,4 @@
-# 基于腾讯云 COS + CSF + apiGetway 实现线上对比后下载结果
+# 基于腾讯云 COS + CSF(lambda) + apiGetway 实现线上对比后下载结果
 
 ## 已上线:[gsmf.fantansy.cn](http://gsmf.fantansy.cn)
 
